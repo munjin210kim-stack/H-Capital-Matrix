@@ -1,0 +1,10 @@
+{
+  "news": [
+    { "division": "SDV본부", "d": "2026-07-01", "t": "현대차 Pleos 기반 SDV 전환 가속, 2026년 양산 모델 확대", "s": "예시 데이터", "u": "https://www.hyundai.com" },
+    { "division": "AVP본부", "d": "2026-06-20", "t": "현대차 레벨4 자율주행 시범 서비스 지역 확대 검토", "s": "예시 데이터", "u": "https://www.hyundai.com" },
+    { "division": "수소연료전지", "d": "2026-06-15", "t": "현대차 HTWO 3세대 연료전지 스택 수출 계약 체결", "s": "예시 데이터", "u": "https://www.hyundai.com" },
+    { "division": "경쟁사", "t": "테슬라, 4680 배터리 신공장 CAPEX 확대 발표", "d": "2026-06-10", "s": "예시 데이터", "u": "https://www.tesla.com" }
+  ],
+  "fx": { "usdkrw": 1390.0, "updatedAt": "2026-07-06T00:00:00.000Z" },
+  "updatedAt": "2026-07-06T00:00:00.000Z"
+}
