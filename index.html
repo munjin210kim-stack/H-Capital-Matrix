@@ -52,9 +52,43 @@
         ::-webkit-scrollbar-track { background: #090d16; }
         ::-webkit-scrollbar-thumb { background: #1f293d; border-radius: 3px; }
         ::-webkit-scrollbar-thumb:hover { background: #2d3b54; }
+
+        /* H-Capital AI 궤도(orbit) 애니메이션 아이콘 */
+        .hc-orbit { position: relative; width: 30px; height: 30px; flex-shrink: 0; }
+        .hc-orbit .hc-core {
+            position: absolute; inset: 8px; border-radius: 50%;
+            background: radial-gradient(circle at 35% 32%, #8FE8FF, #00A3E0 60%, #0a5578);
+            box-shadow: 0 0 12px rgba(0, 163, 224, 0.65);
+            transition: box-shadow .3s;
+        }
+        .hc-orbit .hc-ring {
+            position: absolute; inset: 0; border-radius: 50%;
+            border: 1px solid rgba(0, 163, 224, 0.35); border-right-color: transparent;
+            animation: hc-spin 4.5s linear infinite;
+        }
+        .hc-orbit .hc-ring.b {
+            inset: 3px; border-color: rgba(56, 189, 248, 0.32); border-left-color: transparent;
+            animation-duration: 7s; animation-direction: reverse;
+        }
+        .hc-orbit.thinking .hc-ring { animation-duration: 1.1s; }
+        .hc-orbit.thinking .hc-ring.b { animation-duration: 1.6s; }
+        .hc-orbit.thinking .hc-core { box-shadow: 0 0 20px rgba(0, 163, 224, 0.95); }
+        @keyframes hc-spin { to { transform: rotate(360deg); } }
+
+        /* 타이핑(생각 중) 인디케이터 */
+        .hc-typing { display: flex; gap: 4px; padding: 2px 0; }
+        .hc-typing i {
+            width: 4px; height: 4px; border-radius: 50%; background: #00A3E0;
+            animation: hc-bounce 1.3s infinite;
+        }
+        .hc-typing i:nth-child(2) { animation-delay: .16s; }
+        .hc-typing i:nth-child(3) { animation-delay: .32s; }
+        @keyframes hc-bounce { 0%, 60%, 100% { opacity: .25; transform: translateY(0); } 30% { opacity: 1; transform: translateY(-3px); } }
     </style>
 </head>
-<body class="h-full bg-hyundai-900 text-slate-100 flex flex-col antialiased selection:bg-hyundai-cyan selection:text-black">
+<body class="h-full bg-hyundai-900 text-slate-100 flex antialiased selection:bg-hyundai-cyan selection:text-black">
+
+<div id="app-main" class="flex-1 min-w-0 h-full overflow-y-auto flex flex-col">
 
     <!-- Top Header Navigation -->
     <header class="bg-hyundai-950/90 backdrop-blur border-b border-slate-800/80 sticky top-0 z-40">
@@ -76,6 +110,11 @@
 
             <!-- Header Right Controls & Scenario Selector -->
             <div class="flex items-center space-x-3">
+                <!-- Live Date Badge -->
+                <div class="hidden lg:flex items-center space-x-1.5 text-[10.5px] text-slate-500 font-medium">
+                    <i class="fa-regular fa-clock"></i>
+                    <span id="live-date-badge">-</span>
+                </div>
                 <!-- Scenario Mode Badge -->
                 <div class="hidden md:flex items-center space-x-2 bg-slate-900/90 border border-slate-800 px-3 py-1.5 rounded-lg text-xs">
                     <span class="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
@@ -95,6 +134,17 @@
 
     <main class="flex-1 max-w-[1700px] w-full mx-auto px-4 sm:px-6 lg:px-8 py-5 space-y-4 overflow-y-auto">
 
+        <!-- Daily Briefing (AI 자동 생성, 매일 06:00 KST 갱신) -->
+        <div class="bg-hyundai-800/90 border border-hyundai-cyan/25 rounded-xl px-4 py-3 space-y-1.5" style="background: linear-gradient(90deg, rgba(0,163,224,0.08), rgba(9,13,22,0.4) 55%);">
+            <div class="flex items-center space-x-2">
+                <span class="w-2 h-2 rounded-full bg-hyundai-cyan animate-pulse"></span>
+                <span class="text-[10px] font-bold text-hyundai-cyan uppercase tracking-wider">Daily Briefing</span>
+                <span class="text-[10px] text-slate-500" id="briefing-date">·</span>
+            </div>
+            <p class="text-base font-black text-white" id="briefing-headline">투자 환경 브리핑을 준비 중입니다...</p>
+            <div class="flex flex-wrap gap-x-6 gap-y-1 text-[11px] text-slate-400" id="briefing-points"></div>
+        </div>
+
         <!-- 2025 Hyundai Public Disclosure Reference Banner -->
         <div class="bg-slate-900/90 border border-slate-800 rounded-xl px-4 py-2.5 flex flex-wrap items-center justify-between text-xs gap-3">
             <div class="flex items-center space-x-2 text-slate-300">
@@ -107,6 +157,37 @@
                 <div><span class="text-slate-500">영업이익:</span> <span class="text-white font-bold">11.5조 원</span></div>
                 <div class="h-3 w-px bg-slate-800"></div>
                 <div><span class="text-slate-500">전사 CAPEX 총예산:</span> <span class="text-amber-400 font-bold">9.0조 원</span> <span class="text-slate-500 text-[10px]">(R&D 7.4조 별도)</span></div>
+            </div>
+        </div>
+
+        <!-- Real-time Market Indicators & Industry News (자동 갱신: 매일 06:00 KST) -->
+        <div class="grid grid-cols-1 lg:grid-cols-12 gap-4">
+            <!-- Market Indicator Card -->
+            <div class="lg:col-span-3 bg-hyundai-800/90 p-4 rounded-xl border border-slate-800/80 shadow-md flex flex-col justify-between">
+                <div class="flex items-center space-x-2 pb-2 border-b border-slate-800">
+                    <i class="fa-solid fa-chart-simple text-hyundai-cyan"></i>
+                    <h2 class="text-xs font-bold text-white tracking-wide">실시간 시장 지표</h2>
+                </div>
+                <div class="mt-3 space-y-1">
+                    <p class="text-[10px] text-slate-500">원/달러 환율 (USD/KRW)</p>
+                    <p class="text-2xl font-black text-hyundai-cyan tracking-tight" id="fx-usdkrw">-</p>
+                    <p class="text-[10px] text-slate-500 leading-relaxed">해외 CAPEX 집행 비용 및 수입 원자재 단가에 직접 연동되는 지표입니다. 2025 WACC 가정(7.8%)의 참고 시장금리 환경을 함께 보여줍니다.</p>
+                </div>
+                <p class="text-[10px] text-slate-600 mt-3 pt-2 border-t border-slate-800" id="market-updated-at">갱신: -</p>
+            </div>
+
+            <!-- Industry News Card -->
+            <div class="lg:col-span-9 bg-hyundai-800/90 p-4 rounded-xl border border-slate-800/80 shadow-md">
+                <div class="flex items-center justify-between pb-2 border-b border-slate-800">
+                    <div class="flex items-center space-x-2">
+                        <i class="fa-solid fa-newspaper text-hyundai-cyan"></i>
+                        <h2 class="text-xs font-bold text-white tracking-wide">관련 산업 뉴스</h2>
+                        <span class="text-[10px] text-slate-500">사업부·경쟁사 태그 연동, 매일 자동 갱신</span>
+                    </div>
+                </div>
+                <div id="news-list" class="mt-2 max-h-[190px] overflow-y-auto space-y-1.5 pr-1">
+                    <!-- Populated by JavaScript -->
+                </div>
             </div>
         </div>
 
@@ -346,6 +427,42 @@
 
     </main>
 
+</div><!-- /#app-main -->
+
+<!-- H-Capital AI Chat Panel -->
+<aside id="chat-panel" class="w-[380px] flex-shrink-0 h-full border-l border-slate-800/80 bg-hyundai-950/95 backdrop-blur flex flex-col">
+    <div class="flex items-center px-4 py-3.5 border-b border-slate-800 space-x-2.5">
+        <div class="hc-orbit" id="hc-orbit">
+            <div class="hc-ring"></div>
+            <div class="hc-ring b"></div>
+            <div class="hc-core"></div>
+        </div>
+        <div class="flex-1 min-w-0">
+            <p class="text-xs font-bold text-white tracking-wide">H-Capital AI</p>
+            <p class="text-[9.5px] text-slate-500" id="chat-status">CAPEX SCORING ASSISTANT</p>
+        </div>
+        <button onclick="toggleChatPanel()" class="text-slate-400 hover:text-white text-xs px-2 py-1 rounded border border-slate-700 hover:border-slate-500 transition">숨기기</button>
+    </div>
+
+    <div id="chat-log" class="flex-1 overflow-y-auto px-3.5 py-3 space-y-3 text-[11.5px] leading-relaxed"></div>
+
+    <div id="chat-chips" class="px-3.5 pb-2 flex flex-wrap gap-1.5"></div>
+
+    <div class="border-t border-slate-800 p-2.5">
+        <div class="bg-slate-900 border border-slate-700 rounded-lg focus-within:border-hyundai-cyan transition">
+            <textarea id="chat-input" rows="2" placeholder="투자 안건, 가중치, 리스크에 대해 질문하세요" class="w-full bg-transparent border-0 resize-none text-white text-xs px-3 py-2.5 focus:outline-none placeholder:text-slate-500"></textarea>
+            <div class="flex items-center justify-between px-2 pb-2">
+                <span class="text-[9.5px] text-slate-500">ENTER 전송 · SHIFT+ENTER 줄바꿈</span>
+                <button id="chat-send-btn" onclick="sendChat()" class="bg-hyundai-cyan text-slate-950 font-bold text-[10.5px] px-3 py-1.5 rounded-md hover:bg-cyan-400 transition">SEND</button>
+            </div>
+        </div>
+    </div>
+</aside>
+
+<button id="chat-toggle-btn" onclick="toggleChatPanel()" class="hidden fixed bottom-5 right-5 z-50 bg-hyundai-cyan text-slate-950 font-bold text-xs px-4 py-2.5 rounded-full shadow-lg shadow-hyundai-cyan/30 items-center space-x-2">
+    <i class="fa-solid fa-satellite-dish"></i><span>H-Capital AI 열기</span>
+</button>
+
     <!-- Modal: Add New Project -->
     <div id="modal-add" class="fixed inset-0 bg-slate-950/80 backdrop-blur-sm hidden z-50 flex items-center justify-center p-4">
         <div class="bg-hyundai-800 border border-slate-700 rounded-2xl max-w-lg w-full p-6 shadow-2xl space-y-4 text-xs">
@@ -454,6 +571,11 @@
                         <span class="text-white font-bold ml-1" id="detail-ebitda">240억 원</span>
                     </div>
                 </div>
+                <div class="space-y-2" id="detail-related-news-wrap">
+                    <p class="font-bold text-slate-200 text-xs flex items-center"><i class="fa-solid fa-newspaper text-hyundai-cyan mr-1.5"></i> 관련 최신 뉴스</p>
+                    <div id="detail-related-news" class="space-y-1.5"></div>
+                </div>
+
             </div>
 
             <div class="pt-3 flex justify-end border-t border-slate-700">
@@ -834,6 +956,19 @@
             document.getElementById('detail-ebitda').innerText = `${p.ebitda}억 원`;
             document.getElementById('detail-desc').innerText = p.desc || "2025 공시 기반 상세 심사 타당성 보고서";
 
+            const relatedWrap = document.getElementById('detail-related-news');
+            const related = marketNews.filter(n => n.division === p.division).slice(0, 2);
+            if (related.length) {
+                relatedWrap.innerHTML = related.map(n => `
+                    <a href="${n.u}" target="_blank" rel="noopener" class="block bg-slate-900/60 hover:bg-slate-900 p-2 rounded-lg border border-slate-800 transition">
+                        <p class="text-[11px] text-slate-200 font-medium leading-snug">${n.t}</p>
+                        <p class="text-[9.5px] text-slate-500 mt-0.5">${n.d} · ${n.s || ''}</p>
+                    </a>
+                `).join('');
+            } else {
+                relatedWrap.innerHTML = `<p class="text-[10.5px] text-slate-500">해당 사업부 관련 최신 뉴스가 아직 없습니다.</p>`;
+            }
+
             document.getElementById('modal-detail').classList.remove('hidden');
         }
 
@@ -841,9 +976,222 @@
             document.getElementById('modal-detail').classList.add('hidden');
         }
 
+        // ══════════════════ 오늘 날짜 표시 ══════════════════
+        function renderLiveDate() {
+            const el = document.getElementById('live-date-badge');
+            if (!el) return;
+            el.innerText = new Date().toLocaleDateString('ko-KR', { year: 'numeric', month: '2-digit', day: '2-digit', weekday: 'short' });
+        }
+
+        // ══════════════════ 데일리 브리핑 (AI 생성, 매일 자동 갱신) ══════════════════
+        let dailyBriefing = null;
+
+        function renderBriefing(data) {
+            if (!data || !data.headline) return;
+            dailyBriefing = data;
+            document.getElementById('briefing-headline').innerText = data.headline;
+            document.getElementById('briefing-date').innerText = data.date || '';
+            const pointsEl = document.getElementById('briefing-points');
+            pointsEl.innerHTML = (data.points || []).map((p, i) =>
+                `<span><span class="text-hyundai-cyan font-bold mr-1">${String(i + 1).padStart(2, '0')}</span>${p}</span>`
+            ).join('');
+        }
+
+        function loadBriefing() {
+            fetch('/data/briefing.json', { cache: 'no-store' })
+                .then(r => r.ok ? r.json() : null)
+                .then(data => renderBriefing(data))
+                .catch(() => {});
+        }
+
+        // ══════════════════ 시장 데이터 (뉴스 + 환율) 자동 갱신 ══════════════════
+        // /data/market.json 이 있으면 최신 데이터로 교체. GitHub Actions가 매일 06:00(KST) 갱신합니다.
+        let marketNews = [];
+        let marketFx = null;
+        let marketUpdatedAt = null;
+
+        const DIVISION_BADGE_COLOR = {
+            '승용사업부': 'text-cyan-400 border-cyan-500/30 bg-cyan-950/30',
+            'SDV본부': 'text-sky-400 border-sky-500/30 bg-sky-950/30',
+            'AVP본부': 'text-violet-400 border-violet-500/30 bg-violet-950/30',
+            '수소연료전지': 'text-emerald-400 border-emerald-500/30 bg-emerald-950/30',
+            'AAM본부': 'text-amber-400 border-amber-500/30 bg-amber-950/30',
+            '로보틱스LAB': 'text-fuchsia-400 border-fuchsia-500/30 bg-fuchsia-950/30',
+            '경쟁사': 'text-rose-400 border-rose-500/30 bg-rose-950/30',
+        };
+
+        function renderMarketPanel() {
+            // 환율
+            const fxEl = document.getElementById('fx-usdkrw');
+            if (marketFx && marketFx.usdkrw) {
+                fxEl.innerText = `₩${marketFx.usdkrw.toLocaleString()}`;
+            } else {
+                fxEl.innerText = '수집 대기중';
+            }
+
+            // 갱신 시각
+            const updEl = document.getElementById('market-updated-at');
+            if (marketUpdatedAt) {
+                updEl.innerText = `갱신: ${new Date(marketUpdatedAt).toLocaleString('ko-KR', { month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit' })}`;
+            }
+
+            // 뉴스 리스트
+            const listEl = document.getElementById('news-list');
+            if (!marketNews.length) {
+                listEl.innerHTML = `<p class="text-[11px] text-slate-500 py-2">아직 수집된 뉴스가 없습니다. 첫 자동 갱신을 기다려주세요.</p>`;
+                return;
+            }
+            listEl.innerHTML = marketNews.slice(0, 12).map(n => {
+                const badge = DIVISION_BADGE_COLOR[n.division] || 'text-slate-400 border-slate-600 bg-slate-800';
+                return `
+                    <a href="${n.u}" target="_blank" rel="noopener" class="flex items-center gap-2.5 py-1.5 px-2 rounded-lg hover:bg-slate-900/60 transition group">
+                        <span class="text-[9px] font-bold px-1.5 py-0.5 rounded border ${badge} flex-shrink-0 w-[64px] text-center">${n.division}</span>
+                        <span class="text-[9.5px] text-slate-500 flex-shrink-0 w-[70px]">${n.d}</span>
+                        <span class="text-[11px] text-slate-200 group-hover:text-white truncate flex-1">${n.t}</span>
+                        <i class="fa-solid fa-arrow-up-right-from-square text-[9px] text-slate-600 flex-shrink-0"></i>
+                    </a>
+                `;
+            }).join('');
+        }
+
+        function loadMarketData() {
+            fetch('/data/market.json', { cache: 'no-store' })
+                .then(r => r.ok ? r.json() : null)
+                .then(data => {
+                    if (!data) return;
+                    if (Array.isArray(data.news)) marketNews = data.news;
+                    if (data.fx) marketFx = data.fx;
+                    if (data.updatedAt) marketUpdatedAt = data.updatedAt;
+                    renderMarketPanel();
+                })
+                .catch(() => { /* 실패해도 화면은 그대로 유지 */ });
+        }
+
+        // ══════════════════ H-Capital AI 챗봇 ══════════════════
+        let chatHistory = [];
+        let chatBusy = false;
+
+        function buildChatSystem() {
+            const wFin = document.getElementById('slider-w-fin').value;
+            const wStrat = document.getElementById('slider-w-strat').value;
+            const wEff = document.getElementById('slider-w-eff').value;
+            const wRisk = document.getElementById('slider-w-risk').value;
+            const hurdle = document.getElementById('inp-hurdle-score').value;
+
+            const context = {
+                기준: '2025 현대자동차 공시 (연결매출 186.2조, CAPEX 9.0조, WACC 7.8%)',
+                현재가중치: { 수익성: wFin + '%', 전략가치: wStrat + '%', 투자효율: wEff + '%', 리스크감점: wRisk + '%', 통과허들점수: hurdle },
+                심사안건: projects.map(p => ({
+                    사업부: p.division, 안건명: p.name, CAPEX억원: p.capex,
+                    수익성: p.fin, 전략가치: p.strat, 투자효율: p.eff, 리스크감점: p.risk,
+                    종합Score: p.totalScore, 상태: p.status,
+                    NPV억원: p.npv, IRR: p.irr + '%', Payback년: p.payback,
+                })),
+                실시간환율_USDKRW: marketFx ? marketFx.usdkrw : null,
+                오늘의브리핑: dailyBriefing ? { 헤드라인: dailyBriefing.headline, 포인트: dailyBriefing.points } : null,
+                최근산업뉴스: marketNews.slice(0, 15).map(n => ({ 사업부: n.division, 날짜: n.d, 제목: n.t, 출처: n.s })),
+            };
+
+            return `너는 'H-Capital AI'다. H-Capital Matrix 대시보드에 내장된 CAPEX 투자 심사 애널리스트로, 현대자동차 투자기획실 실무자를 지원한다.
+
+원칙:
+- 한국어로 답한다. 실무자가 바로 쓸 수 있게 간결하고 구조적으로 답한다.
+- 아래 데이터를 1차 근거로 사용한다. 데이터에 없는 내용은 일반 지식으로 보완하되, 추정임을 밝힌다.
+- 특정 안건에 대해 물으면 그 안건의 점수 구성(수익성/전략가치/투자효율/리스크)과 Pass/Review 상태, 관련 뉴스를 근거로 설명한다.
+- 가중치나 Hurdle Score 변경의 영향을 물으면 현재 설정값 기준으로 답한다.
+- 환율(USD/KRW)은 해외 CAPEX·원자재 비용에 미치는 영향을 설명할 때 참고 지표로 활용한다.
+- 서식은 짧은 제목, 굵게, 목록(•)만 사용한다. 답변은 200자~500자 사이로 압축한다.
+
+[대시보드 데이터]
+${JSON.stringify(context)}`;
+        }
+
+        function chatBubble(role, html) {
+            const log = document.getElementById('chat-log');
+            const div = document.createElement('div');
+            if (role === 'user') {
+                div.className = 'ml-auto max-w-[85%] bg-hyundai-cyan/10 border border-hyundai-cyan/25 rounded-lg px-3 py-2 text-slate-100';
+                div.innerText = html;
+            } else {
+                div.className = 'max-w-[92%] border-l-2 border-hyundai-cyan/40 pl-2.5 text-slate-300';
+                div.innerHTML = html;
+            }
+            log.appendChild(div);
+            log.scrollTop = log.scrollHeight;
+            return div;
+        }
+
+        async function askHCapitalAI(message) {
+            const system = buildChatSystem();
+            const res = await fetch('/api/chat', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ system, history: chatHistory, message, files: [] }),
+            });
+            if (!res.ok) throw new Error('API ' + res.status);
+            const data = await res.json();
+            const text = (data.text || '').trim();
+            if (!text) throw new Error('empty');
+            chatHistory.push({ role: 'user', content: message }, { role: 'assistant', content: text });
+            if (chatHistory.length > 8) chatHistory = chatHistory.slice(-8);
+            return text;
+        }
+
+        function sendChat(override) {
+            const input = document.getElementById('chat-input');
+            const text = (override != null ? override : input.value).trim();
+            if (!text || chatBusy) return;
+            chatBubble('user', text);
+            input.value = '';
+            chatBusy = true;
+            document.getElementById('chat-status').innerText = 'ANALYZING…';
+            document.getElementById('hc-orbit').classList.add('thinking');
+            const thinking = chatBubble('assistant', '<div class="hc-typing"><i></i><i></i><i></i></div>');
+
+            askHCapitalAI(text)
+                .then(reply => { thinking.innerHTML = reply; })
+                .catch(() => { thinking.innerHTML = '일시적으로 연결이 어렵습니다. 잠시 후 다시 시도해주세요.'; })
+                .finally(() => {
+                    chatBusy = false;
+                    document.getElementById('chat-status').innerText = 'CAPEX SCORING ASSISTANT';
+                    document.getElementById('hc-orbit').classList.remove('thinking');
+                });
+        }
+
+        document.addEventListener('DOMContentLoaded', () => {
+            const input = document.getElementById('chat-input');
+            if (input) {
+                input.addEventListener('keydown', (e) => {
+                    if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); sendChat(); }
+                });
+            }
+            const chips = ['현재 1위 안건은 왜 우선순위가 높아?', '리스크 감점이 가장 큰 안건은?', '가중치를 전략우선으로 바꾸면 순위가 어떻게 바뀔까?', '환율이 CAPEX에 미치는 영향은?'];
+            const chipsEl = document.getElementById('chat-chips');
+            if (chipsEl) {
+                chipsEl.innerHTML = chips.map(c => `<button onclick="sendChat('${c.replace(/'/g, "\\'")}')" class="text-[10px] bg-slate-900 border border-slate-700 text-slate-300 hover:border-hyundai-cyan hover:text-hyundai-cyan px-2 py-1 rounded-md transition">${c}</button>`).join('');
+            }
+            chatBubble('assistant', '안녕하십니까. H-Capital AI입니다. 투자 안건, 가중치 시뮬레이션, 리스크 요인, 관련 산업 뉴스를 근거로 답변드립니다.');
+        });
+
+        function toggleChatPanel() {
+            const panel = document.getElementById('chat-panel');
+            const btn = document.getElementById('chat-toggle-btn');
+            const hidden = panel.classList.toggle('hidden');
+            if (hidden) {
+                btn.classList.remove('hidden');
+                btn.classList.add('flex');
+            } else {
+                btn.classList.add('hidden');
+                btn.classList.remove('flex');
+            }
+        }
+
         // Initialize App on DOM Load
         window.onload = function() {
             updateCalculations();
+            renderLiveDate();
+            loadBriefing();
+            loadMarketData();
         };
     </script>
 </body>
