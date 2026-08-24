@@ -1,25 +1,39 @@
 {
   "news": [
     {
-      "division": "AVP본부",
-      "d": "2026-08-23",
-      "t": "“심야 택시 호출 더 쉬워진다”... 강남 자율주행택시, 7대→19대로 확대",
-      "s": "오토트리뷴",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CZDYtS0ZoNHBwemdnVERIZGlnbUdHcWFNbWdNaWs4cUJhekN6akp0Z2cwOVFmTW05UWhvcTZhdFU5NUFwVm43UmIyNEtwQXFnUjFnWHZoODFvLUxlQmtRWk5zX2RXLVZ3eEtjQm5hYVg?oc=5"
-    },
-    {
-      "division": "AVP본부",
-      "d": "2026-08-23",
-      "t": "자율주행 승부 AI 모델로…현대차, 상용화 추격 속도",
-      "s": "글로벌이코노믹",
-      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNc2I2QlFuNjc0YlJwTHhWZE1Xckp1cXlJb3JJT0w0TGJXaXo1Mjl5aHRWNmdCMkRydmtJOW9YX0VLVVNQSzNiSTEyWFNfZ0tzQTJObFFETzZzTVQ0RGJVNFJacWxIUTFDbC1sMEhrWEFKamdiVFVSdWNlaTRQdmxtbE16bUN4Zw?oc=5"
-    },
-    {
       "division": "로보틱스LAB",
-      "d": "2026-08-21",
-      "t": "[단독] 보스턴다이내믹스, '스팟' 도입 가이드 백서 최초 공개… 최단 8주 만에 현장 통합",
-      "s": "더구루",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0td3FXUVUxLVBlQUhYQmNhZ0x2NWNjRjdVR0lEX014SjVDdTlKNVB5WmtkSE1lZUZjaFQySmdXZTVNdmVqR0V3eUZUb0YzSXhHQ3diN0lvc2MzcmVwZXRLM1Zhdw?oc=5"
+      "d": "2026-08-24",
+      "t": "[단독] 아틀라스 개발·반복조립 통합관리…보스턴다이내믹스, 양산 체계 고도화 [현대차 로봇 승부수]",
+      "s": "이투데이",
+      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5XSDlBQk5fbFRGcGJjVkt2UVlwX09BT2Q3TUxXU3A2RWNWTE9ITXA3aXczcUJMc2JFTGxaLWJBNlB2dGo4My1YOHJpaVlKZDA4ZklpYw?oc=5"
+    },
+    {
+      "division": "AVP본부",
+      "d": "2026-08-24",
+      "t": "자율주행 실증車 200대→3000대로… 광주 외 지역 3곳 추가 추진",
+      "s": "v.daum.net",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96MWlKTzJFdURQTm41bGg0Zk9wV3ZIMXA5Q3lZR2tfR3EzZERlWmJnOVpZbWVOVTBsZFNKRFlwQzdSU2d1V0FxNkpvMXFlc0E?oc=5"
+    },
+    {
+      "division": "AVP본부",
+      "d": "2026-08-24",
+      "t": "자율주행차의 상용화",
+      "s": "한국공공정책신문",
+      "u": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1WM0pCbWtmZ0c5dEpLM0tnNkltMVlYRFBlRUc5ajVkQTR2N2pIamM5SlVOZy1CbUxiZHo4dUFnWGxmbVE?oc=5"
+    },
+    {
+      "division": "AVP본부",
+      "d": "2026-08-24",
+      "t": "레벨4 자율주행 규격 선점한 中…韓 완성차, 검증 부담 커져",
+      "s": "네이트",
+      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA4LVlaWnZCS0FDMVpnU1dtMXNibEdkVTFzdm5DX3lBSjhkNjRfYXZMdXBVOXVhclNucS14Y1ZabDYzbkZTZ2tyUzhhRWZHakFlUnVtaTJNVmpja3pWUjc5cXNYZ0JVMWNyNEx5dUNVdFFFZ0ZpbDg4QQ?oc=5"
+    },
+    {
+      "division": "SDV본부",
+      "d": "2026-08-24",
+      "t": "미래차 경쟁, 자율주행·SDV·로봇으로 판 바뀐다",
+      "s": "중소기업신문",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NcWdSak9Xb0JnZzVDWTJ0SmZHLWpFWW9YTEIxckVlU25mT1dDdERSS1IzVzV5Y3VGYlplYm9oUXpLZDQxN0I5R3dBVUtrUVN1NG03dkR1U0hLTE54M1RpTXVraS1JM0o5ZHo1NQ?oc=5"
     },
     {
       "division": "SDV본부",
@@ -27,20 +41,6 @@
       "t": "SW 다음은 AI…미래 자동차 승부처 ' 맥락 데이터'",
       "s": "디지털투데이",
       "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE81cEYzc1pLM1ZTakpnR1lJZEhuUUFTNHdMWWdoTmdtNWx6a0VGMXpmZGFORTJTVFBzSUlxcGpqZE16Y0ZZcjI4d2RMRVlqWEVJSldUZ2plOFM2NFBMM0R5cWRlV0xycFRFeEtVTXJwQnRmUms?oc=5"
-    },
-    {
-      "division": "로보틱스LAB",
-      "d": "2026-08-20",
-      "t": "中 유니트리 상장 대박…IPO 타이밍 더 중요해진 보스턴다이내믹스",
-      "s": "인베스트조선",
-      "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcnQ4RGpHSGt0b29Ja2k3VDlUMnhHR09lSmVKcmJhbkVsOGszM19rdGxyMXFOOEJCblo3VlJoMFBWUG5ZdU1FbDJmZ1ZNcHhBY2E0MUk2NFVzQlRlMXlBWGF1YmhodTNOcEZrTnN3a2NoUG5ENFdmUGw0Z0hrUHZ4V0RjVQ?oc=5"
-    },
-    {
-      "division": "AVP본부",
-      "d": "2026-08-20",
-      "t": "자율주행차 사고, 형사책임은 결국 누구에게 돌아가는가",
-      "s": "법률신문",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGTGRCWGNzOE0zV1ZsVzBBSVR1aFBJTWRrSm9xU1VHMEpJUXNYOXpoSU5EZVlEcG0wWWhOa004dWxRNjczdmM0bnpkTDFpenhVcXVlWW1DWHFjbkppV2JyVmc0WTlKQjFoSTE3MlNR0gFyQVVfeXFMTVJkUFpIUGdxWnhnZDl5eFFyUktYcnhNT2xkY0JURU1hU1dmZUM0dFRYV0dGdmFEMldjWmE3ajlBMzhjODNGb2tRZEJDNFI4MU1scTFIUDN4dEd3SUlOc0pYVzhFblRQMXFkVHR0MGZ5OHFB?oc=5"
     },
     {
       "division": "승용사업부",
@@ -55,13 +55,6 @@
       "t": "현대차그룹, SDV 전략 '클라우드 인포테인먼트'로 진화…스트리밍 플랫폼 '통합'",
       "s": "더구루",
       "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54QXJaVmFpWGtMQ25qRW10bDN0MXlweUhLX2ZDMEw0WkNMdUdvSXQ1QVR2VC1JS0VaZldyNnBkYk55b2hFZ1ZfcFNwTEtBRkx5QzZnSWhsTmx5RWJmNk5Tbk5qMA?oc=5"
-    },
-    {
-      "division": "SDV본부",
-      "d": "2026-08-18",
-      "t": "현대차, 삼성과 '미래차 동맹' 넓힌다…GV90까지 배터리 협력확대",
-      "s": "서울이코노미뉴스",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5JajdJTTZRbDZLeGpMT2VMWVExWFpCMkREc05rZkdKVzg0RksxeVVIZDNydGVrM2lMV0VIenN1UEVhNmFwZ1JBZ1dULWhteGRrS1d6YlU3NmZWb1IzdThMZTJKemNiTXFGand0S09R?oc=5"
     },
     {
       "division": "수소연료전지",
@@ -148,11 +141,39 @@
       "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1OTl1dFp1cWtqRkFtYWctVWtlOHMzQXp2T3pVVGM2dWhaeWZqdURBWm1fSDFldDQ0SjZJRHR5d0pRdnNyQ1BwQ2Z2Skk1dWFnTk43Yldn?oc=5"
     },
     {
+      "division": "AVP본부",
+      "d": "2026-08-23",
+      "t": "“심야 택시 호출 더 쉬워진다”... 강남 자율주행택시, 7대→19대로 확대",
+      "s": "오토트리뷴",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CZDYtS0ZoNHBwemdnVERIZGlnbUdHcWFNbWdNaWs4cUJhekN6akp0Z2cwOVFmTW05UWhvcTZhdFU5NUFwVm43UmIyNEtwQXFnUjFnWHZoODFvLUxlQmtRWk5zX2RXLVZ3eEtjQm5hYVg?oc=5"
+    },
+    {
       "division": "로보틱스LAB",
-      "d": "2026-08-22",
-      "t": "[로봇 온사이트] 휴머노이드 상용화 경쟁, 이제는 손이다",
+      "d": "2026-08-21",
+      "t": "[단독] 보스턴다이내믹스, '스팟' 도입 가이드 백서 최초 공개… 최단 8주 만에 현장 통합",
       "s": "더구루",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IT2c4OVhfMi1mZWYxUjgxelUzLUFSSWVuTVJ4ZEVDMWpXOHd1SnUtbEdfc0xMR2ZscF81b1FFc2o1eUhvZm5vUmdya1pWa0VLclVjcmplMTE5NEN6ZTlYVXFzZw?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0td3FXUVUxLVBlQUhYQmNhZ0x2NWNjRjdVR0lEX014SjVDdTlKNVB5WmtkSE1lZUZjaFQySmdXZTVNdmVqR0V3eUZUb0YzSXhHQ3diN0lvc2MzcmVwZXRLM1Zhdw?oc=5"
+    },
+    {
+      "division": "로보틱스LAB",
+      "d": "2026-08-20",
+      "t": "中 유니트리 상장 대박…IPO 타이밍 더 중요해진 보스턴다이내믹스",
+      "s": "인베스트조선",
+      "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcnQ4RGpHSGt0b29Ja2k3VDlUMnhHR09lSmVKcmJhbkVsOGszM19rdGxyMXFOOEJCblo3VlJoMFBWUG5ZdU1FbDJmZ1ZNcHhBY2E0MUk2NFVzQlRlMXlBWGF1YmhodTNOcEZrTnN3a2NoUG5ENFdmUGw0Z0hrUHZ4V0RjVQ?oc=5"
+    },
+    {
+      "division": "AVP본부",
+      "d": "2026-08-20",
+      "t": "자율주행차 사고, 형사책임은 결국 누구에게 돌아가는가",
+      "s": "법률신문",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGTGRCWGNzOE0zV1ZsVzBBSVR1aFBJTWRrSm9xU1VHMEpJUXNYOXpoSU5EZVlEcG0wWWhOa004dWxRNjczdmM0bnpkTDFpenhVcXVlWW1DWHFjbkppV2JyVmc0WTlKQjFoSTE3MlNR0gFyQVVfeXFMTVJkUFpIUGdxWnhnZDl5eFFyUktYcnhNT2xkY0JURU1hU1dmZUM0dFRYV0dGdmFEMldjWmE3ajlBMzhjODNGb2tRZEJDNFI4MU1scTFIUDN4dEd3SUlOc0pYVzhFblRQMXFkVHR0MGZ5OHFB?oc=5"
+    },
+    {
+      "division": "SDV본부",
+      "d": "2026-08-18",
+      "t": "현대차, 삼성과 '미래차 동맹' 넓힌다…GV90까지 배터리 협력확대",
+      "s": "서울이코노미뉴스",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5JajdJTTZRbDZLeGpMT2VMWVExWFpCMkREc05rZkdKVzg0RksxeVVIZDNydGVrM2lMV0VIenN1UEVhNmFwZ1JBZ1dULWhteGRrS1d6YlU3NmZWb1IzdThMZTJKemNiTXFGand0S09R?oc=5"
     },
     {
       "division": "수소연료전지",
@@ -258,32 +279,11 @@
       "t": "카카오모빌리티, '서울 자율차' 증차…기존 2대에서 6대로",
       "s": "디일렉",
       "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZdnhJSmlHZE1uNG9ZeF94bHdOTEpsaTFfel8talFhbDIyTFg3d0U3VUlHb24xZmNXekpKcnlUT0R3dDk1SndkUURGM0t5T2tfSGN5UHdaREZPd2V4eTdkNm5YazhDQQ?oc=5"
-    },
-    {
-      "division": "로보틱스LAB",
-      "d": "2026-08-18",
-      "t": "보스턴다이내믹스, 포드 출신 공급망 고위책임자 영입…로봇 양산 조직 강화",
-      "s": "v.daum.net",
-      "u": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1wQmlWRHRaX2NzZVI0cEpReHRRM0N6NHpiRkI0cThWd0dKZDJ1UWluQjJxNWRwakJUTTliQ0VGMjRRcEczUFE?oc=5"
-    },
-    {
-      "division": "SDV본부",
-      "d": "2026-08-06",
-      "t": "\"자동차도 소프트웨어 시대\" ETRI, 자율차 국제 표준 선점·첫 의장직까지",
-      "s": "헬로디디",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fMEo4bmhoeWJBU1l6bUNuSTZOWkhMZzZwUzgyS1h3Sm4zd1dnWlJvNTBmU2ljR3NkN2VtbVBmQ2NCamRCazNVY3lMUTdQa3YtellQcm9sWmFtcU1EczI0Q0pudWJwTGJqT0E?oc=5"
-    },
-    {
-      "division": "SDV본부",
-      "d": "2026-08-06",
-      "t": "ETRI, 소프트웨어 정의 차량 국제표준화 주도",
-      "s": "뉴스1",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RR2ZuTXpQTW12YS1EVm9Uc19BQUdMeTBaVWpnUVhwTU1LQW41VkxncmNfT2VxRzZqOURONWxuREREODg1OGhVc2VMTGlUM19ZSkJjU05HUi14YXljdnBNcNIBZkFVX3lxTE5QeGp3ZGdma1hBNGpSUGJoV1BqZU1yNVk2ZHpBR3kyY0VuekF3MVRNX0JGNXhFM09vRTFldjUzanBodm80MXMxaEFoYnRwdDl6Wmp5UndLbmhZaUZiSlJjeWRDZjdIUQ?oc=5"
     }
   ],
   "fx": {
-    "usdkrw": 1384.51,
-    "updatedAt": "2026-08-23T21:27:10.459Z"
+    "usdkrw": 1385.48,
+    "updatedAt": "2026-08-24T21:35:15.443Z"
   },
-  "updatedAt": "2026-08-23T21:27:10.459Z"
+  "updatedAt": "2026-08-24T21:35:15.443Z"
 }
