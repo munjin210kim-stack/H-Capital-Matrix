@@ -1,32 +1,53 @@
 {
   "news": [
     {
+      "division": "AVP본부",
+      "d": "2026-08-25",
+      "t": "'운전자 없는 자동차' 10월부터 광주 도심 달린다",
+      "s": "v.daum.net",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EMG1wcFlHUl84cU5zb2E5NU14dDFsNlRZUG1XZmZ6aC1fN2dTVGRSTi1VTXBabFdKcTVMaE40OG41X0ktS2tSUThGYUM3NXc?oc=5"
+    },
+    {
+      "division": "AVP본부",
+      "d": "2026-08-25",
+      "t": "엔비디아 \"자율주행차, 판단 이유까지 설명해야\"…추론형 AI 승부수",
+      "s": "뉴스핌",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJd1NQVHhPZmw5d3hfM1RQZjZkczltZTNieVp2NWZPbDNkU2lHbW04VmYza1d5ajIzR2pVVkVRVWpxRVJkUE1FV1RxM2I0eTB0alRBQkJNMDJfVzlG?oc=5"
+    },
+    {
+      "division": "AVP본부",
+      "d": "2026-08-25",
+      "t": "[FSD 온로드] '테슬라 E2E' 넘겠다는 정부…VLA 승부수",
+      "s": "블로터",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZU2k4WlR6elc3YWlwUXgxeHhmZDcxTXhHazRnWUQwcWRNWHVIZENLVkpGbXBzV2JNS01PbUdwQ1lGdVV3TWhGOExGWkhRS1VobnBhWnJ2UF90WlBmUWJSbEdCWEVSTmVB0gFsQVVfeXFMT25CVWptNlpKbUNmMmRfdG81SDlJbjYtODhpQy1oanhIdDBpX1lidTF1dmd0QUs4M1RjMkY0a2V4VEdmaEFfbXh3dUlLeXRZbGtjZGtIVEQweWExT3lxLWF5emc3bVA2anRIekVE?oc=5"
+    },
+    {
+      "division": "SDV본부",
+      "d": "2026-08-25",
+      "t": "SDV·엣지 AI 설계부터 구현까지…개발자 위한 ‘이포디에스 테크데이 2026’ 개최",
+      "s": "헬로티",
+      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YcTZNUzkyeU8tS04tZERhU1pBYlRaZktTS0J0TnhVbXU1eVJxazJuM3VJWUZiNXVBUUJ2M2wteTBrcWpCYTdIME0wVERxLWpEcHJEc3RfeTZzY2MyNEhB?oc=5"
+    },
+    {
+      "division": "SDV본부",
+      "d": "2026-08-25",
+      "t": "AI·SDV 중심 ‘2026 자율주행모빌리티산업전’ 25일 코엑스서 개막",
+      "s": "핀포인트뉴스",
+      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52YTNrcVhuUVdOV1lpMmV4dEJXMkNuSERsbk1RRE5KYWM1MERqRFprZVNBR19ZenRDc2VCZHUtUnltSHh6ZkRCc21meHBtcEpPUUFBbF9SYmJBRnRDYW1EdzEzUFRpV3ZIWmc4b2JUdHNKeVFtdXlv0gF3QVVfeXFMTnZhM2txWG5RV05XWWkyZXh0QlcyQ25IRGxuTVFETkphYzUwRGpEWmtlU0FHX1l6dENzZUJkdS1SeW1IeHpmREJzbWZ4cG1wSk9RQUFsX1JiYkFGdENhbUR3MTNQVGlXdkhaZzhvYlR0c0p5UW11eW8?oc=5"
+    },
+    {
       "division": "로보틱스LAB",
       "d": "2026-08-24",
-      "t": "[단독] 아틀라스 개발·반복조립 통합관리…보스턴다이내믹스, 양산 체계 고도화 [현대차 로봇 승부수]",
+      "t": "정의선의 ‘로봇 3만대’ 현실화 속도…BD, 공급망부터 조직·기능 확대 [현대차 로봇 승부수]",
       "s": "이투데이",
-      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5XSDlBQk5fbFRGcGJjVkt2UVlwX09BT2Q3TUxXU3A2RWNWTE9ITXA3aXczcUJMc2JFTGxaLWJBNlB2dGo4My1YOHJpaVlKZDA4ZklpYw?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5NaWZVX3RuZUlvd0VjSkpnX1piQkIyOWZzU2t5TlI2cVZGMnEwZjVGakE0dWQzQTktS2JYVEhKTFR5WXJEV3padFFnQzJuam0wRU9TMA?oc=5"
     },
     {
-      "division": "AVP본부",
+      "division": "로보틱스LAB",
       "d": "2026-08-24",
-      "t": "자율주행 실증車 200대→3000대로… 광주 외 지역 3곳 추가 추진",
-      "s": "v.daum.net",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96MWlKTzJFdURQTm41bGg0Zk9wV3ZIMXA5Q3lZR2tfR3EzZERlWmJnOVpZbWVOVTBsZFNKRFlwQzdSU2d1V0FxNkpvMXFlc0E?oc=5"
-    },
-    {
-      "division": "AVP본부",
-      "d": "2026-08-24",
-      "t": "자율주행차의 상용화",
-      "s": "한국공공정책신문",
-      "u": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1WM0pCbWtmZ0c5dEpLM0tnNkltMVlYRFBlRUc5ajVkQTR2N2pIamM5SlVOZy1CbUxiZHo4dUFnWGxmbVE?oc=5"
-    },
-    {
-      "division": "AVP본부",
-      "d": "2026-08-24",
-      "t": "레벨4 자율주행 규격 선점한 中…韓 완성차, 검증 부담 커져",
-      "s": "네이트",
-      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA4LVlaWnZCS0FDMVpnU1dtMXNibEdkVTFzdm5DX3lBSjhkNjRfYXZMdXBVOXVhclNucS14Y1ZabDYzbkZTZ2tyUzhhRWZHakFlUnVtaTJNVmpja3pWUjc5cXNYZ0JVMWNyNEx5dUNVdFFFZ0ZpbDg4QQ?oc=5"
+      "t": "R&D 넘어 양산… 보스턴다이내믹스 ‘아틀라스 수익’ 승부처",
+      "s": "아시아투데이",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TWXNmaUQ5TmlpRkxOSzdqN09SZEpzVWZtbl90UW16TlBFWEdJM2hjRXlxcFBzM01McTFYdEE4WUFJMDZuT1psTXdOWjRRcFB0NjZ0RXMxRWpXZC1EUDhsRHRTNTE4NkxZVERHSVF3?oc=5"
     },
     {
       "division": "SDV본부",
@@ -36,25 +57,18 @@
       "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NcWdSak9Xb0JnZzVDWTJ0SmZHLWpFWW9YTEIxckVlU25mT1dDdERSS1IzVzV5Y3VGYlplYm9oUXpLZDQxN0I5R3dBVUtrUVN1NG03dkR1U0hLTE54M1RpTXVraS1JM0o5ZHo1NQ?oc=5"
     },
     {
-      "division": "SDV본부",
-      "d": "2026-08-20",
-      "t": "SW 다음은 AI…미래 자동차 승부처 ' 맥락 데이터'",
-      "s": "디지털투데이",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE81cEYzc1pLM1ZTakpnR1lJZEhuUUFTNHdMWWdoTmdtNWx6a0VGMXpmZGFORTJTVFBzSUlxcGpqZE16Y0ZZcjI4d2RMRVlqWEVJSldUZ2plOFM2NFBMM0R5cWRlV0xycFRFeEtVTXJwQnRmUms?oc=5"
+      "division": "로보틱스LAB",
+      "d": "2026-08-23",
+      "t": "현대차 '로봇 훈련소' 개장…현장데이터 신시장 잡는다",
+      "s": "네이트",
+      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5IUmc5Rno2TGhqUWJIVVVNT19TM1NoZWVLUVV3TzRsV2ZyQWVCZGFiWlRzU0Z5eEcxNU5HTlZrM0dETkI1bHpwbFlHcXkzZms3cWdYR1ZsSmdNenZhWUFWZ2tDYXY0X2R3NkFOc21jNXlwSGRrdmZPUQ?oc=5"
     },
     {
       "division": "승용사업부",
-      "d": "2026-08-19",
-      "t": "[속보] 현대차 조지아 메타플랜트 최대 30만대 증산, 미국 최대 자동차 공장 된다",
-      "s": "애틀랜타 K 뉴스",
-      "u": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNQmlXNFRiamQ3OVJNVHkxQm5NcFF1ZGRUWEQwLUtoZm1aODFVelZOQ0wtUlo0MmdYdF9DU3M5cGlFN2FLcndobW5WT3BMLTJfRDI2NFJFbXhwbVBub0JVYTl5akF4ejBtOTExX3ZEdzhzaUVPNnpUWF8xOVBPN01BZ0Vfc0Z5TXNfRE0zamdlVUxFR2JuUEJpa2ZqV1E3WUlaaUhkN2V5ZkhkZjFSdEtIRnNFcmJNZkt4YzNGRHVpckR0S0FiejM4MkRyaXIwbWtuXzROdjBvZHQ4LTNfQ01LSk5uS2RUbnp4dGg5M0EtYmhnRmVkcFF3Ny1lVTFud05hTGVwTERvc3RYQjdfdzVmOGh6TTFzYnpCV2YxZWZHbnMxcVhzNlVkUHNPWk9NX1c5WjlRa3lR?oc=5"
-    },
-    {
-      "division": "SDV본부",
-      "d": "2026-08-18",
-      "t": "현대차그룹, SDV 전략 '클라우드 인포테인먼트'로 진화…스트리밍 플랫폼 '통합'",
-      "s": "더구루",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54QXJaVmFpWGtMQ25qRW10bDN0MXlweUhLX2ZDMEw0WkNMdUdvSXQ1QVR2VC1JS0VaZldyNnBkYk55b2hFZ1ZfcFNwTEtBRkx5QzZnSWhsTmx5RWJmNk5Tbk5qMA?oc=5"
+      "d": "2026-08-13",
+      "t": "현대차·기아, 美 하이브리드 판매 63% 급증…\"전기차 대신 역량 집중\"",
+      "s": "뉴시스",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZOU9nWE90TXlCeFBPUHVCRU8xR0JVamxYSlg2WWxxLUN3S1d1QzUyUHphVWQzY056YVl4Tnp2aExLVTdLVFJGb2NFTG5HVUtyQk9wS3B1NlRyRkF5bWVoN9IBeEFVX3lxTE91Slh6TlBzMG96dDBwdS1uelA0N1NnUHl2U3dHQ0ZUQ2dSaWR0Ml9NdUZKWDIyQUlBNmFielRpc2w2TmlzMzNpWlFGNHpRZmxDQW5oMEVjeTNyUTdBUkE0djFUeDdBUXlMOVhDUWEwNjJnNzBjSTk1SQ?oc=5"
     },
     {
       "division": "수소연료전지",
@@ -62,13 +76,6 @@
       "t": "중국 수소시장 파고든 현대차…中 수소산업 핵심기업 선정",
       "s": "수소신문",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96NFUyTVk2eGltWTBwcVNMWmxRb3FPUlpSZHg5aWZ0VFZEb1hXajl5WUs5bDBiSngwZy13MGNGT1FjblR0bE5YZVZsQjVfTnlEaGNKeGw2WDYzempwa0wwVE9EUklHTHBYbEh0N0JRbmfSAXRBVV95cUxObFBzaGNNSk1icmtkbXROMmV3M0dYSHpSeWpMY2JTYXpEd0tmcHhtUjVKc3dFblh0NldmalowZVhfd21fT19rSmo2ckFqQ04xZE03b09oam5rcE9rTUoycEpHTE9FSG8zc2tvWG9Dbk5XTElQLQ?oc=5"
-    },
-    {
-      "division": "로보틱스LAB",
-      "d": "2026-08-12",
-      "t": "보스턴 다이나믹스 '아틀라스' \"3분 만에 배터리 자율 교체 기능\"",
-      "s": "로봇신문",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqM3V5TUFsbzkwbWphNDFjWHNZMHRBR0JSU2Y1M05YZWFVdTBzMnYzNHNxd1VvS2hVM1BzQmRXcUUwcmxQdlNhRUp5Z0w4dFRHa1did21nRm80aHlVRHlDbVg3M0tUdDNhWTRwZw?oc=5"
     },
     {
       "division": "승용사업부",
@@ -139,6 +146,55 @@
       "t": "GM·혼다, 전기차 공동개발 전면취소…현대차는 \"잠깐의 허들\"",
       "s": "중앙일보",
       "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1OTl1dFp1cWtqRkFtYWctVWtlOHMzQXp2T3pVVGM2dWhaeWZqdURBWm1fSDFldDQ0SjZJRHR5d0pRdnNyQ1BwQ2Z2Skk1dWFnTk43Yldn?oc=5"
+    },
+    {
+      "division": "AVP본부",
+      "d": "2026-08-24",
+      "t": "자율주행 실증車 200대→3000대로… 광주 외 지역 3곳 추가 추진",
+      "s": "v.daum.net",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96MWlKTzJFdURQTm41bGg0Zk9wV3ZIMXA5Q3lZR2tfR3EzZERlWmJnOVpZbWVOVTBsZFNKRFlwQzdSU2d1V0FxNkpvMXFlc0E?oc=5"
+    },
+    {
+      "division": "AVP본부",
+      "d": "2026-08-24",
+      "t": "자율주행차의 상용화",
+      "s": "한국공공정책신문",
+      "u": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1WM0pCbWtmZ0c5dEpLM0tnNkltMVlYRFBlRUc5ajVkQTR2N2pIamM5SlVOZy1CbUxiZHo4dUFnWGxmbVE?oc=5"
+    },
+    {
+      "division": "AVP본부",
+      "d": "2026-08-24",
+      "t": "레벨4 자율주행 규격 선점한 中…韓 완성차, 검증 부담 커져",
+      "s": "네이트",
+      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA4LVlaWnZCS0FDMVpnU1dtMXNibEdkVTFzdm5DX3lBSjhkNjRfYXZMdXBVOXVhclNucS14Y1ZabDYzbkZTZ2tyUzhhRWZHakFlUnVtaTJNVmpja3pWUjc5cXNYZ0JVMWNyNEx5dUNVdFFFZ0ZpbDg4QQ?oc=5"
+    },
+    {
+      "division": "SDV본부",
+      "d": "2026-08-20",
+      "t": "SW 다음은 AI…미래 자동차 승부처 ' 맥락 데이터'",
+      "s": "디지털투데이",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE81cEYzc1pLM1ZTakpnR1lJZEhuUUFTNHdMWWdoTmdtNWx6a0VGMXpmZGFORTJTVFBzSUlxcGpqZE16Y0ZZcjI4d2RMRVlqWEVJSldUZ2plOFM2NFBMM0R5cWRlV0xycFRFeEtVTXJwQnRmUms?oc=5"
+    },
+    {
+      "division": "승용사업부",
+      "d": "2026-08-19",
+      "t": "[속보] 현대차 조지아 메타플랜트 최대 30만대 증산, 미국 최대 자동차 공장 된다",
+      "s": "애틀랜타 K 뉴스",
+      "u": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNQmlXNFRiamQ3OVJNVHkxQm5NcFF1ZGRUWEQwLUtoZm1aODFVelZOQ0wtUlo0MmdYdF9DU3M5cGlFN2FLcndobW5WT3BMLTJfRDI2NFJFbXhwbVBub0JVYTl5akF4ejBtOTExX3ZEdzhzaUVPNnpUWF8xOVBPN01BZ0Vfc0Z5TXNfRE0zamdlVUxFR2JuUEJpa2ZqV1E3WUlaaUhkN2V5ZkhkZjFSdEtIRnNFcmJNZkt4YzNGRHVpckR0S0FiejM4MkRyaXIwbWtuXzROdjBvZHQ4LTNfQ01LSk5uS2RUbnp4dGg5M0EtYmhnRmVkcFF3Ny1lVTFud05hTGVwTERvc3RYQjdfdzVmOGh6TTFzYnpCV2YxZWZHbnMxcVhzNlVkUHNPWk9NX1c5WjlRa3lR?oc=5"
+    },
+    {
+      "division": "SDV본부",
+      "d": "2026-08-18",
+      "t": "현대차그룹, SDV 전략 '클라우드 인포테인먼트'로 진화…스트리밍 플랫폼 '통합'",
+      "s": "더구루",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54QXJaVmFpWGtMQ25qRW10bDN0MXlweUhLX2ZDMEw0WkNMdUdvSXQ1QVR2VC1JS0VaZldyNnBkYk55b2hFZ1ZfcFNwTEtBRkx5QzZnSWhsTmx5RWJmNk5Tbk5qMA?oc=5"
+    },
+    {
+      "division": "로보틱스LAB",
+      "d": "2026-08-12",
+      "t": "보스턴 다이나믹스 '아틀라스' \"3분 만에 배터리 자율 교체 기능\"",
+      "s": "로봇신문",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqM3V5TUFsbzkwbWphNDFjWHNZMHRBR0JSU2Y1M05YZWFVdTBzMnYzNHNxd1VvS2hVM1BzQmRXcUUwcmxQdlNhRUp5Z0w4dFRHa1did21nRm80aHlVRHlDbVg3M0tUdDNhWTRwZw?oc=5"
     },
     {
       "division": "AVP본부",
@@ -223,67 +279,11 @@
       "t": "자율주행자동차보험 개발 호재",
       "s": "보험신보",
       "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE42R3NyOWJmN29raWFHNEVKMTdLWXV2bWNqN1U3MkJFWmJBUGRWTThQUU9FZTNVWnpRMGcyU2h1Y3RockYzS3hwazdxaDB4R3l1RVRVSnQta2ExeHdHcnZwejBQaWktSHdzak9Z?oc=5"
-    },
-    {
-      "division": "수소연료전지",
-      "d": "2026-05-28",
-      "t": "현대차 ’수소 거점’ 광저우 HTWO, 선도기업 선정",
-      "s": "연합뉴스TV",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iUnE4NnY2dmZsMThSV19JWkRscE12bGV4RFc1V2FDN3BwZjJFTklKNUhha0FBLVRTLWs1djdxT0JXNDg3TVFNdkVweXlfV1BOc1VJUVpNRGI4U2k4VjNjakxBTDdySUE?oc=5"
-    },
-    {
-      "division": "AAM본부",
-      "d": "2025-11-10",
-      "t": "하늘길을 잡아라…대한항공·카카오·롯데, UAM 주도권 전쟁 본격화",
-      "s": "경제일보",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IczVDNmdTblpHVzhKejlETXk1QTJpVjRTRllVM3R1RW9CVWVrWE5pZXlzY3JWSHB0RFgxeVJwVEJQRGRnX18zdkJRUnZ2T1BwRFRWYnNWM2dNeFRxYU5VeNIBW0FVX3lxTE9ZUTVBWVRVTkFFVFlvR05tb3dwZmdqd2x3bGRFazFEQnF5RV9TcUpzQV9hZWZRMk1ZSVBMam1fMU9rVExwRnhCb1plMldNdHhJeWhDRWJna2p1ZDQ?oc=5"
-    },
-    {
-      "division": "로보틱스LAB",
-      "d": "2026-08-20",
-      "t": "피지컬 AI와 로봇관련주, 현대차와 LG전자 주가 언제 다시 상승할까? (feat. 보스턴다이내믹스 상장, IPO)",
-      "s": "네이버 프리미엄콘텐츠",
-      "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV0V5NzMtaHdON0JoSk9jZmNRczRTZWFQUGtWdEFPSy1ObVBDWnZlaWowRzZ2QWl0VFg2VXNfMjRlSkx3WEFzblczcHZwa2g0ZlVtSWVpQXlVcU1MTVlCU09fN1JDcHRhbk9MT2diNFE2cG8zaFJsODVOZmp1S3Z0b3ozTQ?oc=5"
-    },
-    {
-      "division": "AVP본부",
-      "d": "2026-08-20",
-      "t": "테슬라 FSD 타보니…“운전대 잡을 필요 없을 정도”",
-      "s": "v.daum.net",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5rY3p1blFIU2hjQ1hzSUg2SmNDZ0drMElRSXpIdTR5NXlDVzItSmc2M3dZRXBJclh6akRwWGUzWXUyOGVUazgxTTBkQk9lazQ?oc=5"
-    },
-    {
-      "division": "AVP본부",
-      "d": "2026-08-20",
-      "t": "[자율주행차 탑승기] 운전 잘하는 친구의 차를 타고 있는 느낌",
-      "s": "참여와혁신",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KelNBYWMtY3ljcXJsRW5DckxFem5BeEpER3FwbGl0a0FjZU1KTHQydVJzQnlmeE1Ybk55LWl2VWdRSU5pMVc4LTNKVnRDdm9WR2k4U3V2V2lfazFXVTBmWDVsaHQ0ekI0X3RKU0xB?oc=5"
-    },
-    {
-      "division": "승용사업부",
-      "d": "2026-08-14",
-      "t": "美 전기차 주춤하자 현대차 웃었다…하이브리드 판매 62% 급증",
-      "s": "PRESS9",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zamlRR2hfZVREX2pYeVE4TDl3U2tHMHJkU19wUnVaN0FnQ0poRzV4S1IxNGtwT1lDVG9IUmZET2FaT0d3Ny1xU1UzUElOYjBqV0ZmT3hBeUhXTl9OYmxqd0Rvb2o?oc=5"
-    },
-    {
-      "division": "로보틱스LAB",
-      "d": "2026-08-19",
-      "t": "중국 대표 로봇 기업 '유니트리', 상장 첫날 주가 급등",
-      "s": "BBC",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE14cktQbjZtc1lIZy0tVWhad2pkdXRHLUhHZHl2a29mNGJjcEdFdW1BaGRCd1J6S2lrdUo5S3VKeGw1TFhmcnNJMklVek8zTDJReU5DTTl6SVNfcE1T?oc=5"
-    },
-    {
-      "division": "AVP본부",
-      "d": "2026-08-19",
-      "t": "카카오모빌리티, '서울 자율차' 증차…기존 2대에서 6대로",
-      "s": "디일렉",
-      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZdnhJSmlHZE1uNG9ZeF94bHdOTEpsaTFfel8talFhbDIyTFg3d0U3VUlHb24xZmNXekpKcnlUT0R3dDk1SndkUURGM0t5T2tfSGN5UHdaREZPd2V4eTdkNm5YazhDQQ?oc=5"
     }
   ],
   "fx": {
-    "usdkrw": 1385.48,
-    "updatedAt": "2026-08-24T21:35:15.443Z"
+    "usdkrw": 1383.12,
+    "updatedAt": "2026-08-25T21:34:36.777Z"
   },
-  "updatedAt": "2026-08-24T21:35:15.443Z"
+  "updatedAt": "2026-08-25T21:34:36.777Z"
 }
