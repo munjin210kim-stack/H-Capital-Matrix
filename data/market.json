@@ -1,18 +1,25 @@
 {
   "news": [
     {
+      "division": "AVP본부",
+      "d": "2026-09-01",
+      "t": "스쿨존에서 자동 감속하는 카카오 자율주행",
+      "s": "hankyung.com",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNUkRyMHg2SVBBb0JJTFNsZ08tUnNpZXBoc0hyMDBVOXB5UGdvQ2lnSjFCOHlBelRJekdUczJhSjhQQ0tBenNhZkVxT0VHRUhuZEhvdFNKS2FNZw?oc=5"
+    },
+    {
+      "division": "로보틱스LAB",
+      "d": "2026-08-31",
+      "t": "비에이치, 보스턴다이내믹스·삼성 이어 '북미 로봇 빅테크' 선점…휴머노이드 '관절 핵심' 주목",
+      "s": "프라임경제",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02d05WVFE4ZFdMWVc2bDNTMnFJS2VERWllaUdWYndrYTZpZW5XS0U4bnNMOUNjd2dXUWFrZWJiMDlIY0ZRZ1VCQWg0bnZPd1FNRGZhMXQ1MWRZYUs5a0J6WVBFMA?oc=5"
+    },
+    {
       "division": "로보틱스LAB",
       "d": "2026-08-31",
       "t": "“사람 대신 위험 현장으로”…보스턴다이내믹스 ‘스팟’ 몸값 높인다",
       "s": "아시아투데이",
       "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53TnZDVFo4YjZSZFgya0FzbGh3djlTSVp3MDdNRGg0ZjJxc1BlOVRPNnJ3dVlrSDFhRGxVTmhpaGYxWkRsZjEzU3VkRHhGRWZfWGNRY3pwZ1JSYTVfcXBVQTc0MnpFZlNnZUNwWGRR?oc=5"
-    },
-    {
-      "division": "로보틱스LAB",
-      "d": "2026-08-31",
-      "t": "美 ‘로봇 개’가 이민·세관 단속한다…최대 27억원 투입",
-      "s": "지디넷코리아",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zT19MZktwUE5TbmwzOHZQSDV2azJqdjhwb1BlZEV1UUVCVzZSeXZEY0ZqY3VVZ1k2WXQxWlkwVHZaLVJpUU4yVDRhOWwxS2dZMzhWelNB?oc=5"
     },
     {
       "division": "AVP본부",
@@ -25,29 +32,22 @@
       "division": "로보틱스LAB",
       "d": "2026-08-30",
       "t": "美이민단속국, 현대차 보스턴다이내믹스 로봇개 도입 추진…시민단체·정치권 시선은 '싸늘'",
-      "s": "theguru.co.kr",
+      "s": "더구루",
       "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE05aDNla2VFN2hNR2ZZVVFfbTY4dm1Kd284VUFSNjg2Y3VfMGhvTWRRYXZENE05QnN5M2hlbmMyd1JCNUZJV1VicGY1WVlfWW1kSGM5RnZIUVBHUXJJSEE?oc=5"
     },
     {
       "division": "AVP본부",
       "d": "2026-08-30",
-      "t": "中 로보택시, 韓 도로 달린다… 퓨처링크, 포니AI 200대 상용화 나서 - 조선비즈",
-      "s": "Chosunbiz",
-      "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UY0puUmhvQklaYmZYOVlTeEdXd2VKRGJMcUl5MThaT2hUUmdCYUw3R3RQRFRLdlgyTjR4S0wyVkI3eFpUNmNRSFhNdHNtLUZuME5zLTN2SndaZXFITEpnQzlJMExQeUt4cHY2TVVSS1prVHRWN2o1aWQ1VUF5VlHSAZMBQVVfeXFMT2Y2UklVcDlSTXFXbHg4WEpGRG95VjBnTFB0dTdSLXktYm4tZGlKUDVzVU9JRHZPTUF5VnR4UHVad25DclhCTU1OemdyQzBtc0otdV9UZUhrRVY5Nk5FTWItZlk0MWlZRTdOUlZPMUtsTU1UanNRNHRoZFQtZnRVMXFtZVNkRUJZWEZpTzROYjBLcElV?oc=5"
-    },
-    {
-      "division": "AVP본부",
-      "d": "2026-08-29",
-      "t": "운전자 없는 ‘레벨4’ 자율주행차…광주 도심 달려도 안전할까",
-      "s": "v.daum.net",
-      "u": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBTcHJaQ3VlOHVYT0hLR1pFQnBXQmlWdkplVHpHWW9FWnBIODdwTGt3SjVEdHpVVVVEbXZ6em5QY2VXT1lmNXc?oc=5"
+      "t": "중국 로보택시 200대 한국 온다...포니.ai, 7세대 자율주행 택시 공급",
+      "s": "지디넷코리아",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtdWR1VE1zQkpfNG9QTVdxc3FtVmNDc3VqT0t5c21ETmMxWVUxNmU3V0tjSWVTaldlbkkydkprcmZtbkNLNUdZUHlVV3U4b3FyZFB6NU1B?oc=5"
     },
     {
       "division": "SDV본부",
       "d": "2026-08-29",
-      "t": "혼다·닛산 '맞손'…차세대 차량용 소프트웨어 공동개발",
-      "s": "네이트",
-      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5pd0FmU0lEOHNoSG44QVRYejhvdndIdl9SeGdCTThtNkgwWWJPRzczdjB5NVVsR0UtZUtxUGFQRjUyS05SaHdnQ0lENlZOdGxtQmZHOGFFbTg3VXVaVmRqWVZGclVPQ0JreDFLZXhaeFduV3BpMGExdA?oc=5"
+      "t": "혼다·닛산 ‘맞손’…차세대 차량용 소프트웨어 공동개발",
+      "s": "edaily.co.kr",
+      "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTzNqNXd1eG5nNFBEX1NoRjZQRFdZRDlIOFg2emttcy01QmxFeWM4a3RKTW1aT1p3ejM3ejNBVno0TjRQVk1uRXc5S1dLeEpEUEpmWmJxM2J2VV9tcUFhdFBSQmQ0TDV6RllrZ1h6c3AzZzRIbWVHR2V6SS04Q0FWNw?oc=5"
     },
     {
       "division": "승용사업부",
@@ -60,7 +60,7 @@
       "division": "수소연료전지",
       "d": "2026-08-26",
       "t": "현대차 HTWO, 중국 GAC와 협력 넉 달 만에 '수소 상용차 양산' 결실",
-      "s": "theguru.co.kr",
+      "s": "더구루",
       "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wdWdILXh5RlRGX1FvcFB6NG1PMVIyRnBRRUUxcllEODd3U2F1anhHOVZkcVlZMTAwckFTZjloSVYwOFA1Z1M4aXhxV3dxTDA5RV8yZFN6Y0kyTmZqWEE?oc=5"
     },
     {
@@ -85,6 +85,13 @@
       "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Gd09hdDdtMW9keTNrY29XdHNINDNpWVYwQ3kxYm9Zd29SeE41TERQb3MzRXd6VC1qQW4waTFkVzZvTjBObmRKLTlJM2hnUQ?oc=5"
     },
     {
+      "division": "승용사업부",
+      "d": "2026-08-14",
+      "t": "美 전기차 주춤하자 현대차 웃었다…하이브리드 판매 62% 급증",
+      "s": "PRESS9",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zamlRR2hfZVREX2pYeVE4TDl3U2tHMHJkU19wUnVaN0FnQ0poRzV4S1IxNGtwT1lDVG9IUmZET2FaT0d3Ny1xU1UzUElOYjBqV0ZmT3hBeUhXTl9OYmxqd0Rvb2o?oc=5"
+    },
+    {
       "division": "수소연료전지",
       "d": "2026-08-13",
       "t": "중국 수소시장 파고든 현대차…中 수소산업 핵심기업 선정",
@@ -95,7 +102,7 @@
       "division": "경쟁사",
       "d": "2026-07-24",
       "t": "현대차 이익 21% 감소·GM 16조원 구조조정…전기차 둔화에 갈린 완성차 전략",
-      "s": "impacton.net",
+      "s": "임팩트온",
       "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SbFVGVkxhSW9KOEEybVdNOWZCUktobzVWdGlpSVFIVnlBMEVkVHkteURfczhaTVp5VVZTR0M5UHlZQ2hwbG50TnIxUUhpM2RTc2J4cWphOHphc2N0dkxNbklXZnlQVUdq0gFsQVVfeXFMUGtCLWtfcVJYSklUT0FZemZjSUVDY2pTTVZLSl9YT1JxenRNTFN4ODc1Si1FOGx6cDZZcjNPXzJNQWhMTnlWZVJ6dkVmQlQ5Z1NRT1o2QlJmWFdhZ1g3VTAyczNiZ19kTGdoaWVo?oc=5"
     },
     {
@@ -141,18 +148,32 @@
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zOW9rcFlJMV9IR3R3M3JzSGlJVXBYdExzQk9STThneTBJQU42bmVXUHZueVdnQjZLOGNQTFltZHhBOVpwYXJBcExReDJtWnNYbF9DNngwRFVUNWo3el82ODZjRk8weVBpVlY1OWVtWG4?oc=5"
     },
     {
+      "division": "로보틱스LAB",
+      "d": "2026-08-31",
+      "t": "美 ‘로봇 개’가 이민·세관 단속한다…최대 27억원 투입",
+      "s": "지디넷코리아",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zT19MZktwUE5TbmwzOHZQSDV2azJqdjhwb1BlZEV1UUVCVzZSeXZEY0ZqY3VVZ1k2WXQxWlkwVHZaLVJpUU4yVDRhOWwxS2dZMzhWelNB?oc=5"
+    },
+    {
+      "division": "AVP본부",
+      "d": "2026-08-30",
+      "t": "中 로보택시, 韓 도로 달린다… 퓨처링크, 포니AI 200대 상용화 나서 - 조선비즈",
+      "s": "Chosunbiz",
+      "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UY0puUmhvQklaYmZYOVlTeEdXd2VKRGJMcUl5MThaT2hUUmdCYUw3R3RQRFRLdlgyTjR4S0wyVkI3eFpUNmNRSFhNdHNtLUZuME5zLTN2SndaZXFITEpnQzlJMExQeUt4cHY2TVVSS1prVHRWN2o1aWQ1VUF5VlHSAZMBQVVfeXFMT2Y2UklVcDlSTXFXbHg4WEpGRG95VjBnTFB0dTdSLXktYm4tZGlKUDVzVU9JRHZPTUF5VnR4UHVad25DclhCTU1OemdyQzBtc0otdV9UZUhrRVY5Nk5FTWItZlk0MWlZRTdOUlZPMUtsTU1UanNRNHRoZFQtZnRVMXFtZVNkRUJZWEZpTzROYjBLcElV?oc=5"
+    },
+    {
+      "division": "AVP본부",
+      "d": "2026-08-29",
+      "t": "운전자 없는 ‘레벨4’ 자율주행차…광주 도심 달려도 안전할까",
+      "s": "v.daum.net",
+      "u": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBTcHJaQ3VlOHVYT0hLR1pFQnBXQmlWdkplVHpHWW9FWnBIODdwTGt3SjVEdHpVVVVEbXZ6em5QY2VXT1lmNXc?oc=5"
+    },
+    {
       "division": "AVP본부",
       "d": "2026-08-30",
       "t": "영남권에 10년간 42兆 투자… AI·자율주행 거점 육성",
       "s": "조선일보",
       "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOalRvS1dJX1NFVkVPS1ljS3pvWVhFMVdYbmM4VEIxOWl1ZXNzU0lqUFFkel9FN2Z1clZJZ251S0pxd1JEVFJTN0F4dlNzOUVHd3RkQ0EwQjE3T3FRSmZNVlVVOUZPMTk4LUFGOVUta3g1SnRwQjdIUzVubGd4blpZb1I2OUhBTXQ4S29HT1h3?oc=5"
-    },
-    {
-      "division": "AVP본부",
-      "d": "2026-08-30",
-      "t": "중국 로보택시 200대 한국 온다...포니.ai, 7세대 자율주행 택시 공급",
-      "s": "지디넷코리아",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtdWR1VE1zQkpfNG9QTVdxc3FtVmNDc3VqT0t5c21ETmMxWVUxNmU3V0tjSWVTaldlbkkydkprcmZtbkNLNUdZUHlVV3U4b3FyZFB6NU1B?oc=5"
     },
     {
       "division": "로보틱스LAB",
@@ -258,32 +279,11 @@
       "t": "[이슈&논란] “차를 팔던 딜러가 로봇도 판다”…현대차·현대캐피탈, 보스턴다이내믹스로 ‘피지컬 AI’ 유통망까지 설계",
       "s": "뉴스스페이스",
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HOVhYS2h1REU0Q21lQ0RtX0FnMWpFcEpkLTMwVTdaeHJxNk1GY1ZPbkI3UHQzYk1odkZkTm5Fcjluang0clJGaGt1NExFekNfNzFQZ1FwYzBBTFJIZUJ5bA?oc=5"
-    },
-    {
-      "division": "경쟁사",
-      "d": "2026-03-30",
-      "t": "GM EV1부터 테슬라 로드스터까지…전기차 시대 첫 클래식카는?",
-      "s": "디지털투데이",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MWUJzTmZwdk9RNm16Q0dFcTg5MjdzQ2J2cHBvOF9XcjR3TUJCYU1HZjAyRnVGRW5uZDJXWFZVaGdaaHFkVmZldGVSUElkVUFRdU9YVjR4Q3ZWZURuekFEWUNkQ1Y1anVacTlJZFp5d0NqSEk?oc=5"
-    },
-    {
-      "division": "승용사업부",
-      "d": "2026-08-27",
-      "t": "현대차 첫 EREV는 ‘싼타페’…美서 생산·주행거리 960km 이상",
-      "s": "지피코리아",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JNGVjVF93ZDc0OUl4UmRQSHRocG52MWpMRl9ncGwtcUNjSEJlcDlBejM0dTEtbThKNXlLRUhLT252ajdSVGxkU0pRQUprNVJZc1g2aFltWVQzeWNBV010cEZ0dHFvV0lJN1HSAW5BVV95cUxNSFdRUkxpSFpDZ1BnWnV5UlZ6a1JHbU1ZVXdmSnlxaG1TNGxWaTg5VEJTNmxJeWlsS2N5U1BaMktuemNlZkc4WEtVbVM1QVI0ajBYV1pZSjdEMzN4cmtlSGlJZFNiSjNzVmc0bWRhZw?oc=5"
-    },
-    {
-      "division": "로보틱스LAB",
-      "d": "2026-08-27",
-      "t": "‘아틀라스 양산’ 앞둔 보스턴다이내믹스…현대차, 외부자본 유치 나서나",
-      "s": "아시아투데이",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlSFExV1VSOEdXQW1POUFWd0FXc0hNQlhYa2UzakF0M2dQU3YweWFManZ6T0dweFMycVBMakE1NWRSR2NqYVZ0RkV2UnpQZTkzb3UyMS1FZTdjZkZpT3JvckpHYUZfUlRLRkNpUXBB?oc=5"
     }
   ],
   "fx": {
     "usdkrw": 1368.52,
-    "updatedAt": "2026-09-01T00:30:21.144Z"
+    "updatedAt": "2026-09-01T23:12:42.562Z"
   },
-  "updatedAt": "2026-09-01T00:30:21.144Z"
+  "updatedAt": "2026-09-01T23:12:42.562Z"
 }
