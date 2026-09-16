@@ -1,6 +1,27 @@
 {
   "news": [
     {
+      "division": "수소연료전지",
+      "d": "2026-09-16",
+      "t": "현대차그룹, 트럭·버스 수소차 전환 ‘가속 페달’",
+      "s": "국민일보",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EZmotTEpSR1ZYdU8yTmlUU0I4a284NWJvWjloQjZreGNfZGJLSDdHUFNiN2NlOHZ5UEpHb0JsVEk2S2FEQmNNVVQzWHpkemFaZnV4U2FJVUZHU3NkS09vZXNFWEx2TUsxbTZCQdIBbEFVX3lxTE1EZmotTEpSR1ZYdU8yTmlUU0I4a284NWJvWjloQjZreGNfZGJLSDdHUFNiN2NlOHZ5UEpHb0JsVEk2S2FEQmNNVVQzWHpkemFaZnV4U2FJVUZHU3NkS09vZXNFWEx2TUsxbTZCQQ?oc=5"
+    },
+    {
+      "division": "AVP본부",
+      "d": "2026-09-16",
+      "t": "포니에이아이, IAA서 레벨 4 무인 전동 트럭 공개",
+      "s": "auto.danawa.com",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4weFRfTkt5TzYxX1ZRcG1QZFRsVDRMNENheUhycUlxeDVTc3VpRVVkRUtrWTlzN3ZIUHJKbHowWUZxQ19ESVBlY05ZUlpKUU8taERGWkRrWlA1a2p1NVpVUDFVTzhja1lKUE9V?oc=5"
+    },
+    {
+      "division": "SDV본부",
+      "d": "2026-09-16",
+      "t": "특수 라운드에만 나오는 토트넘 토토 주소 심벌 정보 - histoire-pour",
+      "s": "histoire-pour-tous.fr",
+      "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTFloc2hpLUZxZkRfUUJ0eF9XTGNUbEszamNNcVV1WG1CQ0xBX0NqVDVibFZ3LWg5R0h4VEQtT2FaVDFrbzl2UnBSQTdXU1FpX25xajJTdzRqVllXclpOTUFucTM5czJIR09WSFl4QkJ4NmxNNURoVUtRM3RGUEF4OGJGeW1xRG1uUzlBWUQtM2JJMThMWDYxc2xnOXBVRDRtMXc?oc=5"
+    },
+    {
       "division": "승용사업부",
       "d": "2026-09-15",
       "t": "현대차그룹, 우즈벡 대통령과 회동...전기차·하이브리드 생산 논의",
@@ -11,7 +32,7 @@
       "division": "로보틱스LAB",
       "d": "2026-09-15",
       "t": "IPO 먹구름 낀 보스턴 다이내믹스… 관건은 ‘아틀라스 상용화’",
-      "s": "아시아투데이",
+      "s": "asiatoday.co.kr",
       "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5raWxsRmRaTVRlNEsyWXQyenpZLU9DakNsVFBqLXJFd0lVZGVMYXl0ZGI1ZzdzekxNUUpSYzZwcV9CSVNYR0o3bEcyNGl1OHRXT0ZNVmZXQThIa2h0QWk0bEptMmVodUY3Znlyc1hR?oc=5"
     },
     {
@@ -29,20 +50,6 @@
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtRFZQbVdrVWNHcGl1b2lzSXdUSWgwQ3FHZ2JZZXhQcVJqSXo3bmlhb0pEaXZzV1lOWGRUWTlyUVhYRC1Wd21US2NIcXRjeTJ5V1ViSTBUVjlsaU5fRUM0VdIBeEFVX3lxTFB4ZXV1VjNmSzlwVElJUEEwSktpQl82Rk93RG1rUFVkMUVDSHJod25xTUVLeWx1YThEWEhxTXpjR3J2Z1pUbW1lTUYzZWh2STVKZDlxRHBuSllrcktmZkh5UEVtZmdvX0NKbTRyYi1HbEs2b3ZDdjd6MQ?oc=5"
     },
     {
-      "division": "로보틱스LAB",
-      "d": "2026-09-15",
-      "t": "보스턴다이나믹스 IPO 속도 조절…현대차, 아틀라스 ‘3만대 양산’ 먼저",
-      "s": "v.daum.net",
-      "u": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9admRzdFBMUXZNbXVwOTdnb0oyN2ppRjJUQ1FjU3NXcS0xeG80c09VcmM3WWdUeGZUVzBQYzRrM1hmeHhKLXc?oc=5"
-    },
-    {
-      "division": "AVP본부",
-      "d": "2026-09-15",
-      "t": "[진단] 정부-현대차 자율주행 시간표 '엇박자'…그 빈틈은 테슬라의 시간",
-      "s": "jodaleconomy.com",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvVHhCaEZuM2JRVEE5dWpqaThFR0k4LThiSkNfUlozSk0wMGgzd2plaEtXWjVpMFJfRThuZTM0ZzZMcWdnQVRQVy0tYWlUUVlCRXl6MXQwR0dJTmJYc0E0bmIxMEUxUXlMZDBmZHZ3?oc=5"
-    },
-    {
       "division": "경쟁사",
       "d": "2026-09-14",
       "t": "포드·GM 후퇴하자 테슬라 점유율 52%…美 전기차시장 재장악",
@@ -50,18 +57,25 @@
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KNUZ2eHRGU0MzT045VzFvR29oYTUydm9EMjdZQ3Y4VXFzQkw4eU80OHpSMHJnNFA2RC1kNWFVZG50R1lqUmlDd3pIczNUTDJNYTB5OHFoc1hEZw?oc=5"
     },
     {
+      "division": "AVP본부",
+      "d": "2026-09-14",
+      "t": "미·중과의 870배 격차에 韓 자율주행, ‘강남표 엣지 케이스’ 승부수",
+      "s": "IT조선",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSeVFvWDAwNXI1NkZfa09oZXRKR0UwWVhncFB3ampaeEJ4eXVncnhHTGs4RThXTjdZVUQwVVNTV01uWW1QT2ZqNm8zSjhSWnJjSDgzYi1MSEt5S3RLX0pVMzJvdXdRc0pUN2x4R0owcnPSAXRBVV95cUxPY1NjaGpEV2VUb2F4Z1pnb2dqOWRyNzBaUFREUHFoZjY2OThDMTFxcklhVEVvQndmUzVUWVpjZkFhblFINWZ1cUJtcWhITlNTbWdGNUlVbjR6bHBCNldJdU4wY3dMUTRPNTg1b3JPM0IxVUlveg?oc=5"
+    },
+    {
+      "division": "로보틱스LAB",
+      "d": "2026-09-14",
+      "t": "보스턴다이내믹스 2027년 IPO '불투명'…5년 적자 1.7조 원",
+      "s": "글로벌이코노믹",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeGluSmtYYnkyd0FMVU9qcXQybHAtdmlyVThtU1A2U2I4QjQ3TE1OVEQwSWFWT0hTTTktdkZmeElCZXdXVURmT2U0QUxLV213emp2amJ6Ulg3WmJ6eUxBMmhGcHJyN1c5d0ZkTDZ2dkRDRnJVcTdmVThmVS1tZ2t0N0c3RUNRNEV0?oc=5"
+    },
+    {
       "division": "SDV본부",
       "d": "2026-09-14",
       "t": "한국, SDV 국제표준 주도권 확보…자율주행차 표준화 앞장",
       "s": "데일리뉴스",
       "u": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxQZjhRWm95MUlmQll3d2JtajZ2bTBkakVYWEFGZHVTVjQ5T01kVjgtaFZkOEU2LUQzVUE5XzZvYUxmdENfRmYwbmZqTk1LZGpsRWhHOW1oQ0pFeGpzS3p3MDNBT1BDbXVtNUhnMVNjandHbzhLbUFtYVZRTkhiOEFWaTh3QzVQOHlkZ1pEOHc1T1pCd0tCOG9vWUV1ZHNVMTE1eTNnMDZNYk9nbW80V0lQOU5kRlFwdlpGdm1XS0RUSlBLMGFZeWI4WnJRTW4ybHRIV09zSEhfc0IzbWJfQTJaY0h3R1Jya3lDNjJ6MF84Uk1MMGdTeXhRREEyd2RwcFBuUE0yZjB4U0Z4WGU5RlRTYUs1STZqZEJldC1zNTloUVRtRVpSOURXR3hMSnFjblZtSzVNbTBhRHI2OVVMMmtWR1Jqd2llLXdmWXd2X2lnUGlya2ZSSWUtTXNqVE1yMUdsZjBwV1lUSXhrcjhGLXdXYlp3?oc=5"
-    },
-    {
-      "division": "AVP본부",
-      "d": "2026-09-13",
-      "t": "자율주행 가속페달 밟는 현대차 “3년뒤 독자기술車 양산”",
-      "s": "동아일보",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9uWGEzTWE5bzF0cE9nblNndW5vZkNLM1U3a0EtckNaU2NtdjdwT2RUTkEyMkFuNFhDUGtlcXVsMURsVV9jWV9WQmRQNFo4MG1DYkJaanBraHBXU0w2d1NNeG5DUlk0ZVFDS0VVVTZPb1IxbUpJeWfSAWZBVV95cUxNM0ZIdkJDTF9kR2dvYTBkVVhjY1ZVM0FZcEVNZ29aRGtOTnNkLXVCX1dTWkVVYTdPM3N5aEdRb1QtV25wNzNEalV6VV80NnQ5bWxObERBdFZSbkxPMHRFVlpBZXJZZ1E?oc=5"
     },
     {
       "division": "SDV본부",
@@ -74,29 +88,22 @@
       "division": "승용사업부",
       "d": "2026-09-07",
       "t": "현대차·기아, 8월 美 전기차 판매 '뚝'…하이브리드로 버텼다",
-      "s": "지디넷코리아",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wODNlWnNJYUhDT05ENGxYek9JSmJUWHJCNXNLX21lZEgtWWdNU1JyelVVSkM0aVl5Rm5aOVlHWmo3YkFBN1RhclF2cHlGOFc0RVM3bFBB?oc=5"
+      "s": "v.daum.net",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53UjZZbTBpaXV2Y29ZeU54WldCUF9PXy03bjBzQndyLXFVMnJpN0x1djQwNFp1SFR3ZzFGb19OeWRnUGFWTVZTR0xJQjY0MEU?oc=5"
+    },
+    {
+      "division": "수소연료전지",
+      "d": "2026-08-27",
+      "t": "현대차 HTWO, 중국 GAC와 협력 넉 달 만에 '수소 상용차 양산' 결실",
+      "s": "더구루",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wdWdILXh5RlRGX1FvcFB6NG1PMVIyRnBRRUUxcllEODd3U2F1anhHOVZkcVlZMTAwckFTZjloSVYwOFA1Z1M4aXhxV3dxTDA5RV8yZFN6Y0kyTmZqWEE?oc=5"
     },
     {
       "division": "경쟁사",
       "d": "2026-07-24",
       "t": "현대차 이익 21% 감소·GM 16조원 구조조정…전기차 둔화에 갈린 완성차 전략",
-      "s": "임팩트온",
+      "s": "impacton.net",
       "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SbFVGVkxhSW9KOEEybVdNOWZCUktobzVWdGlpSVFIVnlBMEVkVHkteURfczhaTVp5VVZTR0M5UHlZQ2hwbG50TnIxUUhpM2RTc2J4cWphOHphc2N0dkxNbklXZnlQVUdq0gFsQVVfeXFMUGtCLWtfcVJYSklUT0FZemZjSUVDY2pTTVZLSl9YT1JxenRNTFN4ODc1Si1FOGx6cDZZcjNPXzJNQWhMTnlWZVJ6dkVmQlQ5Z1NRT1o2QlJmWFdhZ1g3VTAyczNiZ19kTGdoaWVo?oc=5"
-    },
-    {
-      "division": "수소연료전지",
-      "d": "2026-07-16",
-      "t": "[Beyond Mobility] 철수 대신 ‘버티기’… 현대차 미래 성장동력, 수소 사업 30년사",
-      "s": "포춘코리아",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NTHZGaWlDX01wenpsaHJGUHlyby1LWnY5V3poRUZDQ3k4UFZCa2lQeFZUYzR2Vmk0NnVwM1EwNWtxa1NDR2xpemVPWE9XS25VVVFIel9XTHNwVDFmdlAzU003VmxkNnJaeURBS2xQMkcyZ9IBdkFVX3lxTE9vV09nMm04ZDI1bXI1UmFhN1Npa3NleVRSRzVaZmFMYkNPN2Vyc0J4U0NPX05XTzhuYnlnSWlGYlUzTlVEbDE1ek53bXdvdDVCNHR3U2JxQkdKU3JYb1FRYlN6dzJuMTZxdXk5eFZqS1FXZTNOdHc?oc=5"
-    },
-    {
-      "division": "SDV본부",
-      "d": "2026-07-16",
-      "t": "SDV, “40개의 미들웨어는 너무 많다”",
-      "s": "autoelectronics.co.kr",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYcGRkZl9sTW9rZzlUY3lGS2RPcHA4bnFaelJHSng3bjRMQ1pKaURvMzRGaFE1UnNyUWpkRnpPcTRXQTY4dEdkQk9PRV9aWGx2STU0WGRtT3dwbDk5cmRaWU5XbWZzV1R5alN5VGRDUG8zdDZj?oc=5"
     },
     {
       "division": "AAM본부",
@@ -120,6 +127,62 @@
       "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTFF0TnlOU3EzWmpiQ0NjemVCM0MwYndjSk1EZDFMVFZUNmRWVlk4a1UzLWNqOHByMk81TW5RZ1VuY1h3MEZscTg2V3Q2Z3pMb2YzWERYYjFKNS1SbEZ6cTBrcjhxbVk5ZHRvdm1RNkhoRmdlY2pmU1ZPTS1FUERsQm9hMHhpRW1ubDNkN3hEQjZuZksyVEpGSDRfWG1jb0Z2bUFpVWcwVDZiWFNaMzlqZ1RR?oc=5"
     },
     {
+      "division": "경쟁사",
+      "d": "2026-02-05",
+      "t": "GM, 2025년 美 전기차 시장 2위…테슬라 선두 '여전'",
+      "s": "디지털투데이",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BS21va3FBV2JmWEZPWTdjSWRsWUlMZUpXYXVDaDR5cnhxR1FOOUZLODVBVzRIeXAxSWo1Q0dvUkdEWWc4dnhkRmpfaVpfOTJzMExwVEh3LThkWnBEOGFtelpGdHBsbmdRRkJCZzdNcktjLWs?oc=5"
+    },
+    {
+      "division": "AAM본부",
+      "d": "2025-11-05",
+      "t": "중국 하늘에 ‘에어택시’ 등장!",
+      "s": "조선일보",
+      "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMjdubFc2dHgzcnlUTEUxazRabkI4czV1ZFZ5RTd5UjIwcFZXT3VjZVd0WE91ejdGQXh1R1J0Qk1fY2tKZmpEX1V6ZjlfRXo3dW5kUy1uTzJEUmVraGgwSVZ1NktZMmh1ek93ZE5BYXNHY3lwYzEzUWpmOWVFbk85REh3VjlMLXl3MW85Q3ZQQ3NSSWdr?oc=5"
+    },
+    {
+      "division": "AAM본부",
+      "d": "2025-10-17",
+      "t": "[단독] 대한항공 ‘UAM 신호등’, 바람 따라 하늘길 열고 돌발 상황엔 고도별 선회 대기시킨다",
+      "s": "에너지경제신문",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SUEd0Vk1EWmlRdVAzWk9ES1JGeDU4MVA5UjBKdXZ4eTg5aWJvMW1DWDdERzhZWjdoVkd5S2pQRkl0TTJjS2lMTEFmUlBhc2JvMHN6TUdwNnhDUTQ?oc=5"
+    },
+    {
+      "division": "로보틱스LAB",
+      "d": "2026-09-15",
+      "t": "보스턴다이나믹스 IPO 속도 조절…현대차, 아틀라스 ‘3만대 양산’ 먼저",
+      "s": "v.daum.net",
+      "u": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9admRzdFBMUXZNbXVwOTdnb0oyN2ppRjJUQ1FjU3NXcS0xeG80c09VcmM3WWdUeGZUVzBQYzRrM1hmeHhKLXc?oc=5"
+    },
+    {
+      "division": "AVP본부",
+      "d": "2026-09-15",
+      "t": "[진단] 정부-현대차 자율주행 시간표 '엇박자'…그 빈틈은 테슬라의 시간",
+      "s": "jodaleconomy.com",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvVHhCaEZuM2JRVEE5dWpqaThFR0k4LThiSkNfUlozSk0wMGgzd2plaEtXWjVpMFJfRThuZTM0ZzZMcWdnQVRQVy0tYWlUUVlCRXl6MXQwR0dJTmJYc0E0bmIxMEUxUXlMZDBmZHZ3?oc=5"
+    },
+    {
+      "division": "AVP본부",
+      "d": "2026-09-13",
+      "t": "자율주행 가속페달 밟는 현대차 “3년뒤 독자기술車 양산”",
+      "s": "동아일보",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9uWGEzTWE5bzF0cE9nblNndW5vZkNLM1U3a0EtckNaU2NtdjdwT2RUTkEyMkFuNFhDUGtlcXVsMURsVV9jWV9WQmRQNFo4MG1DYkJaanBraHBXU0w2d1NNeG5DUlk0ZVFDS0VVVTZPb1IxbUpJeWfSAWZBVV95cUxNM0ZIdkJDTF9kR2dvYTBkVVhjY1ZVM0FZcEVNZ29aRGtOTnNkLXVCX1dTWkVVYTdPM3N5aEdRb1QtV25wNzNEalV6VV80NnQ5bWxObERBdFZSbkxPMHRFVlpBZXJZZ1E?oc=5"
+    },
+    {
+      "division": "수소연료전지",
+      "d": "2026-07-16",
+      "t": "[Beyond Mobility] 철수 대신 ‘버티기’… 현대차 미래 성장동력, 수소 사업 30년사",
+      "s": "포춘코리아",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NTHZGaWlDX01wenpsaHJGUHlyby1LWnY5V3poRUZDQ3k4UFZCa2lQeFZUYzR2Vmk0NnVwM1EwNWtxa1NDR2xpemVPWE9XS25VVVFIel9XTHNwVDFmdlAzU003VmxkNnJaeURBS2xQMkcyZ9IBdkFVX3lxTE9vV09nMm04ZDI1bXI1UmFhN1Npa3NleVRSRzVaZmFMYkNPN2Vyc0J4U0NPX05XTzhuYnlnSWlGYlUzTlVEbDE1ek53bXdvdDVCNHR3U2JxQkdKU3JYb1FRYlN6dzJuMTZxdXk5eFZqS1FXZTNOdHc?oc=5"
+    },
+    {
+      "division": "SDV본부",
+      "d": "2026-07-16",
+      "t": "SDV, “40개의 미들웨어는 너무 많다”",
+      "s": "autoelectronics.co.kr",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYcGRkZl9sTW9rZzlUY3lGS2RPcHA4bnFaelJHSng3bjRMQ1pKaURvMzRGaFE1UnNyUWpkRnpPcTRXQTY4dEdkQk9PRV9aWGx2STU0WGRtT3dwbDk5cmRaWU5XbWZzV1R5alN5VGRDUG8zdDZj?oc=5"
+    },
+    {
       "division": "수소연료전지",
       "d": "2026-05-26",
       "t": "현대차그룹, 유럽 수소 시장 정조준...월드 하이드로젠 서밋서 ‘HTWO 생태계’ 공개",
@@ -132,34 +195,6 @@
       "t": "이젠 하늘도 로봇이 지킨다?… 국방부-현대차, 로봇·AAM 넘어 'K-무인 전장' 대전환",
       "s": "녹색경제신문",
       "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xeEpCS2t3VnpIVWFSN0lvWFNabUN5THp0NHYzZjlIZEwzMmZJTDduaHpGeHlQNXNZeHZ3NldaVzI3eGdXTVN6UmRkU3ZGdXFwdnFTeWFod20xSnBWZFhJSGY3N29DYTFV?oc=5"
-    },
-    {
-      "division": "경쟁사",
-      "d": "2026-02-05",
-      "t": "GM, 2025년 美 전기차 시장 2위…테슬라 선두 '여전'",
-      "s": "디지털투데이",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BS21va3FBV2JmWEZPWTdjSWRsWUlMZUpXYXVDaDR5cnhxR1FOOUZLODVBVzRIeXAxSWo1Q0dvUkdEWWc4dnhkRmpfaVpfOTJzMExwVEh3LThkWnBEOGFtelpGdHBsbmdRRkJCZzdNcktjLWs?oc=5"
-    },
-    {
-      "division": "AAM본부",
-      "d": "2025-10-17",
-      "t": "[단독] 대한항공 ‘UAM 신호등’, 바람 따라 하늘길 열고 돌발 상황엔 고도별 선회 대기시킨다",
-      "s": "에너지경제신문",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SUEd0Vk1EWmlRdVAzWk9ES1JGeDU4MVA5UjBKdXZ4eTg5aWJvMW1DWDdERzhZWjdoVkd5S2pQRkl0TTJjS2lMTEFmUlBhc2JvMHN6TUdwNnhDUTQ?oc=5"
-    },
-    {
-      "division": "AVP본부",
-      "d": "2026-09-14",
-      "t": "미·중과의 870배 격차에 韓 자율주행, ‘강남표 엣지 케이스’ 승부수",
-      "s": "IT조선",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSeVFvWDAwNXI1NkZfa09oZXRKR0UwWVhncFB3ampaeEJ4eXVncnhHTGs4RThXTjdZVUQwVVNTV01uWW1QT2ZqNm8zSjhSWnJjSDgzYi1MSEt5S3RLX0pVMzJvdXdRc0pUN2x4R0owcnPSAXRBVV95cUxPY1NjaGpEV2VUb2F4Z1pnb2dqOWRyNzBaUFREUHFoZjY2OThDMTFxcklhVEVvQndmUzVUWVpjZkFhblFINWZ1cUJtcWhITlNTbWdGNUlVbjR6bHBCNldJdU4wY3dMUTRPNTg1b3JPM0IxVUlveg?oc=5"
-    },
-    {
-      "division": "로보틱스LAB",
-      "d": "2026-09-14",
-      "t": "\"보스턴다이내믹스 내년 IPO '불투명'\"",
-      "s": "v.daum.net",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBuUVY4WTRlR3ZaWV9seUZYVkVhUm1oLVhUbldoWGFUVkJBQnlsWHh5b2pVTWF0NklrM1RvbDVpXzJPeWVVVS1VeENqTjBlUmc?oc=5"
     },
     {
       "division": "AVP본부",
@@ -244,46 +279,11 @@
       "t": "엔비디아로 시장 진입-2029년 자체 두뇌…현대차 자율주행 로드맵 공개",
       "s": "동아일보",
       "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8ycTdXcGVzbG5GSzYyWVQwNzdUdkpaZERvRDlIakFDTkNBZnBNM2g1RVNLU2tCRjBHRC1aRjVObEt1OTBTdWpvQUFSU2xoLUNrUHBPWjVMQ25NU21TV3RKM0tiTUt3NnNmcWZWb29Zc24yTnpDd3fSAWZBVV95cUxQQjBENTgyWTVsUWlLeW1RdzQ2TEJKa1VOd0UzU0xibWtGcld4M2gzS0FLa01qaE5uTUZ6RmVUM1M2Z1UyMTlDdF9qRFVtV2RrWXJ3dDlrN1N1d3NQZzBidVVnSGpOdGc?oc=5"
-    },
-    {
-      "division": "로보틱스LAB",
-      "d": "2026-09-09",
-      "t": "보스턴다이나믹스 로봇 기술, 엔터테인먼트로 확장…캐릭터 강아지 '주목'",
-      "s": "v.daum.net",
-      "u": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE95a2szMUdSckhRNnZ0NUEwZ0dqbXdFZ0RzVEtqZGpZZk94eXpmbERpQ2hIQkZCYkYwTW1SQlprNTl3OWtTWVE?oc=5"
-    },
-    {
-      "division": "로보틱스LAB",
-      "d": "2026-09-09",
-      "t": "[단독] 보스턴다이내믹스, 엔터 로봇 영토 확장…'아틀라스 주역' 뭉쳐 '다이내믹 크리처스' 출범",
-      "s": "더구루",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52NHJ4eElReE9RZTBPS04zNVF2ektybXNkaDdjZlpRLXROQ2x6NlNHWjExeFJaZzc5WVVCOGZRZnhjNFotRHp2M2ZlaG9YVGJjZEF1Ynp5Uk0wbTRKU2c?oc=5"
-    },
-    {
-      "division": "SDV본부",
-      "d": "2026-09-06",
-      "t": "[비바100] SDV 시대 본격화⋯ ‘플레오스 커넥트’로 새로운 미래차 시대를 열다",
-      "s": "브릿지경제",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zSXF1SnVnemdkS1hPMndjR1prWE5jN0hLUGQtQndsY2IyWTBxOFRSX2syUXVWYXBwc1BKVGFBdFdFMWZCY3gwUE1lMXlLRHpxdk5rSElzNVhqUQ?oc=5"
-    },
-    {
-      "division": "승용사업부",
-      "d": "2026-09-03",
-      "t": "현대차·기아, 미국 시장 질주…하이브리드가 이끌었다",
-      "s": "지피코리아",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fTnJSeEJZTGtjb05GZTNJdHVkdGtwUHVlSGdLQXNHQzgyeUJEbjRIZlhSWTFLVHU1d3ZMS3JVVlRITE9SLTVVYVpUOTZ2dnR6YzRUeVN2YURpc1JsY3VuVFVsMVBMSDA3T1HSAW5BVV95cUxQQm8tSl9yellOc0VYdC1zejRvbXotSHZ3NHFhYU9UajJiNHJwZVBsWFRkT1A4a0VMc1lHa25mYXJ6c1FTclNTVjJMSm9jOExWdW5sZFZGUHV4bllsb045OW0yV3ZSUXREREZ2RElZdw?oc=5"
-    },
-    {
-      "division": "AVP본부",
-      "d": "2026-09-09",
-      "t": "[자율주행 어디까지 왔나⑤] 한국 자율주행, 기술은 세계와 겨루는데 상용화는 아직 ‘실증’",
-      "s": "jodaleconomy.com",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9NSEhoLWJsMkxqOFVkNUxidnRmWEVSRnNCd3RLenAtbWhSalRmb2JTQ2dDNjE1bEdpWEl0WlhUSjZLb093V29mVTEwdGl1aUVieVdxZW9WVU9KWHlvTS1ZRkg2aEgwNUkzWEtDdmV3?oc=5"
     }
   ],
   "fx": {
-    "usdkrw": 1347.2,
-    "updatedAt": "2026-09-15T23:28:27.848Z"
+    "usdkrw": 1360.36,
+    "updatedAt": "2026-09-16T23:35:48.567Z"
   },
-  "updatedAt": "2026-09-15T23:28:27.848Z"
+  "updatedAt": "2026-09-16T23:35:48.567Z"
 }
