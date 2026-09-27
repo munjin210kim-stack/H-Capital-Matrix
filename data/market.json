@@ -1,39 +1,46 @@
 {
   "news": [
     {
+      "division": "AVP본부",
+      "d": "2026-09-27",
+      "t": "로보택시 기술 변화 못 따라가는 자동차 안전기준",
+      "s": "v.daum.net",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEd0RYdV9xeF9HUHpVa2NjR2pRVlZ0ZHRzaDB3YjZrQzMyMHZKSFlnSFlwZWpCQkF1VWJhanV3cC1VcGJFYlNUeFJ5NEZfcTA?oc=5"
+    },
+    {
+      "division": "AVP본부",
+      "d": "2026-09-27",
+      "t": "[전기차 전환을 넘어 모빌리티 혁명으로 (15)] 현대차그룹 자율주행, 하이브리드 신차에 적용하면 테슬라와 동일한 규모 가능",
+      "s": "뉴스투데이",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE42RW9PY3dsdUxyc3RMbF96M3lQX0tZZm9LclJDQmVJaXgxQUFHbzNKV2I2OTF6cGsydWlvd05tTk1ES3hfaFNNZmRfQ3V0aE56WmpSaDhvVWFUV1BqOEE?oc=5"
+    },
+    {
       "division": "로보틱스LAB",
-      "d": "2026-09-26",
-      "t": "[영상] 사람 대신 로봇 2만 5천 대 출근한다…현대차가 만든 '로봇 연수원'",
-      "s": "더구루",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE96RVVwdzA1U3JrYXE2SFJiVGVibUVQUG92UFdkOC1Uc0l3dTh6UHlLb0hGVkt5ZmR3MTRxX2JEeDgzMUZrWWFZNzJVazlwOTZ6OUJEZnNrUjNRT05OWWc?oc=5"
+      "d": "2026-09-27",
+      "t": "아틀라스 공장 투입 초읽기…‘부품 전담’ 현대모비스에 쏠린 눈",
+      "s": "대한경제",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15bVR3ejJQYkd6WkhZMHl4MUhpV3Rmd0QwTDc2aFU2d0NTVDJLbHE3aEpmUUljTWhZeGE4LUpMWV83NFc1RlFRMVpHcjhUTXkza2lfM0IyV0kyNnMwSVVCNWl1N2l0cXYxeFlBRjB2SGNsZ2dK?oc=5"
+    },
+    {
+      "division": "AVP본부",
+      "d": "2026-09-27",
+      "t": "김미애 의원, 자율주행자동차 ‘시스템 오류’ 사고 11건…4명 다쳐",
+      "s": "dhns.co.kr",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KSG5YYW1hVUNqQVptY0lma2hHbmV2aC1vd19QVjBOTWhFcldNTXloN25ZNFVaYncxQVRYNWRoOVV6N2ZUMnFtNDZmQ01kdExHakFLYnU3RWl4cXJlM2VYUy1wM2VyTGM?oc=5"
     },
     {
       "division": "SDV본부",
       "d": "2026-09-26",
-      "t": "[차의 변화 SDV-上] 하드웨어가 정한 車 기능…소프트웨어가 새로 정의",
-      "s": "글로벌이코노믹",
+      "t": "[차의 변화 SDV-上] 하드웨어가 정한 車 기능…소프트웨어가 새로 정의 - g",
+      "s": "g-enews.com",
       "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNc2czNFJvVjNaNjRQZXJXZW5IUjRRc3p1aHNTXzZoTm9Wck1KUm92d2JIcmV0b0puX0lIVG5UZF9hWk1JcjFqV1BuUDdoV1l2U2tyLWl0T1MyM1l1QUdSVHVTZEV0LWVVLUNZS3VFeGxMcEdlNzVERnItbUdIdkpJYk9zc1NtZw?oc=5"
-    },
-    {
-      "division": "AVP본부",
-      "d": "2026-09-25",
-      "t": "명절 장거리 운전 이젠 지겹다… 자율주행 시대 언제 오나",
-      "s": "v.daum.net",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5JUkVvczNoX2tleXd4QU9ielJsbDRhbzVqYlNSTEZwZXhpNkcwWWVTaEE5cnYtYkpKNklMazFxWk44N3V0WHhDaFYzcEtvRkk?oc=5"
     },
     {
       "division": "승용사업부",
       "d": "2026-09-24",
-      "t": "전기차 한파 뚫고 조지아 달린 현대차…하이브리드 더해 지켜낸 8500명 약속",
-      "s": "글로벌이코노믹",
+      "t": "전기차 한파 뚫고 조지아 달린 현대차…하이브리드 더해 지켜낸 8500명 약속 - g",
+      "s": "g-enews.com",
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVnVjYkNaTUNoMmQ4YVdaTjhONHdBRG1Zc3RhRzdwcTlmSXdVRjBfSkRBYUhrei1EUHZKODJHNEttaVM1NjhYRTZhUUs3cTNtVmJzNDlhV2ZValdDOTZVRnZ4T1VNLVY5dUVPeWdzOUlfNFZLNXl3c2p4TkhOSzRkektkUFF0UXZf?oc=5"
-    },
-    {
-      "division": "AVP본부",
-      "d": "2026-09-23",
-      "t": "[안효문의 車한잔] 자율주행 '레벨2+'는 꼼수다",
-      "s": "daily.hankooki.com",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Zd0ZubFd1MUZ2elNYMVpMdnFYZVpLSVlvYWJRN2dsY0c0MjdnS3RvQWRyTDFiR3BObF9oczNWRGt6QkdJZE04NlQzb3d3bUp6YmRGU3lTU0dKVFJUeFd2REJ3TTdJVmFla2M4bEEza9IBc0FVX3lxTE9EWnBYa2hmRW9xcU1WZUZnS04zR1FMWEpQeUNKQ3ZEdFJyUklLYktqWmdfVjFQdDItNVdRdUFZd1h1VkdRNW9GaGZGeG9hVDFtRTdOMVBEZ0dVejhNbW5za3FmWktmVGphZmJpM1RMQWdIa2M?oc=5"
     },
     {
       "division": "로보틱스LAB",
@@ -54,14 +61,7 @@
       "d": "2026-09-22",
       "t": "아틀라스, 현대차 공장 ‘인턴’ 발령 났다…휴머노이드 2만5천대 단계적 투입",
       "s": "경향신문",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SMzVWTXIzQUdWWWJRX2pSR0wzUTBFMXoxbXNyVWlaTDd3bElGZFFaRHJyVEJiMVBoaVRjNDExZnpaX3F4QW41TDlvb1FYczlQUjVUMFR2SjNidw?oc=5"
-    },
-    {
-      "division": "수소연료전지",
-      "d": "2026-09-20",
-      "t": "승용차 넘어 버스·트럭으로…현대차, 수소 생태계 판 키운다",
-      "s": "아이뉴스24",
-      "u": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1hTVYwVm5QVHBBczFlbVM0d1RIS2d6UE8yUVJpUDZqYm1CVUdRcThVMF9jMl9zOXBIUG9CamRSMk5oZHFYeHpFU2JPNA?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SMzVWTXIzQUdWWWJRX2pSR0wzUTBFMXoxbXNyVWlaTDd3bElGZFFaRHJyVEJiMVBoaVRjNDExZnpaX3F4QW41TDlvb1FYczlQUjVUMFR2SjNid9IBX0FVX3lxTE96M3BlNGp2cWRrcTBjMVFDQ2ZDY3FFbmtxMHpkakRVNFRmMWR3S0FUZzJzcWFVdEdsZ2tvUW9HMEZLbXlINFpqNmpPUURrRjhDeTBfZDZqblgtaG9XMzdR?oc=5"
     },
     {
       "division": "승용사업부",
@@ -106,11 +106,11 @@
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NTHZGaWlDX01wenpsaHJGUHlyby1LWnY5V3poRUZDQ3k4UFZCa2lQeFZUYzR2Vmk0NnVwM1EwNWtxa1NDR2xpemVPWE9XS25VVVFIel9XTHNwVDFmdlAzU003VmxkNnJaeURBS2xQMkcyZ9IBdkFVX3lxTE9vV09nMm04ZDI1bXI1UmFhN1Npa3NleVRSRzVaZmFMYkNPN2Vyc0J4U0NPX05XTzhuYnlnSWlGYlUzTlVEbDE1ek53bXdvdDVCNHR3U2JxQkdKU3JYb1FRYlN6dzJuMTZxdXk5eFZqS1FXZTNOdHc?oc=5"
     },
     {
-      "division": "AVP본부",
-      "d": "2026-07-07",
-      "t": "레벨4 자율주행 시대 가속…안전운행 가이드라인 마련",
-      "s": "정책브리핑",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UQ0trUzFuRno5emt2RUtLVDBmTnBRREVPSGpfeVFtWVBmcW9XTHJvb1RaZFIyV3FwcFh3eFBTekRWVHhXOEFoTFFqZnJrMnFpVlVaX0k1MVVpX2ltQkxHTWdPdEx4XzBhYi1vbQ?oc=5"
+      "division": "수소연료전지",
+      "d": "2026-06-15",
+      "t": "현대자동차, 광저우 거점 앞세워 中 수소시장 공략에 속도",
+      "s": "한국경제",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3YkIyMWo0N1VFMm53NVpIVksxd2ROckZLWlFud2YtdGZENDdsMmNXUjVUNENBMkd2V0FOdGlIV2Z4UzhPelAwYzd0bmNhZFE4MFliemp3OFJSUQ?oc=5"
     },
     {
       "division": "수소연료전지",
@@ -146,6 +146,41 @@
       "t": "현대차그룹, ‘미래 항공 모빌리티’의 개념을 다시 정립하다 | 저널 | 현대자동차그룹",
       "s": "Hyundai Motor Group",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYQlhLNWJmR3JCSEJmanZpZEk5MTE2US1BM09FM0ZEWEdPR000aUVGU2tBckgtTkc0Q0dFeUdkbEJZR0t3UmNMc1cwdW5jbkRGQm42YXBOZkF0OFdPemppNko4WnVYRzdKVXlic2diZVg?oc=5"
+    },
+    {
+      "division": "로보틱스LAB",
+      "d": "2026-09-26",
+      "t": "[영상] 사람 대신 로봇 2만 5천 대 출근한다…현대차가 만든 '로봇 연수원'",
+      "s": "더구루",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE96RVVwdzA1U3JrYXE2SFJiVGVibUVQUG92UFdkOC1Uc0l3dTh6UHlLb0hGVkt5ZmR3MTRxX2JEeDgzMUZrWWFZNzJVazlwOTZ6OUJEZnNrUjNRT05OWWc?oc=5"
+    },
+    {
+      "division": "AVP본부",
+      "d": "2026-09-25",
+      "t": "명절 장거리 운전 이젠 지겹다… 자율주행 시대 언제 오나",
+      "s": "v.daum.net",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5JUkVvczNoX2tleXd4QU9ielJsbDRhbzVqYlNSTEZwZXhpNkcwWWVTaEE5cnYtYkpKNklMazFxWk44N3V0WHhDaFYzcEtvRkk?oc=5"
+    },
+    {
+      "division": "AVP본부",
+      "d": "2026-09-23",
+      "t": "[안효문의 車한잔] 자율주행 '레벨2+'는 꼼수다",
+      "s": "daily.hankooki.com",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Zd0ZubFd1MUZ2elNYMVpMdnFYZVpLSVlvYWJRN2dsY0c0MjdnS3RvQWRyTDFiR3BObF9oczNWRGt6QkdJZE04NlQzb3d3bUp6YmRGU3lTU0dKVFJUeFd2REJ3TTdJVmFla2M4bEEza9IBc0FVX3lxTE9EWnBYa2hmRW9xcU1WZUZnS04zR1FMWEpQeUNKQ3ZEdFJyUklLYktqWmdfVjFQdDItNVdRdUFZd1h1VkdRNW9GaGZGeG9hVDFtRTdOMVBEZ0dVejhNbW5za3FmWktmVGphZmJpM1RMQWdIa2M?oc=5"
+    },
+    {
+      "division": "수소연료전지",
+      "d": "2026-09-20",
+      "t": "승용차 넘어 버스·트럭으로…현대차, 수소 생태계 판 키운다",
+      "s": "아이뉴스24",
+      "u": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1hTVYwVm5QVHBBczFlbVM0d1RIS2d6UE8yUVJpUDZqYm1CVUdRcThVMF9jMl9zOXBIUG9CamRSMk5oZHFYeHpFU2JPNA?oc=5"
+    },
+    {
+      "division": "AVP본부",
+      "d": "2026-07-07",
+      "t": "레벨4 자율주행 시대 가속…안전운행 가이드라인 마련",
+      "s": "정책브리핑",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UQ0trUzFuRno5emt2RUtLVDBmTnBRREVPSGpfeVFtWVBmcW9XTHJvb1RaZFIyV3FwcFh3eFBTekRWVHhXOEFoTFFqZnJrMnFpVlVaX0k1MVVpX2ltQkxHTWdPdEx4XzBhYi1vbQ?oc=5"
     },
     {
       "division": "AVP본부",
@@ -244,46 +279,11 @@
       "t": "GM EV1부터 테슬라 로드스터까지…전기차 시대 첫 클래식카는?",
       "s": "디지털투데이",
       "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MWUJzTmZwdk9RNm16Q0dFcTg5MjdzQ2J2cHBvOF9XcjR3TUJCYU1HZjAyRnVGRW5uZDJXWFZVaGdaaHFkVmZldGVSUElkVUFRdU9YVjR4Q3ZWZURuekFEWUNkQ1Y1anVacTlJZFp5d0NqSEk?oc=5"
-    },
-    {
-      "division": "로보틱스LAB",
-      "d": "2026-09-23",
-      "t": "보스턴다이내믹스 효율 넘어선 K로봇개... 이동거리 미·중 로봇의 3배",
-      "s": "한국일보",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82MDlUdUtkY0lHMzI4X3dzMzE2bjRyczFoZXRyY2ZYakg4UEJJaDh2ZFhkOVJZcFBsM2ZBTzVoRnNGRGllVW1oQVh6SE5XbVJQXy16ei1RMTVXYUxNQzZsakRIZ3dZMDdsMm9LZ2pn0gFzQVVfeXFMTzZlM1hqdjdNdWJxek03eUZUcW9CRzFzamY1dzZDZ05DbkYtT0F4NmxhUXY3WTh4QnF3TU9WYWE3WmhUQmxKSm9Pd3d3eDNZUDlpemRhNVJST3Y2OGFWZUE2bmpoQjFCQTgyMy1nX2U0MzJiVQ?oc=5"
-    },
-    {
-      "division": "AVP본부",
-      "d": "2026-09-23",
-      "t": "최영석 분과위원장 \"테슬라의 자율주행 과장, 그냥 넘길 수 없었죠\"",
-      "s": "한국경제",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2N0lueXhBUWU4SllPX1VENlhNdUN1Mk5iVVlvV2llbGlZOE42QkNjc1ROaVBvN1VWSFJucUFNT2Q1V05vZjJtd0NGNkxtVWlMbnF6RU13NnBuZw?oc=5"
-    },
-    {
-      "division": "로보틱스LAB",
-      "d": "2026-09-22",
-      "t": "변압기 공장 누비는 로봇개…LS일렉트릭, 보스턴다이내믹스 '스팟' 도입",
-      "s": "지디넷코리아",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51NWktc0czSWlERzc1clpYS1VkVEQ5YzJiY3BjSl9wSU9BUVBwNTl5c254cC13MEc3SEkxRW56dllZam9zZ3Q0aWlOVTdJb0Q1MmhLRUlB?oc=5"
-    },
-    {
-      "division": "로보틱스LAB",
-      "d": "2026-09-21",
-      "t": "현대차·소프트뱅크, 보스턴다이내믹스 연구조직 ’RAI’ 매각 합의…美 CFIUS 심사 돌입 By The Guru",
-      "s": "Investing.com 한국어",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12LWhjLTlibm1oMTBzalYxQ21XSHc4VVh0VFMwSzUxTkdCY1QxcXlnWF81TWN5NmlTWFUwRVhTQVZLMGV2dXlzakc3V3dWZFJiUFBIWXRpUThlZ3FpTnVqRlNGaDdtNE5OcmE5NVUwbnQ?oc=5"
-    },
-    {
-      "division": "AVP본부",
-      "d": "2026-09-20",
-      "t": "버스는 무료인데 운전은 누가 하나…일본이 지방에 자율주행차 넣는 이유",
-      "s": "조달경제신문",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MYkVsZUtXX2tybUJCZHJoY0huZzRPSHJaVndwZEhNdGw4OV92VUNVVVByX01CbWZBQ1FESC1heDkwczdrS0dvTGNWWTZsdHZkeVMxM25hZHRDc19tOEh3WUx1TFFCNE93ZXk2WjdB?oc=5"
     }
   ],
   "fx": {
-    "usdkrw": 1357.41,
-    "updatedAt": "2026-09-26T23:28:03.047Z"
+    "usdkrw": 1357.05,
+    "updatedAt": "2026-09-27T23:43:34.060Z"
   },
-  "updatedAt": "2026-09-26T23:28:03.047Z"
+  "updatedAt": "2026-09-27T23:43:34.060Z"
 }
