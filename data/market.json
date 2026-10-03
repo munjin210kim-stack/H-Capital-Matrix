@@ -2,10 +2,10 @@
   "news": [
     {
       "division": "로보틱스LAB",
-      "d": "2026-10-02",
-      "t": "\"다섯 손가락 필요 없다\"...보스턴 다이내믹스, 네 손가락 로봇 손 공개",
-      "s": "AI타임스",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IcldoN3hsbTRqUVd3VGxBRW1fdmpIVkJ5c1AwaVJHZEgyX1V5THJWYTYyYzZyNVJOZ3E5RjNKZldqZ1l2d3lCMjdwbFllT05nMTEyMVQxaGQzOXF0VUE4TUkyTTdzaVJ1eVE?oc=5"
+      "d": "2026-10-03",
+      "t": "휴머노이드 로봇 5사, 양산 공장 가동하며 제조 역량 경쟁 본격화",
+      "s": "글로벌이코노믹",
+      "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbThpMkFaMVNWdWZPRnlTeUpFa1lyZk1aT1hISE1jYmZFRHJpdUV6ZmN5a3NEMGExeDM1akYxdUQyeFI0bl9wSy1GWWpEb25uNVcyWlhyaElhMkZhY05Nb0VweGFveGx0NWZNWlV4NzJBemxoUjVIX2FOZk9zMEdIVDZZYkxtdmM?oc=5"
     },
     {
       "division": "수소연료전지",
@@ -22,6 +22,13 @@
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Tb3M2aFBHUnVoWUNBSzdPNmVXSHNBc3Z2ZmFWSDhUZ2plelh3d2RFVTk2aHRUajZMVjB2MUUxeFpHU2pEYmdPb3JDblU1dHdBVkRjVUhkVDFjd9IBX0FVX3lxTE1obXFqVEpUOURFM2o1UmtOOUtIbFFhdUxpQ1FMRU9lVXhmVHRkVHRpdEJwZ1B3a2Y3WVFIWWtfTlZUd1g5M1pXOGRkelZOQnlxZEpHOXZqMjZxOGg1dy1Z?oc=5"
     },
     {
+      "division": "로보틱스LAB",
+      "d": "2026-10-01",
+      "t": "보스턴다이내믹스, '4지' 차세대 로봇 손 공개…미세 조작으로 완벽 작업 수행",
+      "s": "더구루",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1pUmZoYldvUHV4WmdnenpDQU1nRlpVQTd3LXpQTjJfVE9MN0Z6UjM0VHQtQUJEOXVxeDFRVWNzTmpNakg4THNkdFBtX282M19MV2JlM3ZFLWxDMkxvZ2tHek1MYw?oc=5"
+    },
+    {
       "division": "SDV본부",
       "d": "2026-10-01",
       "t": "소프트웨어가 차량 기능을 정의하고, 반도체가 이를 구현한다",
@@ -29,11 +36,25 @@
       "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wX1VyN1VYQnc5emVIOUptN0pYLU1mNGNPUEdodkd0ODl0LXFNSVdMQlFZUHJIY3JKbElSNnJiRkZKNzh1RTJ2a1hUd0U4YVhjdlBua0dTbjNwVG9LYWI1NVUtQXp4X09MckVUWUdrVjNJdUQ0?oc=5"
     },
     {
-      "division": "로보틱스LAB",
+      "division": "AVP본부",
       "d": "2026-10-01",
-      "t": "타이어 번쩍 든 ‘아틀라스’…현대차 공장 투입 앞두고 실전훈련",
-      "s": "중앙일보",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUZ1lyc2pjVnNiTVlWdlROS0xieUR5ZTFfRFh4YW9aSEwwMURxNVVQSU1ua29wbWY0MXlBNnpUMXctWm9uNXQxNXFDVTVxeUNWZ2RBZk13?oc=5"
+      "t": "[현대차 자율주행 해부] 박민우 '데이터' 전략, 자율주행버스서 시험대",
+      "s": "블로터",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iTXJLWjhZcUlNVXNrUlc2ZmJ1eFZRSEFncFlsTVZrZ3l0UHlmdjExaUxsbjZyVVhYNExHR2xUb1lEcUhiaUZIelVLZkhRY0NvZEw5bWJfWUVlc0dmVThKRUFtbU4wTEJG0gFsQVVfeXFMUDFOX0ZkWmdzbVRLdDBkZlhpZmR0ZU14V09aS0RlM3BFanctUVlwc0hUdzVvWlhYRHdSOU9McnBvMG0zMW15TjdPU2ZTZkhiRWtwZ0xpQWlRenJIcW5TaTRwVGU0V1ZxeDBkTWlK?oc=5"
+    },
+    {
+      "division": "AVP본부",
+      "d": "2026-10-01",
+      "t": "현대차·기아, 서울 시내버스 '레벨4' 자율주행 차량·관제 모두 맡는다..서울시와 MOU",
+      "s": "한국정경신문",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9WWUtUeWd6WnFkTFhNQ1N6cmpuTFNtNVdaaUJ4bVpZbjRlU3UwQ01jd0RxaGI0ZEM4YkpRci1GQmM2TkdLVFE4cnpoNFV5dy0wT0E?oc=5"
+    },
+    {
+      "division": "AVP본부",
+      "d": "2026-10-01",
+      "t": "충전은 한 번에, 버스는 자율주행…현대차그룹 ‘공공 모빌리티’ 속도",
+      "s": "에너지경제신문",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPalJJMUlxT3FWS2pTdVpoZHRLYWR6SXBhQ2dHNVRST1RUd1I1dlBnTzdtajl1N1NyTkZxTE9NRE5WaUFSdEdWcUhqUDdBRGNaR3U2ZnIyc2VqdDA?oc=5"
     },
     {
       "division": "승용사업부",
@@ -95,7 +116,7 @@
       "division": "수소연료전지",
       "d": "2026-06-10",
       "t": "현대자동차그룹 HTWO 광저우, ‘2026 국제수소에너지 및 연료전지차 대회’ 참가 | 뉴스 | 현대자동차그룹",
-      "s": "Hyundai Motor Group",
+      "s": "hyundaimotorgroup.com",
       "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTFF0TnlOU3EzWmpiQ0NjemVCM0MwYndjSk1EZDFMVFZUNmRWVlk4a1UzLWNqOHByMk81TW5RZ1VuY1h3MEZscTg2V3Q2Z3pMb2YzWERYYjFKNS1SbEZ6cTBrcjhxbVk5ZHRvdm1RNkhoRmdlY2pmU1ZPTS1FUERsQm9hMHhpRW1ubDNkN3hEQjZuZksyVEpGSDRfWG1jb0Z2bUFpVWcwVDZiWFNaMzlqZ1RR?oc=5"
     },
     {
@@ -123,8 +144,22 @@
       "division": "AAM본부",
       "d": "2022-07-29",
       "t": "현대차그룹, ‘미래 항공 모빌리티’의 개념을 다시 정립하다 | 저널 | 현대자동차그룹",
-      "s": "Hyundai Motor Group",
+      "s": "hyundaimotorgroup.com",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYQlhLNWJmR3JCSEJmanZpZEk5MTE2US1BM09FM0ZEWEdPR000aUVGU2tBckgtTkc0Q0dFeUdkbEJZR0t3UmNMc1cwdW5jbkRGQm42YXBOZkF0OFdPemppNko4WnVYRzdKVXlic2diZVg?oc=5"
+    },
+    {
+      "division": "로보틱스LAB",
+      "d": "2026-10-02",
+      "t": "\"다섯 손가락 필요 없다\"...보스턴 다이내믹스, 네 손가락 로봇 손 공개",
+      "s": "AI타임스",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IcldoN3hsbTRqUVd3VGxBRW1fdmpIVkJ5c1AwaVJHZEgyX1V5THJWYTYyYzZyNVJOZ3E5RjNKZldqZ1l2d3lCMjdwbFllT05nMTEyMVQxaGQzOXF0VUE4TUkyTTdzaVJ1eVE?oc=5"
+    },
+    {
+      "division": "로보틱스LAB",
+      "d": "2026-10-01",
+      "t": "타이어 번쩍 든 ‘아틀라스’…현대차 공장 투입 앞두고 실전훈련",
+      "s": "중앙일보",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUZ1lyc2pjVnNiTVlWdlROS0xieUR5ZTFfRFh4YW9aSEwwMURxNVVQSU1ua29wbWY0MXlBNnpUMXctWm9uNXQxNXFDVTVxeUNWZ2RBZk13?oc=5"
     },
     {
       "division": "로보틱스LAB",
@@ -132,20 +167,6 @@
       "t": "“비트 결합하고, 너트 조이고”…현대차그룹, ‘아틀라스’ 차세대 로봇손 공개",
       "s": "서울경제",
       "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9GSXlyY1NyVmxxdFczS0Z4di1PcHVvREdySGdlcW9vUGVRMktrQ2FaSVFMdUFpbld2UFA1Y19WanhBUlB3U200VElVS1d3ZDRUUkHSAVNBVV95cUxQazRKWENmaVRSSUFGYzEtTmNla1pxdkd3V0hfWlRMRFV1YlYyLVdXY0NnV3BvQTB5alFMYm16RFR4VklhRUVsRnpnWlZvbnhXWnFwbw?oc=5"
-    },
-    {
-      "division": "AVP본부",
-      "d": "2026-10-01",
-      "t": "현대차·기아, 서울 시내버스 '레벨4' 자율주행 차량·관제 모두 맡는다..서울시와 MOU",
-      "s": "한국정경신문",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9WWUtUeWd6WnFkTFhNQ1N6cmpuTFNtNVdaaUJ4bVpZbjRlU3UwQ01jd0RxaGI0ZEM4YkpRci1GQmM2TkdLVFE4cnpoNFV5dy0wT0E?oc=5"
-    },
-    {
-      "division": "AVP본부",
-      "d": "2026-10-01",
-      "t": "충전은 한 번에, 버스는 자율주행…현대차그룹 ‘공공 모빌리티’ 속도",
-      "s": "에너지경제신문",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPalJJMUlxT3FWS2pTdVpoZHRLYWR6SXBhQ2dHNVRST1RUd1I1dlBnTzdtajl1N1NyTkZxTE9NRE5WaUFSdEdWcUhqUDdBRGNaR3U2ZnIyc2VqdDA?oc=5"
     },
     {
       "division": "AVP본부",
@@ -258,32 +279,11 @@
       "t": "보스턴다이내믹스 누적 손실 1.7조·상장 연기… 현대차, ‘로봇 프리미엄’ 빠졌다 - 조선비즈",
       "s": "biz.chosun.com",
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNTlGMFg2dF92d0ZIcmNXLXJibU9kTEZwa3VndVJTaDJRNVQtcW9Palp5Yk13U3V4dFNtOUNEN0ZGbXJTWlJqbmtFRVE0cGxqT2lDak91THc3M2JCMTZZc2NPdThsU0NudlNEaDVTRTdrVUx4eEZiemw4bjFtNS1ncHZhNkczeVhw0gGcAUFVX3lxTE1MTFAwNkhmYzVsVjBzZ1o1R3JkRG5sMFZuZUhaYURZX1dLSWVMQVdUczRyUFgzT3dBM1NIRXhRaFVIY2EtY2lyMXctOEx5ZEV5YVo3WFA2Nk91b241ZG90T0hVYUFKbTBwa3Q2VnNuRmE2S19mSzB6ZnZsNGloRW5GX095Q3Q2a2ljSUNyZmkyYWUzU01xbTdRS1ZnSA?oc=5"
-    },
-    {
-      "division": "AVP본부",
-      "d": "2026-09-29",
-      "t": "[단독] 자율주행 켜지면 현대차·기아 '운전 손잡이' 숨는다…韓美 특허 공개",
-      "s": "v.daum.net",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VY0hjN1VqNFlfWlNmU21ZX1VoQjRFZWpaalQ0bGFfRlBfNEtUVU1zOFpXVFpGWGk0ZS1Wc0xFMlFxUjMyZ2xVSVdMVHZJNlk?oc=5"
-    },
-    {
-      "division": "승용사업부",
-      "d": "2026-09-28",
-      "t": "美 EV 보급 속도 조절…현대차·기아, 현지 생산·판매 유연 대응 ↑",
-      "s": "아시아투데이",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EczRXTUFWS2lLMEFPRktmOFB0a2pabm9PdS1TSU9oR3I2dG5DSnRhbWJWMVFHbTd3S2l0bktPMm1maV9renRWb2lrcnBuMVduNUJaN0V2YUo2VDg0cmQ2Zm5FcS00NHdhdGlQUHhn?oc=5"
-    },
-    {
-      "division": "AVP본부",
-      "d": "2026-09-28",
-      "t": "한국도 유럽도…규제와 예산 앞에 멈춰 선 자율주행",
-      "s": "녹색경제신문",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZX0RXX3ZJSFdFTm5DWGdvLWh2QWpKRTFLU1ZTMWZWYVU5LXVwQ2JzbjdlaVJHNEE5Vy1vYzgwbzZmOGZxM2Iza0xTbFNMcW5SdTBTYzhDNDFOamVPWDJVbnhBbnNJc3NE?oc=5"
     }
   ],
   "fx": {
     "usdkrw": 1347.39,
-    "updatedAt": "2026-10-03T00:19:54.990Z"
+    "updatedAt": "2026-10-03T23:42:00.313Z"
   },
-  "updatedAt": "2026-10-03T00:19:54.990Z"
+  "updatedAt": "2026-10-03T23:42:00.313Z"
 }
