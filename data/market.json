@@ -1,32 +1,46 @@
 {
   "news": [
     {
-      "division": "로보틱스LAB",
-      "d": "2026-10-03",
-      "t": "휴머노이드 로봇 5사, 양산 공장 가동하며 제조 역량 경쟁 본격화",
-      "s": "글로벌이코노믹",
-      "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbThpMkFaMVNWdWZPRnlTeUpFa1lyZk1aT1hISE1jYmZFRHJpdUV6ZmN5a3NEMGExeDM1akYxdUQyeFI0bl9wSy1GWWpEb25uNVcyWlhyaElhMkZhY05Nb0VweGFveGx0NWZNWlV4NzJBemxoUjVIX2FOZk9zMEdIVDZZYkxtdmM?oc=5"
+      "division": "SDV본부",
+      "d": "2026-10-05",
+      "t": "Applied Intuition, 혼다자동차와 차세대 소프트웨어 정의 차량(SDV) 개발 가속화를 위한 협력 발표",
+      "s": "reporternside.com",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE11X2N0STFKQ0JhQ1dZM1RoaTdKXzRyaUlKT3F5eERINE9BQTV4WE9wTGUzNE41SHMwcTRTRlVJU1lwejZyVVZ1d3JLT0djOUdrVVVQcnFZQWFBUWwzdWswVXdMRS1oTlpDdEVpenFXbHFWUQ?oc=5"
+    },
+    {
+      "division": "승용사업부",
+      "d": "2026-10-05",
+      "t": "현대차 투싼 하이브리드, 앨라배마서 생산한다",
+      "s": "애틀랜타 K 뉴스",
+      "u": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQNGxiUk1vOVEwbjdIeXI2dFZmVlFhSjVTRUJaN2x1em5sLTJsZGRBU2dJakhXcXpRVEJ0Z3pxZnoyMDNXSDB5UHB2SlRySVdzZDBWZXdOM2tTQ1NTVkdfNzExM1lBcEdQVnB2enI2TVJGeEFqakhvcmlJei1SR1dFdFZyQUhnWEV0NjNGcExMaEVLYUtjZWNRTjU0ZlIxU3VQanFFY3lLS3BDN2p2ZGlkUDR0QmZFLU4zaGJHRk9QdkE3b0dSQ3hMdUhmQlZKRXdVX3FsdXJ3ZU40a2xLV2dpYk93X1NSSHlhNk5HTjF0QllvcUxGMUY5eGxMcmMyQXdJMWpsVVdYcENuVHRRb0NfTlRMaVNZdEhjQThyLVdlS1NmNkk?oc=5"
     },
     {
       "division": "로보틱스LAB",
       "d": "2026-10-02",
-      "t": "‘네 손가락’ 아틀라스, 너트 조이고 드릴 척척",
-      "s": "동아일보",
-      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vT2VoVWg5RDU5eUFZelIyemZxbGZXZ1EteTFpdWxRYlVjWEI0ZzVjQUt1WTRLMHJESHpkRE80X1doUjduQlh6Wk84TXZQckg0bVdhT1VzMlZJdjEyZ2R1MUJWVWF0RTUxTjNkV2FrWUxqYWRHLUg3ONIBZkFVX3lxTFB3RW5aSHI3N29ocE84M2dpYU1ZSnF3V0xxXzU2QU80VlZndnJmQ2dMdDhEaWU3RW5tc0gwR195SW00MnRFSHVYN015eUpGdGdCbVNnenE0dUs0VVFiekJCOG9TTGljdw?oc=5"
+      "t": "\"다섯 손가락 필요 없다\"...보스턴 다이내믹스, 네 손가락 로봇 손 공개",
+      "s": "AI타임스",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IcldoN3hsbTRqUVd3VGxBRW1fdmpIVkJ5c1AwaVJHZEgyX1V5THJWYTYyYzZyNVJOZ3E5RjNKZldqZ1l2d3lCMjdwbFllT05nMTEyMVQxaGQzOXF0VUE4TUkyTTdzaVJ1eVE?oc=5"
     },
     {
       "division": "수소연료전지",
       "d": "2026-10-02",
       "t": "외계어 없이 이해하는 암호화폐 : 장점, 단점 및 활용 방법",
-      "s": "Calgary Roughnecks",
+      "s": "calgaryroughnecks.com",
       "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5vamsxZUlIak1pbGUza183bmlGQnlESWItR1QzRXR2NnNxRkljeXBnNUp1c29sZm9uRHphQ25qYXdIc1VIUmgtaUxhWUJrRXl5UkhtTzZsNWotejQwVXFodU9PTkEyZHppS0RBQkh0OHA5Q0ZPekE?oc=5"
     },
     {
       "division": "로보틱스LAB",
       "d": "2026-10-02",
-      "t": ": 다나와 자동차",
-      "s": "다나와 자동차",
-      "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWVY0N0c0Q2R3QWdsQ1hILVplcmpWY2daWFAxYzRXM3EtZk95LVBnZkhnY3BuSmFZQlE4ck00T2dxdUF5YjBNQ2NEaHUzTkJNeXFjZVRUVGVXdDctOHFWaDVqbVUzQ3FiSzJZbm5vaTB4Y2xWU0w1QmV4UHpIR1RNUFVR?oc=5"
+      "t": "드릴로 나무 뚫고 너트 조이고…아틀라스, 사람처럼 공구 쓰는 ‘손재주’ 선보여",
+      "s": "조선일보",
+      "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zaUFyU2YyeWZteFJCMUZEMFBYOXlrejdqQk9fQUVIeExkczd4d21NTkpScGlCRmlwQTFOWlo5WHljaF9tWm5ZLUpuMlFvSVk5Qm5Gb3VtRDRfcnBJMk84MGNNWjVQa0VVdy1CbnRxaTJ0M2ttX3NOTEg0dmFRckU?oc=5"
+    },
+    {
+      "division": "로보틱스LAB",
+      "d": "2026-10-01",
+      "t": "보스턴다이내믹스, '4지' 차세대 로봇 손 공개…미세 조작으로 완벽 작업 수행",
+      "s": "더구루",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1pUmZoYldvUHV4WmdnenpDQU1nRlpVQTd3LXpQTjJfVE9MN0Z6UjM0VHQtQUJEOXVxeDFRVWNzTmpNakg4THNkdFBtX282M19MV2JlM3ZFLWxDMkxvZ2tHek1MYw?oc=5"
     },
     {
       "division": "SDV본부",
@@ -51,24 +65,10 @@
     },
     {
       "division": "승용사업부",
-      "d": "2026-10-01",
-      "t": "현대차, 북미 생산 확대…알라바마서 투싼 하이브리드·싼타페 EREV 생산",
-      "s": "press9.kr",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPV0d4QmJSSzMzUjNiREI5ZWRBMWVwX2JyOXhQMWR0enZHN3NhMmxfWHZjdk43ZFBFMmFWdTRoXzJqeVExNDZoMkpWbXVDcG5HclVCQWdZdDVpWmNGR3M2b2JhVUs?oc=5"
-    },
-    {
-      "division": "승용사업부",
       "d": "2026-09-29",
       "t": "“빗장 풀린 美 연비 규제”... 현대차, HEV 날개 달고 ‘실리’ 챙기나",
-      "s": "it.chosun.com",
+      "s": "IT조선",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoNFdIWU1xZ3Q1UmNoTEt0Q21FTHREZUFOSURnTzRzaHBjdHJNakM1YWNpY0tKczdYSzNBZnQzOTRiZFAxX2hpYmRHMm40OV81RUZWWk0wQkdhWUtlNC1EY25DS196T1FJZGEyZE83SlLSAXRBVV95cUxQbFRIWlJxS1NKTURiOTI0TXYwYjFLSDJkcDFIUmhMejl6dFRGNlphWWFHQXlxQWpJaXV2Vk9xRVVBeXRMcGZpcldkWDhFLW45Mm1XbXVkQUswN2c3S21weVhhZzdfSHBpb2hpcjg0YVYzeF8yTA?oc=5"
-    },
-    {
-      "division": "승용사업부",
-      "d": "2026-09-28",
-      "t": "트럼프 미국 전기차 전환 속도 더 늦춘다, 정의선 현대차그룹 현지 하이브리드 생산 더 늘리나",
-      "s": "비즈니스포스트",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRMUJwR09kVElVbEFlUXA5SUFQT3pOSndTRXdKdzJnLWlrM21od0FjWnZuZFE3cmdRaW03UzFDaFI4TV9oVXNuWUlfVFV0UHgyRTlEOFk5VU92bUlIc1hQckFLbUtnZGpoeG1WaVNuU3cyOE0?oc=5"
     },
     {
       "division": "SDV본부",
@@ -102,7 +102,7 @@
       "division": "수소연료전지",
       "d": "2026-06-10",
       "t": "현대자동차그룹 HTWO 광저우, ‘2026 국제수소에너지 및 연료전지차 대회’ 참가 | 뉴스 | 현대자동차그룹",
-      "s": "Hyundai Motor Group",
+      "s": "hyundaimotorgroup.com",
       "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTFF0TnlOU3EzWmpiQ0NjemVCM0MwYndjSk1EZDFMVFZUNmRWVlk4a1UzLWNqOHByMk81TW5RZ1VuY1h3MEZscTg2V3Q2Z3pMb2YzWERYYjFKNS1SbEZ6cTBrcjhxbVk5ZHRvdm1RNkhoRmdlY2pmU1ZPTS1FUERsQm9hMHhpRW1ubDNkN3hEQjZuZksyVEpGSDRfWG1jb0Z2bUFpVWcwVDZiWFNaMzlqZ1RR?oc=5"
     },
     {
@@ -130,8 +130,29 @@
       "division": "AAM본부",
       "d": "2022-07-29",
       "t": "현대차그룹, ‘미래 항공 모빌리티’의 개념을 다시 정립하다 | 저널 | 현대자동차그룹",
-      "s": "Hyundai Motor Group",
+      "s": "hyundaimotorgroup.com",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYQlhLNWJmR3JCSEJmanZpZEk5MTE2US1BM09FM0ZEWEdPR000aUVGU2tBckgtTkc0Q0dFeUdkbEJZR0t3UmNMc1cwdW5jbkRGQm42YXBOZkF0OFdPemppNko4WnVYRzdKVXlic2diZVg?oc=5"
+    },
+    {
+      "division": "로보틱스LAB",
+      "d": "2026-10-03",
+      "t": "휴머노이드 로봇 5사, 양산 공장 가동하며 제조 역량 경쟁 본격화",
+      "s": "글로벌이코노믹",
+      "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbThpMkFaMVNWdWZPRnlTeUpFa1lyZk1aT1hISE1jYmZFRHJpdUV6ZmN5a3NEMGExeDM1akYxdUQyeFI0bl9wSy1GWWpEb25uNVcyWlhyaElhMkZhY05Nb0VweGFveGx0NWZNWlV4NzJBemxoUjVIX2FOZk9zMEdIVDZZYkxtdmM?oc=5"
+    },
+    {
+      "division": "로보틱스LAB",
+      "d": "2026-10-02",
+      "t": ": 다나와 자동차",
+      "s": "다나와 자동차",
+      "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWVY0N0c0Q2R3QWdsQ1hILVplcmpWY2daWFAxYzRXM3EtZk95LVBnZkhnY3BuSmFZQlE4ck00T2dxdUF5YjBNQ2NEaHUzTkJNeXFjZVRUVGVXdDctOHFWaDVqbVUzQ3FiSzJZbm5vaTB4Y2xWU0w1QmV4UHpIR1RNUFVR?oc=5"
+    },
+    {
+      "division": "승용사업부",
+      "d": "2026-09-28",
+      "t": "트럼프 미국 전기차 전환 속도 더 늦춘다, 정의선 현대차그룹 현지 하이브리드 생산 더 늘리나",
+      "s": "비즈니스포스트",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRMUJwR09kVElVbEFlUXA5SUFQT3pOSndTRXdKdzJnLWlrM21od0FjWnZuZFE3cmdRaW03UzFDaFI4TV9oVXNuWUlfVFV0UHgyRTlEOFk5VU92bUlIc1hQckFLbUtnZGpoeG1WaVNuU3cyOE0?oc=5"
     },
     {
       "division": "로보틱스LAB",
@@ -139,13 +160,6 @@
       "t": "“새끼손가락 묶고 하루 일해봤더니”…휴머노이드 로봇 아틀라스의 ‘네 손가락’ 손기술은?",
       "s": "경향신문",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Tb3M2aFBHUnVoWUNBSzdPNmVXSHNBc3Z2ZmFWSDhUZ2plelh3d2RFVTk2aHRUajZMVjB2MUUxeFpHU2pEYmdPb3JDblU1dHdBVkRjVUhkVDFjd9IBX0FVX3lxTE1obXFqVEpUOURFM2o1UmtOOUtIbFFhdUxpQ1FMRU9lVXhmVHRkVHRpdEJwZ1B3a2Y3WVFIWWtfTlZUd1g5M1pXOGRkelZOQnlxZEpHOXZqMjZxOGg1dy1Z?oc=5"
-    },
-    {
-      "division": "로보틱스LAB",
-      "d": "2026-10-01",
-      "t": "보스턴다이내믹스, '4지' 차세대 로봇 손 공개…미세 조작으로 완벽 작업 수행",
-      "s": "더구루",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1pUmZoYldvUHV4WmdnenpDQU1nRlpVQTd3LXpQTjJfVE9MN0Z6UjM0VHQtQUJEOXVxeDFRVWNzTmpNakg4THNkdFBtX282M19MV2JlM3ZFLWxDMkxvZ2tHek1MYw?oc=5"
     },
     {
       "division": "AVP본부",
@@ -167,13 +181,6 @@
       "t": "GM, 2025년 美 전기차 시장 2위…테슬라 선두 '여전'",
       "s": "디지털투데이",
       "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BS21va3FBV2JmWEZPWTdjSWRsWUlMZUpXYXVDaDR5cnhxR1FOOUZLODVBVzRIeXAxSWo1Q0dvUkdEWWc4dnhkRmpfaVpfOTJzMExwVEh3LThkWnBEOGFtelpGdHBsbmdRRkJCZzdNcktjLWs?oc=5"
-    },
-    {
-      "division": "로보틱스LAB",
-      "d": "2026-10-02",
-      "t": "\"다섯 손가락 필요 없다\"...보스턴 다이내믹스, 네 손가락 로봇 손 공개",
-      "s": "AI타임스",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IcldoN3hsbTRqUVd3VGxBRW1fdmpIVkJ5c1AwaVJHZEgyX1V5THJWYTYyYzZyNVJOZ3E5RjNKZldqZ1l2d3lCMjdwbFllT05nMTEyMVQxaGQzOXF0VUE4TUkyTTdzaVJ1eVE?oc=5"
     },
     {
       "division": "로보틱스LAB",
@@ -272,18 +279,11 @@
       "t": "美 연비 규제 대폭 완화…현대차·기아, 하이브리드 전략에 기회",
       "s": "PRESS9",
       "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1CZGFieUh2eUhlLTkxQ2UySW10aUdmRXZlRG9lbFhaTktON0EtZk4wYTdyT25seHFIejl2VWNwTHZvYTNvSjNBOC1Oa19uQUxYSVdTSUxNQ1d3Qm1qS0ZGd2J4S3g?oc=5"
-    },
-    {
-      "division": "로보틱스LAB",
-      "d": "2026-09-27",
-      "t": "아틀라스 공장 투입 초읽기…‘부품 전담’ 현대모비스에 쏠린 눈",
-      "s": "대한경제",
-      "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRXpRVUxJZ1N4RmZIQUxlc3daU3hPS2gzVy1uWE5KeGgyTkE1bUJvNTV0RlRiZ0t2amFVVWNLRnlRMG9SSW95dEJGelA4UUNjcXF5MlF2Q2NTbWRUaXdxcTF1MUFQcjdGb01YNk5Lc1IteERKV093Q3BOcl9UWE13ZDRibTRQS00?oc=5"
     }
   ],
   "fx": {
-    "usdkrw": 1348.61,
-    "updatedAt": "2026-10-04T23:54:10.686Z"
+    "usdkrw": 1342.77,
+    "updatedAt": "2026-10-06T01:42:36.558Z"
   },
-  "updatedAt": "2026-10-04T23:54:10.686Z"
+  "updatedAt": "2026-10-06T01:42:36.558Z"
 }
