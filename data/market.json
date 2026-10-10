@@ -1,6 +1,20 @@
 {
   "news": [
     {
+      "division": "AVP본부",
+      "d": "2026-10-09",
+      "t": "[알쓸신기] 운전대에서 손을 놓았는데 코너를 돈다?… 자율주행 자동차 `삼안`",
+      "s": "디지털데일리",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0RWlFbmVFREN4MVBNWmptUGVyUnFET1JSSEk2Wk4zX2VtODM3ZmRGbHVHMTFDSHhvbXE3TzdaSGJOd3J2SjBoTk1DTDVEbW15YlNTZWZJc0lIUVVidlZCaTJn?oc=5"
+    },
+    {
+      "division": "로보틱스LAB",
+      "d": "2026-10-08",
+      "t": "[영상] 보스턴다이내믹스, '4지' 차세대 로봇 손 공개",
+      "s": "더구루",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uQ1hkWUlXdW04TWc0Rm1Db0M1NVljVkJzVjkzUVQ1b1pfdzNTQURPUGV5cG5iWEVUc3VYeWcxYzl5aEJMR1R5dENJRGdnTnNITk4zLWdDbDdJc2ZzNXRZSw?oc=5"
+    },
+    {
       "division": "로보틱스LAB",
       "d": "2026-10-08",
       "t": "車 넘어 로봇으로…6년 전 승부수, '피지컬 AI'로 결실[정의선 회장 취임 6년 변화·혁신③]",
@@ -13,13 +27,6 @@
       "t": "[데스크 칼럼] 테슬라 자율주행을 따라잡으려면",
       "s": "한국경제",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAybzVOdUFuTEFzQ1JhYUtDeUlicjE4Z0FtajB1VGh2b05mbXFDczhBUFhCTE9sSWgxTHBWcnpvdm4tTFlCZUR3b1d1ZDlJY1QwOEZkdldUNVVlQQ?oc=5"
-    },
-    {
-      "division": "AVP본부",
-      "d": "2026-10-08",
-      "t": "오토노머스에이투지, 광명시 자율주행 버스 시범 운행 시작",
-      "s": "모터그래프",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzY09uNUtHVEVtQXVUVFhUa2NJM0RRZFJvWElCeUUwVlliZmEzM1QxU2xLT2otN2tqcW1DNjhMVkVsaF9hMjhnTlljUjNFM0JFMW9aRm1pa29BYXM4ZWYtQlA3YVpXMDZFWFBPdQ?oc=5"
     },
     {
       "division": "AAM본부",
@@ -38,9 +45,9 @@
     {
       "division": "로보틱스LAB",
       "d": "2026-10-07",
-      "t": "보스턴다이내믹스, ‘알렉사’ 수장 영입…1.7조 적자 넘어 수익화 시험대",
-      "s": "아시아투데이",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9reWVGazZJRGxMZzFoSG1FbUxsZHhCcXVRNUltc1Z1QnVyeXltVnNpdnBsRlBTV3BHQzJFSWt1aUdyVXBJVjAycVMxRHgwQ0dfVEIwaWJZY2Q4MUo5ODRwd1p5V2ZVcUgxRVIxZFpB?oc=5"
+      "t": "아마존서 '음성 AI' 개발하다가 '피지컬 AI' 로봇 회사 수장으로…보스턴다이내믹스 CEO 선임",
+      "s": "네이트",
+      "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wb0NGNzQ5R2lKNmdTLXctMzBXWG9tRGY0SDV2UFR5OE43bFliVHZTM3VYNF9wOTNBTG9fc3NPd2xXQWEtNk5wQktkeG1vU3dLcDBz?oc=5"
     },
     {
       "division": "승용사업부",
@@ -55,13 +62,6 @@
       "t": "보너스 횟수가 늘어나는 조건은? 38 카지노 먹튀 규칙 찾기",
       "s": "Calgary Roughnecks",
       "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQb19qMzNNeERLTk1FYVlPNHZGTGRnU3ZtbWMxdlFyQS1xSlN2RGJWSjVza3BsWHljZDhVOGs1dXp0cWxYcmhNN21vYTE4NnA5SnJyUTVZTVJBTTdNQ1NrM0tJTm4xQ0hMNmR4ZGpuTGlRZ0JPVkw1aVg5cnZ0YjZWYXR4TkRiVGFoZWpITHgzMkRCVF9zRjNVakZQWXE3X3h6eGhRYWVGNFBjVGVjN2VtdlVVR1FCMEdXS0xV?oc=5"
-    },
-    {
-      "division": "로보틱스LAB",
-      "d": "2026-10-06",
-      "t": "[오늘의 DT인] “가장 놀라운 순간이지만 갈 길 멀다”… 보스턴다이내믹스 창립자가 본 로봇의 미래",
-      "s": "Daum",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQT3VyX01iR09LQnpGVC0tSnU5RTFqcjB3Y0p2bmRmRzFLRWV5TGFHUURoV2toUkZTT0ZYNWtCYmh0T2NMVndBVlVuV2NZNHM?oc=5"
     },
     {
       "division": "SDV본부",
@@ -128,10 +128,10 @@
     },
     {
       "division": "경쟁사",
-      "d": "2026-02-05",
-      "t": "GM, 2025년 美 전기차 시장 2위…테슬라 선두 '여전'",
+      "d": "2026-03-30",
+      "t": "GM EV1부터 테슬라 로드스터까지…전기차 시대 첫 클래식카는?",
       "s": "디지털투데이",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BS21va3FBV2JmWEZPWTdjSWRsWUlMZUpXYXVDaDR5cnhxR1FOOUZLODVBVzRIeXAxSWo1Q0dvUkdEWWc4dnhkRmpfaVpfOTJzMExwVEh3LThkWnBEOGFtelpGdHBsbmdRRkJCZzdNcktjLWs?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MWUJzTmZwdk9RNm16Q0dFcTg5MjdzQ2J2cHBvOF9XcjR3TUJCYU1HZjAyRnVGRW5uZDJXWFZVaGdaaHFkVmZldGVSUElkVUFRdU9YVjR4Q3ZWZURuekFEWUNkQ1Y1anVacTlJZFp5d0NqSEk?oc=5"
     },
     {
       "division": "AAM본부",
@@ -139,6 +139,34 @@
       "t": "[단독] 대한항공 ‘UAM 신호등’, 바람 따라 하늘길 열고 돌발 상황엔 고도별 선회 대기시킨다",
       "s": "에너지경제신문",
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SUEd0Vk1EWmlRdVAzWk9ES1JGeDU4MVA5UjBKdXZ4eTg5aWJvMW1DWDdERzhZWjdoVkd5S2pQRkl0TTJjS2lMTEFmUlBhc2JvMHN6TUdwNnhDUTQ?oc=5"
+    },
+    {
+      "division": "AVP본부",
+      "d": "2026-10-08",
+      "t": "오토노머스에이투지, 광명시 자율주행 버스 시범 운행 시작",
+      "s": "모터그래프",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzY09uNUtHVEVtQXVUVFhUa2NJM0RRZFJvWElCeUUwVlliZmEzM1QxU2xLT2otN2tqcW1DNjhMVkVsaF9hMjhnTlljUjNFM0JFMW9aRm1pa29BYXM4ZWYtQlA3YVpXMDZFWFBPdQ?oc=5"
+    },
+    {
+      "division": "로보틱스LAB",
+      "d": "2026-10-07",
+      "t": "보스턴다이내믹스, ‘알렉사’ 수장 영입…1.7조 적자 넘어 수익화 시험대",
+      "s": "아시아투데이",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9reWVGazZJRGxMZzFoSG1FbUxsZHhCcXVRNUltc1Z1QnVyeXltVnNpdnBsRlBTV3BHQzJFSWt1aUdyVXBJVjAycVMxRHgwQ0dfVEIwaWJZY2Q4MUo5ODRwd1p5V2ZVcUgxRVIxZFpB?oc=5"
+    },
+    {
+      "division": "로보틱스LAB",
+      "d": "2026-10-06",
+      "t": "[오늘의 DT인] “가장 놀라운 순간이지만 갈 길 멀다”… 보스턴다이내믹스 창립자가 본 로봇의 미래",
+      "s": "Daum",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQT3VyX01iR09LQnpGVC0tSnU5RTFqcjB3Y0p2bmRmRzFLRWV5TGFHUURoV2toUkZTT0ZYNWtCYmh0T2NMVndBVlVuV2NZNHM?oc=5"
+    },
+    {
+      "division": "경쟁사",
+      "d": "2026-02-05",
+      "t": "GM, 2025년 美 전기차 시장 2위…테슬라 선두 '여전'",
+      "s": "디지털투데이",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BS21va3FBV2JmWEZPWTdjSWRsWUlMZUpXYXVDaDR5cnhxR1FOOUZLODVBVzRIeXAxSWo1Q0dvUkdEWWc4dnhkRmpfaVpfOTJzMExwVEh3LThkWnBEOGFtelpGdHBsbmdRRkJCZzdNcktjLWs?oc=5"
     },
     {
       "division": "AVP본부",
@@ -246,44 +274,16 @@
       "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zaUFyU2YyeWZteFJCMUZEMFBYOXlrejdqQk9fQUVIeExkczd4d21NTkpScGlCRmlwQTFOWlo5WHljaF9tWm5ZLUpuMlFvSVk5Qm5Gb3VtRDRfcnBJMk84MGNNWjVQa0VVdy1CbnRxaTJ0M2ttX3NOTEg0dmFRckU?oc=5"
     },
     {
-      "division": "로보틱스LAB",
-      "d": "2026-10-01",
-      "t": "보스턴다이내믹스, '4지' 차세대 로봇 손 공개…미세 조작으로 완벽 작업 수행",
-      "s": "더구루",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1pUmZoYldvUHV4WmdnenpDQU1nRlpVQTd3LXpQTjJfVE9MN0Z6UjM0VHQtQUJEOXVxeDFRVWNzTmpNakg4THNkdFBtX282M19MV2JlM3ZFLWxDMkxvZ2tHek1MYw?oc=5"
-    },
-    {
       "division": "SDV본부",
       "d": "2026-10-01",
       "t": "소프트웨어가 차량 기능을 정의하고, 반도체가 이를 구현한다",
       "s": "autoelectronics.co.kr",
       "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wX1VyN1VYQnc5emVIOUptN0pYLU1mNGNPUEdodkd0ODl0LXFNSVdMQlFZUHJIY3JKbElSNnJiRkZKNzh1RTJ2a1hUd0U4YVhjdlBua0dTbjNwVG9LYWI1NVUtQXp4X09MckVUWUdrVjNJdUQ0?oc=5"
-    },
-    {
-      "division": "AVP본부",
-      "d": "2026-10-01",
-      "t": "현대차·기아, 서울시와 손잡고 레벨4 자율주행 시내버스 상용화 추진",
-      "s": "다나와 자동차",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFR3hiVmdmYzd2ZFZKMDRKd25JRi1IRVFOZ1ZkNG9UYkxhdWFndzN0Q25tSEp3b0doNjFyUzdYVnJRSTBobHJ1TXp2eTlteERFb0w4VlBBcEtZWXdxdFVERGFhcXo4X2p5cTg0Sg?oc=5"
-    },
-    {
-      "division": "승용사업부",
-      "d": "2026-09-29",
-      "t": "“빗장 풀린 美 연비 규제”... 현대차, HEV 날개 달고 ‘실리’ 챙기나",
-      "s": "IT조선",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoNFdIWU1xZ3Q1UmNoTEt0Q21FTHREZUFOSURnTzRzaHBjdHJNakM1YWNpY0tKczdYSzNBZnQzOTRiZFAxX2hpYmRHMm40OV81RUZWWk0wQkdhWUtlNC1EY25DS196T1FJZGEyZE83SlLSAXRBVV95cUxQbFRIWlJxS1NKTURiOTI0TXYwYjFLSDJkcDFIUmhMejl6dFRGNlphWWFHQXlxQWpJaXV2Vk9xRVVBeXRMcGZpcldkWDhFLW45Mm1XbXVkQUswN2c3S21weVhhZzdfSHBpb2hpcjg0YVYzeF8yTA?oc=5"
-    },
-    {
-      "division": "SDV본부",
-      "d": "2026-09-26",
-      "t": "[차의 변화 SDV-上] 하드웨어가 정한 車 기능…소프트웨어가 새로 정의",
-      "s": "글로벌이코노믹",
-      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNc2czNFJvVjNaNjRQZXJXZW5IUjRRc3p1aHNTXzZoTm9Wck1KUm92d2JIcmV0b0puX0lIVG5UZF9hWk1JcjFqV1BuUDdoV1l2U2tyLWl0T1MyM1l1QUdSVHVTZEV0LWVVLUNZS3VFeGxMcEdlNzVERnItbUdIdkpJYk9zc1NtZw?oc=5"
     }
   ],
   "fx": {
-    "usdkrw": 1342.34,
-    "updatedAt": "2026-10-09T01:06:47.622Z"
+    "usdkrw": 1341.59,
+    "updatedAt": "2026-10-10T00:39:40.493Z"
   },
-  "updatedAt": "2026-10-09T01:06:47.622Z"
+  "updatedAt": "2026-10-10T00:39:40.493Z"
 }
