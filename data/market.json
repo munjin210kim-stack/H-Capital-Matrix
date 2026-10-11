@@ -2,6 +2,13 @@
   "news": [
     {
       "division": "AVP본부",
+      "d": "2026-10-10",
+      "t": "[정의선 회장 6년] 車 넘어 '피지컬 AI' 승부수…로봇·자율주행 확장",
+      "s": "뉴스1",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YZjc5T2RTQ0tMVDRnVG1sVE56UmZNenJSLU5GcUdxa0FhRnVhbXFDZHQ5YWRBY2lYanlMeTV2dHpxVkVrblFJZ2NSalRlak05ODJfT0FMY0x0aVAwRXNhdw?oc=5"
+    },
+    {
+      "division": "AVP본부",
       "d": "2026-10-09",
       "t": "[알쓸신기] 운전대에서 손을 놓았는데 코너를 돈다?… 자율주행 자동차 `삼안`",
       "s": "디지털데일리",
@@ -17,16 +24,9 @@
     {
       "division": "로보틱스LAB",
       "d": "2026-10-08",
-      "t": "車 넘어 로봇으로…6년 전 승부수, '피지컬 AI'로 결실[정의선 회장 취임 6년 변화·혁신③]",
-      "s": "뉴시스",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DaDVpVG4tOUY1SWtDOEc3SGZZSlBSdHdUVFNSakJFTjduTTRERVIzVGIzQWFmVHpqMDdzYmM1bUVWYkstN0t3dTlKMDk5SWQyWnZzYklxbFhrSExSYndORtIBeEFVX3lxTE5YSEFPTmxrRUQxWWZaTmdyZTktcHU1NlNBZFFIckluYm1mMDhLWkpiZGtsQUpObHhNR01tcFpHMzNHQzhFeVFZWUtXZ3ZjazkwN2haR1B2OF9GYzUwbjQ4T3dWZ3RXVGdoOUpfSEN2UkJXSm51OExvcQ?oc=5"
-    },
-    {
-      "division": "AVP본부",
-      "d": "2026-10-08",
-      "t": "[데스크 칼럼] 테슬라 자율주행을 따라잡으려면",
-      "s": "한국경제",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAybzVOdUFuTEFzQ1JhYUtDeUlicjE4Z0FtajB1VGh2b05mbXFDczhBUFhCTE9sSWgxTHBWcnpvdm4tTFlCZUR3b1d1ZDlJY1QwOEZkdldUNVVlQQ?oc=5"
+      "t": "[IB토마토]보스턴다이내믹스, 새 수장 등판…'돈 버는 로봇'으로 IPO 기반 마련",
+      "s": "뉴스토마토",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YNTMtbUdReGhsNTRKZjFBUTBZZzVvWTdWSzNIdm9ERlhxT2VGdzVtM1pSY3hXR2lpMWU5MmpEVlZ6RUo0el9uUEJVbzB5RVlFMFN0VjJSbnVaTEtVV1NqcA?oc=5"
     },
     {
       "division": "AAM본부",
@@ -41,13 +41,6 @@
       "t": "中 하이브리드까지 막는 EU…현대차에 득일까 실일까",
       "s": "데일리안",
       "u": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQa3JxTmZOYXNCa29EbXpMWE5RNi16ci1CeEFaZFNMWTdBdTRXUjk2bWFGM0ZKenBqNjQ3Mnctdk15UXBYY0ZIbTU5QmVkNFJuSl93T2s1SFpPQ2RkRXplLW9mX19vQ29mblJzZVNYY1g4RzYzV205Z0Z1OHkxN2RRUGZSQlhpZk56UHJJMWZFMy1wUDdyUjVLSVJDbnpkZi1xcTNlNmwxZmNKTHBJeEIzU294NkpjZnlwTVZtbFNkRkliTHE3QW1yTGtFMFpHbUlKejd2UkVFNHBNSDhDWjhheFNCUFZRUmUxUThnbkk4cHVxQTRRUUFCMklhYUVNaHNBWFI5ak5RS3U1VW5GRXc?oc=5"
-    },
-    {
-      "division": "로보틱스LAB",
-      "d": "2026-10-07",
-      "t": "아마존서 '음성 AI' 개발하다가 '피지컬 AI' 로봇 회사 수장으로…보스턴다이내믹스 CEO 선임",
-      "s": "네이트",
-      "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wb0NGNzQ5R2lKNmdTLXctMzBXWG9tRGY0SDV2UFR5OE43bFliVHZTM3VYNF9wOTNBTG9fc3NPd2xXQWEtNk5wQktkeG1vU3dLcDBz?oc=5"
     },
     {
       "division": "승용사업부",
@@ -135,6 +128,27 @@
     },
     {
       "division": "AAM본부",
+      "d": "2022-07-29",
+      "t": "현대차그룹, ‘미래 항공 모빌리티’의 개념을 다시 정립하다 | 저널 | 현대자동차그룹",
+      "s": "Hyundai Motor Group",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYQlhLNWJmR3JCSEJmanZpZEk5MTE2US1BM09FM0ZEWEdPR000aUVGU2tBckgtTkc0Q0dFeUdkbEJZR0t3UmNMc1cwdW5jbkRGQm42YXBOZkF0OFdPemppNko4WnVYRzdKVXlic2diZVg?oc=5"
+    },
+    {
+      "division": "AVP본부",
+      "d": "2026-10-08",
+      "t": "[데스크 칼럼] 테슬라 자율주행을 따라잡으려면",
+      "s": "한국경제",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAybzVOdUFuTEFzQ1JhYUtDeUlicjE4Z0FtajB1VGh2b05mbXFDczhBUFhCTE9sSWgxTHBWcnpvdm4tTFlCZUR3b1d1ZDlJY1QwOEZkdldUNVVlQQ?oc=5"
+    },
+    {
+      "division": "로보틱스LAB",
+      "d": "2026-10-07",
+      "t": "아마존서 '음성 AI' 개발하다가 '피지컬 AI' 로봇 회사 수장으로…보스턴다이내믹스 CEO 선임",
+      "s": "네이트",
+      "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wb0NGNzQ5R2lKNmdTLXctMzBXWG9tRGY0SDV2UFR5OE43bFliVHZTM3VYNF9wOTNBTG9fc3NPd2xXQWEtNk5wQktkeG1vU3dLcDBz?oc=5"
+    },
+    {
+      "division": "AAM본부",
       "d": "2025-10-17",
       "t": "[단독] 대한항공 ‘UAM 신호등’, 바람 따라 하늘길 열고 돌발 상황엔 고도별 선회 대기시킨다",
       "s": "에너지경제신문",
@@ -211,13 +225,6 @@
       "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRMUJwR09kVElVbEFlUXA5SUFQT3pOSndTRXdKdzJnLWlrM21od0FjWnZuZFE3cmdRaW03UzFDaFI4TV9oVXNuWUlfVFV0UHgyRTlEOFk5VU92bUlIc1hQckFLbUtnZGpoeG1WaVNuU3cyOE0?oc=5"
     },
     {
-      "division": "AAM본부",
-      "d": "2022-07-29",
-      "t": "현대차그룹, ‘미래 항공 모빌리티’의 개념을 다시 정립하다 | 저널 | 현대자동차그룹",
-      "s": "Hyundai Motor Group",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYQlhLNWJmR3JCSEJmanZpZEk5MTE2US1BM09FM0ZEWEdPR000aUVGU2tBckgtTkc0Q0dFeUdkbEJZR0t3UmNMc1cwdW5jbkRGQm42YXBOZkF0OFdPemppNko4WnVYRzdKVXlic2diZVg?oc=5"
-    },
-    {
       "division": "SDV본부",
       "d": "2026-10-07",
       "t": "벡터-QNX ‘알로이 코어’, 코튜라 첫 고객 확보…상용차 SDV 공략 본격화",
@@ -272,18 +279,11 @@
       "t": "드릴로 나무 뚫고 너트 조이고…아틀라스, 사람처럼 공구 쓰는 ‘손재주’ 선보여",
       "s": "조선일보",
       "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zaUFyU2YyeWZteFJCMUZEMFBYOXlrejdqQk9fQUVIeExkczd4d21NTkpScGlCRmlwQTFOWlo5WHljaF9tWm5ZLUpuMlFvSVk5Qm5Gb3VtRDRfcnBJMk84MGNNWjVQa0VVdy1CbnRxaTJ0M2ttX3NOTEg0dmFRckU?oc=5"
-    },
-    {
-      "division": "SDV본부",
-      "d": "2026-10-01",
-      "t": "소프트웨어가 차량 기능을 정의하고, 반도체가 이를 구현한다",
-      "s": "autoelectronics.co.kr",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wX1VyN1VYQnc5emVIOUptN0pYLU1mNGNPUEdodkd0ODl0LXFNSVdMQlFZUHJIY3JKbElSNnJiRkZKNzh1RTJ2a1hUd0U4YVhjdlBua0dTbjNwVG9LYWI1NVUtQXp4X09MckVUWUdrVjNJdUQ0?oc=5"
     }
   ],
   "fx": {
     "usdkrw": 1341.59,
-    "updatedAt": "2026-10-10T00:39:40.493Z"
+    "updatedAt": "2026-10-11T00:10:24.283Z"
   },
-  "updatedAt": "2026-10-10T00:39:40.493Z"
+  "updatedAt": "2026-10-11T00:10:24.283Z"
 }
