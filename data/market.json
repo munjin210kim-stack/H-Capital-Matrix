@@ -2,6 +2,20 @@
   "news": [
     {
       "division": "AVP본부",
+      "d": "2026-10-13",
+      "t": "르노 \"레벨2++ 자율주행 전기차, 2028년 韓 출시\"",
+      "s": "아시아경제",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wSjB0dFpTdzk4SWR5RXpoR0k1ZmtqV0pMWUZlUWIxZUMwS1F5T1BHYVZ2SWxYc0FUV0xaa29WRlpCdFhFdjM1SGpXRlhSRDZhUnNFZ0V2UjN3V1VvbGJhVA?oc=5"
+    },
+    {
+      "division": "로보틱스LAB",
+      "d": "2026-10-12",
+      "t": "[칼럼] 사람처럼 손 쓰는 로봇, 돼지도 돌볼 수 있을까?",
+      "s": "돼지와사람",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9abGhsM29SR3lNYzVENzVFRFVJaW56ZXpZbDVvT2VUQTljREdBNFN4VG9pckI4U0Q3bGtLSEYtcDVLbGRWaEQxZ3EwUkhnS0xickNDRUEyS2Y3RmNVU055Yjdn?oc=5"
+    },
+    {
+      "division": "AVP본부",
       "d": "2026-10-11",
       "t": "‘레벨4 자율주행자동차 자보체계’ 관련법령 개편도 필요",
       "s": "보험신보",
@@ -22,25 +36,11 @@
       "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMldiWGtTaGhOSDRrTHVseWVHbGdWb1dlNjM2WmFFazZFOF92OXhtZ3BxZ2g3anM3ZFZ2bFBVdFFXbEFQR2ZHMGFoWG5EejJwa3RlLS1Ea2ZVUU5acldLcThIaHpzeEwxSHVjUm5LalV4djhCellweTZjY090OFQ0ZjVPckwzeHRqSW5QckVQQ3djWVFJNlBYTGNwdkxmM1BIWDdmd1ZScm1JWmVjS3A3M2ltM3VObzdLU29YUjZ1bGw5SklZd1pFbmF4XzViV2l4WG4zamJxUHJ0YWRDdGRmQ2t3?oc=5"
     },
     {
-      "division": "AVP본부",
-      "d": "2026-10-09",
-      "t": "[알쓸신기] 운전대에서 손을 놓았는데 코너를 돈다?… 자율주행 자동차 `삼안`",
-      "s": "디지털데일리",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0RWlFbmVFREN4MVBNWmptUGVyUnFET1JSSEk2Wk4zX2VtODM3ZmRGbHVHMTFDSHhvbXE3TzdaSGJOd3J2SjBoTk1DTDVEbW15YlNTZWZJc0lIUVVidlZCaTJn?oc=5"
-    },
-    {
       "division": "로보틱스LAB",
       "d": "2026-10-08",
       "t": "[영상] 보스턴다이내믹스, '4지' 차세대 로봇 손 공개",
       "s": "더구루",
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uQ1hkWUlXdW04TWc0Rm1Db0M1NVljVkJzVjkzUVQ1b1pfdzNTQURPUGV5cG5iWEVUc3VYeWcxYzl5aEJMR1R5dENJRGdnTnNITk4zLWdDbDdJc2ZzNXRZSw?oc=5"
-    },
-    {
-      "division": "로보틱스LAB",
-      "d": "2026-10-08",
-      "t": "보스턴다이내믹스, 새 수장 등판…'돈 버는 로봇'으로 IPO 기반 마련",
-      "s": "IB토마토",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XVzJPcHR3WUJHZ0lsQ3ZOTkVma1dHbzdMYU1ZSGZtR2hYeXBWbWRST3hsYWRNNXNVMWJ5RHhRZjdFMjV4OFRuSGp1dFZqRFNSRmtxUGRHR1MxaWphWXd3WF8tT2E3OTA0eXc?oc=5"
     },
     {
       "division": "AAM본부",
@@ -79,7 +79,7 @@
     },
     {
       "division": "승용사업부",
-      "d": "2026-09-24",
+      "d": "2026-09-25",
       "t": "전기차 한파 뚫고 조지아 달린 현대차…하이브리드 더해 지켜낸 8500명 약속",
       "s": "글로벌이코노믹",
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVnVjYkNaTUNoMmQ4YVdaTjhONHdBRG1Zc3RhRzdwcTlmSXdVRjBfSkRBYUhrei1EUHZKODJHNEttaVM1NjhYRTZhUUs3cTNtVmJzNDlhV2ZValdDOTZVRnZ4T1VNLVY5dUVPeWdzOUlfNFZLNXl3c2p4TkhOSzRkektkUFF0UXZf?oc=5"
@@ -97,13 +97,6 @@
       "t": "[Beyond Mobility] 철수 대신 ‘버티기’… 현대차 미래 성장동력, 수소 사업 30년사",
       "s": "포춘코리아",
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NTHZGaWlDX01wenpsaHJGUHlyby1LWnY5V3poRUZDQ3k4UFZCa2lQeFZUYzR2Vmk0NnVwM1EwNWtxa1NDR2xpemVPWE9XS25VVVFIel9XTHNwVDFmdlAzU003VmxkNnJaeURBS2xQMkcyZ9IBdkFVX3lxTE9vV09nMm04ZDI1bXI1UmFhN1Npa3NleVRSRzVaZmFMYkNPN2Vyc0J4U0NPX05XTzhuYnlnSWlGYlUzTlVEbDE1ek53bXdvdDVCNHR3U2JxQkdKU3JYb1FRYlN6dzJuMTZxdXk5eFZqS1FXZTNOdHc?oc=5"
-    },
-    {
-      "division": "AVP본부",
-      "d": "2026-07-07",
-      "t": "레벨4 자율주행 시대 가속…안전운행 가이드라인 마련",
-      "s": "정책브리핑",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UQ0trUzFuRno5emt2RUtLVDBmTnBRREVPSGpfeVFtWVBmcW9XTHJvb1RaZFIyV3FwcFh3eFBTekRWVHhXOEFoTFFqZnJrMnFpVlVaX0k1MVVpX2ltQkxHTWdPdEx4XzBhYi1vbQ?oc=5"
     },
     {
       "division": "수소연료전지",
@@ -128,10 +121,10 @@
     },
     {
       "division": "경쟁사",
-      "d": "2026-03-30",
-      "t": "GM EV1부터 테슬라 로드스터까지…전기차 시대 첫 클래식카는?",
+      "d": "2026-02-05",
+      "t": "GM, 2025년 美 전기차 시장 2위…테슬라 선두 '여전'",
       "s": "디지털투데이",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MWUJzTmZwdk9RNm16Q0dFcTg5MjdzQ2J2cHBvOF9XcjR3TUJCYU1HZjAyRnVGRW5uZDJXWFZVaGdaaHFkVmZldGVSUElkVUFRdU9YVjR4Q3ZWZURuekFEWUNkQ1Y1anVacTlJZFp5d0NqSEk?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BS21va3FBV2JmWEZPWTdjSWRsWUlMZUpXYXVDaDR5cnhxR1FOOUZLODVBVzRIeXAxSWo1Q0dvUkdEWWc4dnhkRmpfaVpfOTJzMExwVEh3LThkWnBEOGFtelpGdHBsbmdRRkJCZzdNcktjLWs?oc=5"
     },
     {
       "division": "AAM본부",
@@ -139,6 +132,34 @@
       "t": "현대차그룹, ‘미래 항공 모빌리티’의 개념을 다시 정립하다 | 저널 | 현대자동차그룹",
       "s": "Hyundai Motor Group",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYQlhLNWJmR3JCSEJmanZpZEk5MTE2US1BM09FM0ZEWEdPR000aUVGU2tBckgtTkc0Q0dFeUdkbEJZR0t3UmNMc1cwdW5jbkRGQm42YXBOZkF0OFdPemppNko4WnVYRzdKVXlic2diZVg?oc=5"
+    },
+    {
+      "division": "AVP본부",
+      "d": "2026-10-09",
+      "t": "[알쓸신기] 운전대에서 손을 놓았는데 코너를 돈다?… 자율주행 자동차 `삼안`",
+      "s": "디지털데일리",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0RWlFbmVFREN4MVBNWmptUGVyUnFET1JSSEk2Wk4zX2VtODM3ZmRGbHVHMTFDSHhvbXE3TzdaSGJOd3J2SjBoTk1DTDVEbW15YlNTZWZJc0lIUVVidlZCaTJn?oc=5"
+    },
+    {
+      "division": "로보틱스LAB",
+      "d": "2026-10-08",
+      "t": "보스턴다이내믹스, 새 수장 등판…'돈 버는 로봇'으로 IPO 기반 마련",
+      "s": "IB토마토",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XVzJPcHR3WUJHZ0lsQ3ZOTkVma1dHbzdMYU1ZSGZtR2hYeXBWbWRST3hsYWRNNXNVMWJ5RHhRZjdFMjV4OFRuSGp1dFZqRFNSRmtxUGRHR1MxaWphWXd3WF8tT2E3OTA0eXc?oc=5"
+    },
+    {
+      "division": "AVP본부",
+      "d": "2026-07-07",
+      "t": "레벨4 자율주행 시대 가속…안전운행 가이드라인 마련",
+      "s": "정책브리핑",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UQ0trUzFuRno5emt2RUtLVDBmTnBRREVPSGpfeVFtWVBmcW9XTHJvb1RaZFIyV3FwcFh3eFBTekRWVHhXOEFoTFFqZnJrMnFpVlVaX0k1MVVpX2ltQkxHTWdPdEx4XzBhYi1vbQ?oc=5"
+    },
+    {
+      "division": "경쟁사",
+      "d": "2026-03-30",
+      "t": "GM EV1부터 테슬라 로드스터까지…전기차 시대 첫 클래식카는?",
+      "s": "디지털투데이",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MWUJzTmZwdk9RNm16Q0dFcTg5MjdzQ2J2cHBvOF9XcjR3TUJCYU1HZjAyRnVGRW5uZDJXWFZVaGdaaHFkVmZldGVSUElkVUFRdU9YVjR4Q3ZWZURuekFEWUNkQ1Y1anVacTlJZFp5d0NqSEk?oc=5"
     },
     {
       "division": "AVP본부",
@@ -218,13 +239,6 @@
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQT3VyX01iR09LQnpGVC0tSnU5RTFqcjB3Y0p2bmRmRzFLRWV5TGFHUURoV2toUkZTT0ZYNWtCYmh0T2NMVndBVlVuV2NZNHM?oc=5"
     },
     {
-      "division": "경쟁사",
-      "d": "2026-02-05",
-      "t": "GM, 2025년 美 전기차 시장 2위…테슬라 선두 '여전'",
-      "s": "디지털투데이",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BS21va3FBV2JmWEZPWTdjSWRsWUlMZUpXYXVDaDR5cnhxR1FOOUZLODVBVzRIeXAxSWo1Q0dvUkdEWWc4dnhkRmpfaVpfOTJzMExwVEh3LThkWnBEOGFtelpGdHBsbmdRRkJCZzdNcktjLWs?oc=5"
-    },
-    {
       "division": "AVP본부",
       "d": "2026-10-07",
       "t": "[로보택시 시대]㊦ 수천대 車 굴리며 제도 보완하는 美·中… “韓도 규모부터 키워야” - 조선비즈",
@@ -265,25 +279,11 @@
       "t": "벡터-QNX ‘알로이 코어’, 코튜라 첫 고객 확보…상용차 SDV 공략 본격화",
       "s": "테크월드",
       "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hVDRINER2VGR1V3JtN01qTlZTU3U4OW1sSlZ6ZGYxYXFDVm91RFRLc0wzVlBpbWQtOXBoa1lYWXFfUDZ2eldSOEpPVk1XYVRVYzNlMUJmdkdvZ01ZY2I1cTJ2ZXo4Ym5J?oc=5"
-    },
-    {
-      "division": "로보틱스LAB",
-      "d": "2026-10-06",
-      "t": "보스턴다이내믹스, 신임 CEO에 아마존 출신 AI 전문가 영입 - 조선비즈",
-      "s": "Chosunbiz",
-      "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fbWk4Uzk3QzRuZ1hldENldGxDcnFhblpwbUhpd0RMc0lVaGctdW1DVmljbm5EaGdQYzZBVnFTOFFHSmttbXY5blRzQUR6NmdzTXhFU3o5dGhEUVFLcDJDV1RnN2xZRUVCLVJvQ3A4bmZJYURGaDB6TVpKNmdXQU3SAZMBQVVfeXFMTzVBbHEzTUQyS0hZSkV3bVJBTVFCQ1pFUmprZ2p0enNjcVkxM2dpM1B3NjJLd1FGeUtpRGM2dkJTNTR0VTVaMFBMTFNOT0hLcHBiWTdsbTUzc0VFOWJhNW0zSVBDLUYzQjVGZG1VRFQtdHluLTJVajl5d0ZuMzJnemxmc2ZmU1BOVlFWNEJNLTFOSGJr?oc=5"
-    },
-    {
-      "division": "로보틱스LAB",
-      "d": "2026-10-03",
-      "t": "휴머노이드 로봇 5사, 양산 공장 가동하며 제조 역량 경쟁 본격화",
-      "s": "글로벌이코노믹",
-      "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbThpMkFaMVNWdWZPRnlTeUpFa1lyZk1aT1hISE1jYmZFRHJpdUV6ZmN5a3NEMGExeDM1akYxdUQyeFI0bl9wSy1GWWpEb25uNVcyWlhyaElhMkZhY05Nb0VweGFveGx0NWZNWlV4NzJBemxoUjVIX2FOZk9zMEdIVDZZYkxtdmM?oc=5"
     }
   ],
   "fx": {
-    "usdkrw": 1340.71,
-    "updatedAt": "2026-10-12T00:22:56.615Z"
+    "usdkrw": 1333.74,
+    "updatedAt": "2026-10-13T02:29:46.871Z"
   },
-  "updatedAt": "2026-10-12T00:22:56.615Z"
+  "updatedAt": "2026-10-13T02:29:46.871Z"
 }
