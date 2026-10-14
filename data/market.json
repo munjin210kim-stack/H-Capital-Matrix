@@ -1,18 +1,53 @@
 {
   "news": [
     {
-      "division": "AVP본부",
+      "division": "로보틱스LAB",
       "d": "2026-10-13",
-      "t": "르노 \"레벨2++ 자율주행 전기차, 2028년 韓 출시\"",
-      "s": "아시아경제",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wSjB0dFpTdzk4SWR5RXpoR0k1ZmtqV0pMWUZlUWIxZUMwS1F5T1BHYVZ2SWxYc0FUV0xaa29WRlpCdFhFdjM1SGpXRlhSRDZhUnNFZ0V2UjN3V1VvbGJhVA?oc=5"
+      "t": "'아틀라스' 로봇이 현대차 생산현장에 가져올 미래",
+      "s": "주간한국",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XbFlJdDdGSUN0cURHaWZ4Z0hIb0FBLUVRdVBoR0xpa2lGYU12WTlva3BNcGRXcm1UaE5jaU9oNVlIU01fOENacFRITlNsS1F5NXV2d2JnN2d0allDVW1GR041azFQaDdLVWVLc1I1YWrSAXRBVV95cUxQQ0NmU25ZUlVUVTU3M3ZoNHdTQXZvRFRORF9TcUptZGFTNDBFd3dTaE5TUkZGdDZ5WHlvZk5ZWTNsbWR0cWZ2SWxWX3dHMjR6a25wM0dRR2stdlJOUHNuVmlZWWxqSEw2SzVJQ2c5enZ0LTduZg?oc=5"
     },
     {
       "division": "로보틱스LAB",
+      "d": "2026-10-13",
+      "t": "[정의선 6년②] 자동차 다음은 로봇…현대차가 그리는 '피지컬 AI 제국'",
+      "s": "뉴스저널리즘",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9naWNwQWkzZTJCMmJFeHB3RTJaaEJ4S0JqOXlXQi1FNWRXeXRiTzV1NVRuWWQ0RFJLSG44RXJFOTRpQjlackkwdDZoQUF3Y2d2SDlEZDRtdlZKQlVVMVRnSk5maHVJVFR0TXln?oc=5"
+    },
+    {
+      "division": "AVP본부",
+      "d": "2026-10-13",
+      "t": "中 자율주행 3대장, 자동차 넘어 로봇으로 간다!",
+      "s": "데일리카",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBaVWkzMUZhak5BLVBYTzYzY1dQd0dLakdWNVUzWWFDamVwc0FQUWVORXBrM19DRkJLS1RaOGlaZm5ick5UVXlHZjNXcGd2QmZtbXNadDdVSjlkbFIwRUszZ3MzYVZoTW5abm9seU1taVF4blQyblE?oc=5"
+    },
+    {
+      "division": "AVP본부",
+      "d": "2026-10-13",
+      "t": "자율주행차가 사람을 치면 누구 책임일까…AI 시대 교통법규의 딜레마",
+      "s": "용인신문",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BOGNvWDBlR29qSXRYQjZFRW03Umk4bm4yNV9XRTY4SE9qVDBPRXNGTzZYTEIxZS02ZkpBN2RVbVc0T0hjMmhkV1d3SktvWHIySl9xUGdOMU1yUWNWeFAwSHY5WTk?oc=5"
+    },
+    {
+      "division": "승용사업부",
+      "d": "2026-10-13",
+      "t": "중국산 전기차 이어 하이브리드까지 빗장…현대차·기아, 유럽 공략 기회 커진다",
+      "s": "아시아투데이",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OWGJlcFJyZWlVUkVla0VfVnU0ZVpVVnRyT2ZTaWNCOUtvQUJKSFpBWVlTVTR5UmJZOHpoSXQtVGFiREItdkJkVFgtY2N1OEo3SndKdWhkdkU0aUI5d1E4aG9XZHRwMkV4MEEtbzJn?oc=5"
+    },
+    {
+      "division": "승용사업부",
+      "d": "2026-10-13",
+      "t": "현대차가 힘 싣는 하이브리드차, 국내서 첫 역성장… 전기차는 75% 급증 - 조선비즈",
+      "s": "Chosunbiz",
+      "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qbkNCTmNWSlJJcDVDNVB6VXpuTlJPbUY5SGdmajVpektYdWlVVWR0V21HVHdIbU5RVDltRlRzeWJoNmQwZTZrLURhenBnNWFVWmQ2QmExWjl2bm1DTENodWlzc0c1aG1wSVNiSnZzRlFSM0JLaFFoWHhoemppdnfSAZMBQVVfeXFMT2NQYUJQOWdwWWtwdkJub1ZGQzN6OE1qQUt6T0JVTmUxcmtpS01FWFhUaE5feXpRWnBXeWpmbFlFN0Qtd2txT2hyTWR0RDBtLUw3Zm1RTDBQUVE1c2s4RlEtSXdlc29RanprSVpGTF9ETHZ2QkRleUVZWWNwVGYyaTVUWEpJMnppY19XektNeXJCMzNn?oc=5"
+    },
+    {
+      "division": "수소연료전지",
       "d": "2026-10-12",
-      "t": "[칼럼] 사람처럼 손 쓰는 로봇, 돼지도 돌볼 수 있을까?",
-      "s": "돼지와사람",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9abGhsM29SR3lNYzVENzVFRFVJaW56ZXpZbDVvT2VUQTljREdBNFN4VG9pckI4U0Q3bGtLSEYtcDVLbGRWaEQxZ3EwUkhnS0xickNDRUEyS2Y3RmNVU055Yjdn?oc=5"
+      "t": "도박사 4 음량 조절 기능의 범위",
+      "s": "Calgary Roughnecks",
+      "u": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNOWl1MHRHMVEtWkoxYzZGSmZ5Wlh4UUdMamFudTM5azZHSU1wNm44eG8zb1dLZXd3VFlxbnJyZjNZN2xmUktUaWx2enR3Y0NNOTNJTV9JbUx5QVlvV0trMWhDcVNtUVJfemhiQm5ndU14S0hDY19QamJtdWtEa3FmdEF6d0pZMERUcmV0YnMybHVPNFhZWkUtT19XRW5tUFpMQUtsaDVUUXZmYTVHZ0RockowQzZXaXREaGpBRjJFTjZ1WDNYT2RDTlhOMkd5c3h2QmRTNnY4aUlDeWZQbXdJRzVRYi0zSld2MG1tODRlc2F0WE5QcXdZZWd6enNWXzkzN1p6WjAtWVotQUJObGlBNVpMNDAxZzg?oc=5"
     },
     {
       "division": "AVP본부",
@@ -27,20 +62,6 @@
       "t": "공장 넘어 일상까지…보스턴다이내믹스, AI로 로봇 영역 확장 기대",
       "s": "글로벌이코노믹",
       "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOa0xBUlhZV2JGc1phbjhjMFVKYlVrQTdvU1VUSV9HUS0tUnkycEtyTi15ZXZBTEdtZl9ySF9Rc2dicnA2OGc3UnZhNWNsWEtvZ0s5ckRjNGxkeGZpaTVZaVExbzBhak15MWMteTdyQjg1d1pfOXRYcmlmclhOZjJaQ1hZVWZIZw?oc=5"
-    },
-    {
-      "division": "수소연료전지",
-      "d": "2026-10-10",
-      "t": "규칙 확인에 필요한 버튼은 어디에? 웰컴드링크 사이트",
-      "s": "Calgary Roughnecks",
-      "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMldiWGtTaGhOSDRrTHVseWVHbGdWb1dlNjM2WmFFazZFOF92OXhtZ3BxZ2g3anM3ZFZ2bFBVdFFXbEFQR2ZHMGFoWG5EejJwa3RlLS1Ea2ZVUU5acldLcThIaHpzeEwxSHVjUm5LalV4djhCellweTZjY090OFQ0ZjVPckwzeHRqSW5QckVQQ3djWVFJNlBYTGNwdkxmM1BIWDdmd1ZScm1JWmVjS3A3M2ltM3VObzdLU29YUjZ1bGw5SklZd1pFbmF4XzViV2l4WG4zamJxUHJ0YWRDdGRmQ2t3?oc=5"
-    },
-    {
-      "division": "로보틱스LAB",
-      "d": "2026-10-08",
-      "t": "[영상] 보스턴다이내믹스, '4지' 차세대 로봇 손 공개",
-      "s": "더구루",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uQ1hkWUlXdW04TWc0Rm1Db0M1NVljVkJzVjkzUVQ1b1pfdzNTQURPUGV5cG5iWEVUc3VYeWcxYzl5aEJMR1R5dENJRGdnTnNITk4zLWdDbDdJc2ZzNXRZSw?oc=5"
     },
     {
       "division": "AAM본부",
@@ -69,20 +90,6 @@
       "t": "소프트웨어가 차량 기능을 정의하고, 반도체가 이를 구현한다",
       "s": "https://www.autoelectronics.co.kr/",
       "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wX1VyN1VYQnc5emVIOUptN0pYLU1mNGNPUEdodkd0ODl0LXFNSVdMQlFZUHJIY3JKbElSNnJiRkZKNzh1RTJ2a1hUd0U4YVhjdlBua0dTbjNwVG9LYWI1NVUtQXp4X09MckVUWUdrVjNJdUQ0?oc=5"
-    },
-    {
-      "division": "승용사업부",
-      "d": "2026-09-28",
-      "t": "트럼프 미국 전기차 전환 속도 더 늦춘다, 정의선 현대차그룹 현지 하이브리드 생산 더 늘리나",
-      "s": "비즈니스포스트",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRMUJwR09kVElVbEFlUXA5SUFQT3pOSndTRXdKdzJnLWlrM21od0FjWnZuZFE3cmdRaW03UzFDaFI4TV9oVXNuWUlfVFV0UHgyRTlEOFk5VU92bUlIc1hQckFLbUtnZGpoeG1WaVNuU3cyOE0?oc=5"
-    },
-    {
-      "division": "승용사업부",
-      "d": "2026-09-25",
-      "t": "전기차 한파 뚫고 조지아 달린 현대차…하이브리드 더해 지켜낸 8500명 약속",
-      "s": "글로벌이코노믹",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVnVjYkNaTUNoMmQ4YVdaTjhONHdBRG1Zc3RhRzdwcTlmSXdVRjBfSkRBYUhrei1EUHZKODJHNEttaVM1NjhYRTZhUUs3cTNtVmJzNDlhV2ZValdDOTZVRnZ4T1VNLVY5dUVPeWdzOUlfNFZLNXl3c2p4TkhOSzRkektkUFF0UXZf?oc=5"
     },
     {
       "division": "경쟁사",
@@ -132,6 +139,48 @@
       "t": "현대차그룹, ‘미래 항공 모빌리티’의 개념을 다시 정립하다 | 저널 | 현대자동차그룹",
       "s": "Hyundai Motor Group",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYQlhLNWJmR3JCSEJmanZpZEk5MTE2US1BM09FM0ZEWEdPR000aUVGU2tBckgtTkc0Q0dFeUdkbEJZR0t3UmNMc1cwdW5jbkRGQm42YXBOZkF0OFdPemppNko4WnVYRzdKVXlic2diZVg?oc=5"
+    },
+    {
+      "division": "AVP본부",
+      "d": "2026-10-13",
+      "t": "르노 \"레벨2++ 자율주행 전기차, 2028년 韓 출시\"",
+      "s": "아시아경제",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wSjB0dFpTdzk4SWR5RXpoR0k1ZmtqV0pMWUZlUWIxZUMwS1F5T1BHYVZ2SWxYc0FUV0xaa29WRlpCdFhFdjM1SGpXRlhSRDZhUnNFZ0V2UjN3V1VvbGJhVA?oc=5"
+    },
+    {
+      "division": "로보틱스LAB",
+      "d": "2026-10-12",
+      "t": "[칼럼] 사람처럼 손 쓰는 로봇, 돼지도 돌볼 수 있을까?",
+      "s": "돼지와사람",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9abGhsM29SR3lNYzVENzVFRFVJaW56ZXpZbDVvT2VUQTljREdBNFN4VG9pckI4U0Q3bGtLSEYtcDVLbGRWaEQxZ3EwUkhnS0xickNDRUEyS2Y3RmNVU055Yjdn?oc=5"
+    },
+    {
+      "division": "수소연료전지",
+      "d": "2026-10-10",
+      "t": "규칙 확인에 필요한 버튼은 어디에? 웰컴드링크 사이트",
+      "s": "Calgary Roughnecks",
+      "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMldiWGtTaGhOSDRrTHVseWVHbGdWb1dlNjM2WmFFazZFOF92OXhtZ3BxZ2g3anM3ZFZ2bFBVdFFXbEFQR2ZHMGFoWG5EejJwa3RlLS1Ea2ZVUU5acldLcThIaHpzeEwxSHVjUm5LalV4djhCellweTZjY090OFQ0ZjVPckwzeHRqSW5QckVQQ3djWVFJNlBYTGNwdkxmM1BIWDdmd1ZScm1JWmVjS3A3M2ltM3VObzdLU29YUjZ1bGw5SklZd1pFbmF4XzViV2l4WG4zamJxUHJ0YWRDdGRmQ2t3?oc=5"
+    },
+    {
+      "division": "로보틱스LAB",
+      "d": "2026-10-08",
+      "t": "[영상] 보스턴다이내믹스, '4지' 차세대 로봇 손 공개",
+      "s": "더구루",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uQ1hkWUlXdW04TWc0Rm1Db0M1NVljVkJzVjkzUVQ1b1pfdzNTQURPUGV5cG5iWEVUc3VYeWcxYzl5aEJMR1R5dENJRGdnTnNITk4zLWdDbDdJc2ZzNXRZSw?oc=5"
+    },
+    {
+      "division": "승용사업부",
+      "d": "2026-09-28",
+      "t": "트럼프 미국 전기차 전환 속도 더 늦춘다, 정의선 현대차그룹 현지 하이브리드 생산 더 늘리나",
+      "s": "비즈니스포스트",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRMUJwR09kVElVbEFlUXA5SUFQT3pOSndTRXdKdzJnLWlrM21od0FjWnZuZFE3cmdRaW03UzFDaFI4TV9oVXNuWUlfVFV0UHgyRTlEOFk5VU92bUlIc1hQckFLbUtnZGpoeG1WaVNuU3cyOE0?oc=5"
+    },
+    {
+      "division": "승용사업부",
+      "d": "2026-09-25",
+      "t": "전기차 한파 뚫고 조지아 달린 현대차…하이브리드 더해 지켜낸 8500명 약속",
+      "s": "글로벌이코노믹",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVnVjYkNaTUNoMmQ4YVdaTjhONHdBRG1Zc3RhRzdwcTlmSXdVRjBfSkRBYUhrei1EUHZKODJHNEttaVM1NjhYRTZhUUs3cTNtVmJzNDlhV2ZValdDOTZVRnZ4T1VNLVY5dUVPeWdzOUlfNFZLNXl3c2p4TkhOSzRkektkUFF0UXZf?oc=5"
     },
     {
       "division": "AVP본부",
@@ -230,60 +279,11 @@
       "t": "보스턴다이내믹스, ‘알렉사’ 수장 영입…1.7조 적자 넘어 수익화 시험대",
       "s": "아시아투데이",
       "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9reWVGazZJRGxMZzFoSG1FbUxsZHhCcXVRNUltc1Z1QnVyeXltVnNpdnBsRlBTV3BHQzJFSWt1aUdyVXBJVjAycVMxRHgwQ0dfVEIwaWJZY2Q4MUo5ODRwd1p5V2ZVcUgxRVIxZFpB?oc=5"
-    },
-    {
-      "division": "로보틱스LAB",
-      "d": "2026-10-06",
-      "t": "[오늘의 DT인] “가장 놀라운 순간이지만 갈 길 멀다”… 보스턴다이내믹스 창립자가 본 로봇의 미래",
-      "s": "Daum",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQT3VyX01iR09LQnpGVC0tSnU5RTFqcjB3Y0p2bmRmRzFLRWV5TGFHUURoV2toUkZTT0ZYNWtCYmh0T2NMVndBVlVuV2NZNHM?oc=5"
-    },
-    {
-      "division": "AVP본부",
-      "d": "2026-10-07",
-      "t": "[로보택시 시대]㊦ 수천대 車 굴리며 제도 보완하는 美·中… “韓도 규모부터 키워야” - 조선비즈",
-      "s": "Chosunbiz",
-      "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTdzVwMTk2S3FJVG8xenJ1Nlo3YjFCamVqaGlJWVlFUWkySDc2cGc2ZjAyaE9YTld5WDBRWkp3VG9LbEI1LUpmU3Btc1JvQ09qVEdsTVBxRUpJVk1NWDh2REo3RUc4RlM4WDlHUTdQYjJOa2VJcE54Wnh6TDJiYmfSAZMBQVVfeXFMUGdvWDI4eW16WGE5eEEzcmRKNEVSalZ5Zmt0MmhHdldOdlpzWjh3WVB4aW8zWlVoekNETnUzdHh3RnpzSzlUZ3V6UnhPanRuUWtWak1XMGs0MU8ySkFhT1JlSE9MWVpfWllSOWg1bU1UMWVvclR4dnlPZmoxM2k4NVM0cmxmLWZpdkt5cUFpS2VLbGY0?oc=5"
-    },
-    {
-      "division": "AVP본부",
-      "d": "2026-10-07",
-      "t": "“광명역~광명동굴까지 레벨4 자율주행 버스 시범운행”..생활권·관광지 24km 구간",
-      "s": "데일리카",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBNG9XZGhMc2g5QVVWNlktenkwdE42RzVwYkVNWl9pQUw1YXM3UDA5NVdsTFZIY01LamljYkZGaHF6RnpmTU1sVXppYmhmYkdhdVRCckhUeTk5TkRyWURfZnZ5aElCRjQ4cm9BazYwQnN1eFdLaFE?oc=5"
-    },
-    {
-      "division": "수소연료전지",
-      "d": "2026-10-07",
-      "t": "자동 진행 기능이 있다면? 스포츠토토결과 더블유 설정 확인",
-      "s": "Calgary Roughnecks",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YbjRHVHNSWUQ4RGpzYXAtN0pucFgzdUlUVklaRk54RDQyVlpKOWhqVVFQVHlESDhOaHBKVXBESUt6QnEtT1BsWWhwVGR1bFhSYW54SDk1Tm00czFlMkxzdA?oc=5"
-    },
-    {
-      "division": "AVP본부",
-      "d": "2026-10-07",
-      "t": "반년 늦어진 광주 자율주행 실증도시…피해는 스타트업 ′몫′",
-      "s": "뉴스핌",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xSnE4N1BIeEpwLXdyNnBzMFViZFJRd2dJUXkzdGZhalhrOW91NzU2TzQyaUpfYnN0aDVlM0gzcXA2cUM0N1BPdi1SMml2ME1Zd0tlOTZDV19lRGJI?oc=5"
-    },
-    {
-      "division": "로보틱스LAB",
-      "d": "2026-10-02",
-      "t": "\"다섯 손가락 필요 없다\"...보스턴 다이내믹스, 네 손가락 로봇 손 공개",
-      "s": "AI타임스",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IcldoN3hsbTRqUVd3VGxBRW1fdmpIVkJ5c1AwaVJHZEgyX1V5THJWYTYyYzZyNVJOZ3E5RjNKZldqZ1l2d3lCMjdwbFllT05nMTEyMVQxaGQzOXF0VUE4TUkyTTdzaVJ1eVE?oc=5"
-    },
-    {
-      "division": "SDV본부",
-      "d": "2026-10-07",
-      "t": "벡터-QNX ‘알로이 코어’, 코튜라 첫 고객 확보…상용차 SDV 공략 본격화",
-      "s": "테크월드",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hVDRINER2VGR1V3JtN01qTlZTU3U4OW1sSlZ6ZGYxYXFDVm91RFRLc0wzVlBpbWQtOXBoa1lYWXFfUDZ2eldSOEpPVk1XYVRVYzNlMUJmdkdvZ01ZY2I1cTJ2ZXo4Ym5J?oc=5"
     }
   ],
   "fx": {
-    "usdkrw": 1333.74,
-    "updatedAt": "2026-10-13T02:29:46.871Z"
+    "usdkrw": 1340.88,
+    "updatedAt": "2026-10-14T00:13:30.986Z"
   },
-  "updatedAt": "2026-10-13T02:29:46.871Z"
+  "updatedAt": "2026-10-14T00:13:30.986Z"
 }
