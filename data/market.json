@@ -1,11 +1,39 @@
 {
   "news": [
     {
+      "division": "로보틱스LAB",
+      "d": "2026-10-20",
+      "t": "[단독] 보스턴다이내믹스·고스트로보틱스, 로봇개로 美 미래 공군 장교 '전장 파트너 선점'",
+      "s": "더구루",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1RaV9ZMWVzZnFiMU1IMFhWSVpDVHNLa28wblluWGJPMUtnS1VPdzNoLV9YLUVmRkI3QVhLcWFyRnpQOC13cVAtZHN0Z0JLMmNTUzJHcHk2OVdhRjRZZ3J0YUZhYw?oc=5"
+    },
+    {
       "division": "AVP본부",
       "d": "2026-10-20",
-      "t": "현대차·기아, 레벨4 자율주행 대형트럭 실증…내년 상용화 기반 구축",
-      "s": "뉴스1",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zaENyQXlUMEpkM3lySDlsWVAwSnVvOFpDMjlGNnpwMlhETDZTUW9Ga2pWSjdOazhycThQYnAxYm1YUl80cFlHMVRRdXJpakFEa1IwUUgwV0xvaXJWSkV0UQ?oc=5"
+      "t": "오토노머스에이투지, 자율주행차 100대 돌파…누적 115만㎞ 주행",
+      "s": "아시아경제",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3c0RQdXBYYnpieVJNTkx4NWNBLXlCSHBWUGtfeHNIRjNJbHJYY2pSaWsyZnJ0ZEpuQ256Mmhxemd3MmVwaWhLaDJaSmlwOXJ3b3BYTG1tcFA3aTVNOHkzdg?oc=5"
+    },
+    {
+      "division": "로보틱스LAB",
+      "d": "2026-10-20",
+      "t": "보스턴다이내믹스 CFO, 아틀라스 원가·양산 전략 설명",
+      "s": "글로벌이코노믹",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTXNYa1dWV2t2TFFlTzYyQ0M4eThja1JrWW51cnI0ZTZJcXRJMXRSOWdLakI5NW8wS1ZFYUFfUU9JQmlTLWVJZG1rWDlSSDJibU5GNnJHTkg5QnlUNXFxNnVGRC1na2MzTEF3UDBsaDYybndiVG5HbU5VTC1YU3poV1RSanppR2lC?oc=5"
+    },
+    {
+      "division": "SDV본부",
+      "d": "2026-10-20",
+      "t": "스바루, 2020년대 후반 SDV 출시…차량 개발 기간 40% 줄인다",
+      "s": "https://www.diarypoint.com/",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1XWVZBekd5WldRZXlGdjlhOVA2ckZ6V2s1TTk4MGN6a2VsM3B3ZFZHTFB1eVBVekpZYVB5RFZtd1BXYWZRSTNLbURlMDVuLVlFX0JzX3lrN0IzXzFTSm0zNVdHa3JtQUhMZDBR?oc=5"
+    },
+    {
+      "division": "AVP본부",
+      "d": "2026-10-20",
+      "t": "현대차·기아, 레벨4 자율주행 대형트럭 실증…실제 물류 현장 달린다",
+      "s": "물류신문",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE95UWZqSV9UdFdnczFKMVByb3NrUjhCbFlSVXZmSnhMVTJoSUxZZ2hLYnYxZFozQTZobS12RjA4aGNDZ3BrN3hDRWhPUng3bWtBanlNTTIxdGx3cDYxRmhhYzNSS284Vy00VjY4?oc=5"
     },
     {
       "division": "로보틱스LAB",
@@ -15,25 +43,11 @@
       "u": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9CQ2kzYXctR19Cd2gyaVpEMkNRR25iTDBBY0RhNHRyM1VBeThZLTRPdV91ZzBDWkR0QS1qZnZKWVdscDEzSlN6ZWlwcw?oc=5"
     },
     {
-      "division": "로보틱스LAB",
-      "d": "2026-10-19",
-      "t": "현대차 '보스턴다이내믹스' 사면초가…美 ICE 로봇개 국경 투입에 시민사회 '폭발'",
-      "s": "더구루",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBWZ2szQy1HTS11a0c5NEpsMjlFTnZFV1hqMHY5SlZZZXcwZVVnRURQN283blJhdVBXTXdCRXl2Qm01OFJQb1g1Sm5teWRRNWQ0dGNuTkdzdGU5MkdfZXdOeUkySQ?oc=5"
-    },
-    {
       "division": "수소연료전지",
-      "d": "2026-10-17",
-      "t": "더 도그 하우스 메가 웨이 의 비밀을 풀다 - 2026년 최신판",
+      "d": "2026-10-19",
+      "t": "스테이크 게임 포스트 코로나 시대 브랜드 구축: 기초, 심화 및 마스터",
       "s": "Calgary Roughnecks",
-      "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQV1FFVUg2WUZDTUhBMkZtX1JDSXYtaGdwUlFqYmlXX0dQWnRxZHFGdV9LVkVtZExuTGpRd3V2ZkYzd3JFTFd0LWE0OVZrSVhWb25nMXVGSGw0cmNaU0dFUHN0VVg5TEJ0cDBKV3FpT1hoTlpLVUxJMW5RcVFYVXIxVEh1RG1UaTZEczhtUGxDUzA4SVN1RFE?oc=5"
-    },
-    {
-      "division": "로보틱스LAB",
-      "d": "2026-10-14",
-      "t": "보스턴다이내믹스, 아틀라스 제작 시간 하루에서 1시간으로 단축 목표",
-      "s": "글로벌이코노믹",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU1Rfc1drekhkXzlVc2kxb1JTZzhScGdNSER4czB2Uno0ZEs4UGpxUVFKWXBsWkQySjFBcGdoOUF1el92a3lzeGNFNWNTZU9fQUhDNDNlZnJMNjZFOHpkejJSWFNpdUFsVmtyOEF1UDlUVU96QkVZTUtoWmZoTG96MnE4MEFySWJM?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbzhVSk9ob2ljY0VjQXJ5Sl9FSTE0bUlDbVlCSElmZDRqVGFPZHBEb3pXSlFWYks3T2tCc3FoYUxhZWVVUjhmTkthNGJVNG4tTnN2clBVSFN1MHMxeWIwZWFMTDROTkw3QkFFakVNNFB2ckNKUEdpQWJISDJQMmxYU01saDc5Z3I3T1VoQlpmMy1JTnFYYjBtLWtrd2xXTHhYX0F2MEF2bDVLdXB2WURNWEhvTXRyYjduQWdMS01n?oc=5"
     },
     {
       "division": "승용사업부",
@@ -69,13 +83,6 @@
       "t": "Applied Intuition, 혼다자동차와 차세대 소프트웨어 정의 차량(SDV) 개발 가속화를 위한 협력 발표",
       "s": "KIPOST",
       "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBneWFhWDloaG9OUUR1QUVpcEpDY0tjUlQtYTh6WVFUSkVaaFl5SERpblZBNDFvZmxUZEtOcFlQX3dOZGlFblloMTJsX3dsTk9jeTVWdk1WaW5rZ1hwUUxXQ01NaWUtUmxY0gFsQVVfeXFMTTFvMVJCZ2IySkJYMi14bi05Wm9hSHJrOTg2QU9hSTdmWEo1OS1SbXB1ODAzVG8ta0I1Q2czdFNteTNJNXhrbWFucGs0U0pCZzVDbTJud293VUZXZE14UTVsdVFKNEJ1emxWY2pi?oc=5"
-    },
-    {
-      "division": "SDV본부",
-      "d": "2026-10-01",
-      "t": "소프트웨어가 차량 기능을 정의하고, 반도체가 이를 구현한다",
-      "s": "https://www.autoelectronics.co.kr/",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wX1VyN1VYQnc5emVIOUptN0pYLU1mNGNPUEdodkd0ODl0LXFNSVdMQlFZUHJIY3JKbElSNnJiRkZKNzh1RTJ2a1hUd0U4YVhjdlBua0dTbjNwVG9LYWI1NVUtQXp4X09MckVUWUdrVjNJdUQ0?oc=5"
     },
     {
       "division": "경쟁사",
@@ -125,6 +132,34 @@
       "t": "현대차그룹, ‘미래 항공 모빌리티’의 개념을 다시 정립하다 | 저널 | 현대자동차그룹",
       "s": "Hyundai Motor Group",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYQlhLNWJmR3JCSEJmanZpZEk5MTE2US1BM09FM0ZEWEdPR000aUVGU2tBckgtTkc0Q0dFeUdkbEJZR0t3UmNMc1cwdW5jbkRGQm42YXBOZkF0OFdPemppNko4WnVYRzdKVXlic2diZVg?oc=5"
+    },
+    {
+      "division": "로보틱스LAB",
+      "d": "2026-10-19",
+      "t": "현대차 '보스턴다이내믹스' 사면초가…美 ICE 로봇개 국경 투입에 시민사회 '폭발'",
+      "s": "더구루",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBWZ2szQy1HTS11a0c5NEpsMjlFTnZFV1hqMHY5SlZZZXcwZVVnRURQN283blJhdVBXTXdCRXl2Qm01OFJQb1g1Sm5teWRRNWQ0dGNuTkdzdGU5MkdfZXdOeUkySQ?oc=5"
+    },
+    {
+      "division": "수소연료전지",
+      "d": "2026-10-17",
+      "t": "더 도그 하우스 메가 웨이 의 비밀을 풀다 - 2026년 최신판",
+      "s": "Calgary Roughnecks",
+      "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQV1FFVUg2WUZDTUhBMkZtX1JDSXYtaGdwUlFqYmlXX0dQWnRxZHFGdV9LVkVtZExuTGpRd3V2ZkYzd3JFTFd0LWE0OVZrSVhWb25nMXVGSGw0cmNaU0dFUHN0VVg5TEJ0cDBKV3FpT1hoTlpLVUxJMW5RcVFYVXIxVEh1RG1UaTZEczhtUGxDUzA4SVN1RFE?oc=5"
+    },
+    {
+      "division": "로보틱스LAB",
+      "d": "2026-10-14",
+      "t": "보스턴다이내믹스, 아틀라스 제작 시간 하루에서 1시간으로 단축 목표",
+      "s": "글로벌이코노믹",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU1Rfc1drekhkXzlVc2kxb1JTZzhScGdNSER4czB2Uno0ZEs4UGpxUVFKWXBsWkQySjFBcGdoOUF1el92a3lzeGNFNWNTZU9fQUhDNDNlZnJMNjZFOHpkejJSWFNpdUFsVmtyOEF1UDlUVU96QkVZTUtoWmZoTG96MnE4MEFySWJM?oc=5"
+    },
+    {
+      "division": "SDV본부",
+      "d": "2026-10-01",
+      "t": "소프트웨어가 차량 기능을 정의하고, 반도체가 이를 구현한다",
+      "s": "https://www.autoelectronics.co.kr/",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wX1VyN1VYQnc5emVIOUptN0pYLU1mNGNPUEdodkd0ODl0LXFNSVdMQlFZUHJIY3JKbElSNnJiRkZKNzh1RTJ2a1hUd0U4YVhjdlBua0dTbjNwVG9LYWI1NVUtQXp4X09MckVUWUdrVjNJdUQ0?oc=5"
     },
     {
       "division": "AVP본부",
@@ -244,46 +279,11 @@
       "t": "오토노머스에이투지, 강릉 ITS 세계총회서 레벨4 셔틀 ‘ROii’ 운행",
       "s": "오토뷰",
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MOUZyeVZ3VDBBd0ZrR1UwdU00NmdNYzlBVzVkNmNKc0YwNEFLOVJSRkdDYUdTV2cxYmFZV2pGMzFhTXBtdnhSNTR6d1Fzbl9FOWJDbTc5RXFNMDFV?oc=5"
-    },
-    {
-      "division": "AVP본부",
-      "d": "2026-10-13",
-      "t": "자율주행차가 사람을 치면 누구 책임일까…AI 시대 교통법규의 딜레마",
-      "s": "용인신문",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BOGNvWDBlR29qSXRYQjZFRW03Umk4bm4yNV9XRTY4SE9qVDBPRXNGTzZYTEIxZS02ZkpBN2RVbVc0T0hjMmhkV1d3SktvWHIySl9xUGdOMU1yUWNWeFAwSHY5WTk?oc=5"
-    },
-    {
-      "division": "로보틱스LAB",
-      "d": "2026-10-11",
-      "t": "공장 넘어 일상까지…보스턴다이내믹스, AI로 로봇 영역 확장 기대",
-      "s": "글로벌이코노믹",
-      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOa0xBUlhZV2JGc1phbjhjMFVKYlVrQTdvU1VUSV9HUS0tUnkycEtyTi15ZXZBTEdtZl9ySF9Rc2dicnA2OGc3UnZhNWNsWEtvZ0s5ckRjNGxkeGZpaTVZaVExbzBhak15MWMteTdyQjg1d1pfOXRYcmlmclhOZjJaQ1hZVWZIZw?oc=5"
-    },
-    {
-      "division": "로보틱스LAB",
-      "d": "2026-10-14",
-      "t": "[오너 경영능력 평가-정의선 ②] 차 넘어 로봇·AI에 베팅…‘빠른 결단’의 성적표",
-      "s": "에너지경제신문",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WclBhRXU4bVJFVVBhb3BmaC1tRjVfMXMyN3h1UjdpM1RYY2Vpck9BUzFjR0ZfZWF1blFHV2FzTGZqbUZOUXJZcjluYWFNSmZKWHZWNlExT3A0aFE?oc=5"
-    },
-    {
-      "division": "로보틱스LAB",
-      "d": "2026-10-14",
-      "t": "“로봇 막으면 공장 사라진다” 현대차 노조에 날아든 경고장",
-      "s": "미주중앙일보",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xd0hHdkxHR3MydXdYRnJ0NzRTS25ndm81Z24wWTltQ21oWDFOSUFFLUQwS0FHYmg1Um9hcUFEQVVJcno3cldFS2FXZW5PalVqZWRxX2hEbl9SQ3kzWk5YdGh3?oc=5"
-    },
-    {
-      "division": "AVP본부",
-      "d": "2026-10-14",
-      "t": "'로보택시 시대' 보험시장은?…\"2035년까지 35兆 규모 성장\"",
-      "s": "마켓인",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBYSmpVcjZpZmFOSWkyNHpnbS1MNXNnanhlX3FnajlvRlBTTDI1Wkt6NnZCU1o0TDVvbDlLSkJzeGdxaXIyQ2lreXJtR0pIRmdJSW9WWHRIMWpyWlUzdGx4UXRrSldZd0VpWTROSmVOVElqV2M?oc=5"
     }
   ],
   "fx": {
-    "usdkrw": 1333.6,
-    "updatedAt": "2026-10-20T00:11:26.394Z"
+    "usdkrw": 1330.79,
+    "updatedAt": "2026-10-20T23:43:35.118Z"
   },
-  "updatedAt": "2026-10-20T00:11:26.394Z"
+  "updatedAt": "2026-10-20T23:43:35.118Z"
 }
