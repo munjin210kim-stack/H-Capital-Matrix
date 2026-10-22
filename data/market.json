@@ -1,18 +1,46 @@
 {
   "news": [
     {
+      "division": "SDV본부",
+      "d": "2026-10-22",
+      "t": "국내 SDV 개발자 88% 속도 압박… 개발 생산성은 글로벌 평균 밑돌아",
+      "s": "올포칩",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13M3NiZWhhbTYwWFpWVENVcTVtSWRUU2J0WjYzYUotNDh6Z0V2RDh3RGFCTlF2N2N6SXlXT01MX1FBOEpDbXZtcXNNbTNmZDNfekdfd3RCWjNWN3RBeWxJUg?oc=5"
+    },
+    {
+      "division": "로보틱스LAB",
+      "d": "2026-10-22",
+      "t": "美 구글딥마인드, 케임브리지에 로봇 하드웨어 연구소",
+      "s": "로봇신문",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xZVphZ1JNa2VLbmFSU2d2WEpwcnh1MnFkOWtzYWhBYWRhYWxQTW1DTTFRaFhXUWJRVk5nbmQ4bGdkTmlLQkcyQ3VzMHB4cTFmYm4yVzFjVU9yQ0QwSFdWMk1TdFVHMHNXQkMyTQ?oc=5"
+    },
+    {
+      "division": "SDV본부",
+      "d": "2026-10-22",
+      "t": "QNX, “SDV 개발 복잡성 한계 도달, AI는 개발자 대체 아닌 역량 강화 도구”",
+      "s": "e4ds news",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03d2lfSENzY05PbXo3eUVPYzIzRllfOGp0dnNGekJGTGxRZHNLUzcwa09TMHVaWWFZNVZteTlCTk5rcFhUeGg1RlhQZHR5UWN6eEJpeVB3?oc=5"
+    },
+    {
+      "division": "AVP본부",
+      "d": "2026-10-22",
+      "t": "NVIDIA Hyperion 기반으로 유럽 모빌리티 기업의 안전한 차량·로보택시 플릿 구축 지원",
+      "s": "NVIDIA",
+      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON0Z2a2pqVnNYMENvQzNSdTQ2S0E3dFd6R1lZQ0FVTG1WX2lxZ25UeEpObjUtaW5kei1XaUhUVm1pY2lXcG5ZTzlLOXlsb1RheE9uRlkyZGQxNUs5SE1DaklMSU5mSG14N2hlLUl1cnhLVXI3Skl4ZldOZ0pPRWt1TGM4TDlxUkRjTXQyZjlnR1p0RVZyRFFjdXd1YW9WTWNJZkdodmVBVU9aRVZXUDBnMExXa25aYm9C?oc=5"
+    },
+    {
+      "division": "AVP본부",
+      "d": "2026-10-21",
+      "t": "오토노머스에이투지, 자율주행 임시운행허가 차량 100대 돌파 - 머니투데이",
+      "s": "머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jWmdxcS1OMWdnUlJhb3RoSXBRQmhsY0dwRTk4T0hKNl9FRlI0c3RpNk1YeGtLZmpEYklNTHc3TXFReUh4Ti1QdmtaOXowcmJBSmE1WDNKb001NWMwOUJiWHc0RkJpYU56RmfSAW9BVV95cUxPbThDaXN0MThQdTdSeTdqVUF2cHBHdG15TmtHS3UzNEdCTGxOVS01S0FQNWJ2WExNMi1id2NqUUdpdVNYQU5DXzgwRjFmYmZoRzd2VHdWTlplQ3B0R2JDRTJVbG9NUC1LdzdyczRZTFU?oc=5"
+    },
+    {
       "division": "로보틱스LAB",
       "d": "2026-10-20",
       "t": "[단독] 보스턴다이내믹스·고스트로보틱스, 로봇개로 美 미래 공군 장교 '전장 파트너 선점'",
       "s": "더구루",
       "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1RaV9ZMWVzZnFiMU1IMFhWSVpDVHNLa28wblluWGJPMUtnS1VPdzNoLV9YLUVmRkI3QVhLcWFyRnpQOC13cVAtZHN0Z0JLMmNTUzJHcHk2OVdhRjRZZ3J0YUZhYw?oc=5"
-    },
-    {
-      "division": "AVP본부",
-      "d": "2026-10-20",
-      "t": "오토노머스에이투지, 자율주행차 100대 돌파…누적 115만㎞ 주행",
-      "s": "아시아경제",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDZ1E3eWo5ZjBEVE5VYzVkNHFrSlVFcS1BMVBNamUxSDlYeE02NXlRUWxYWTNWRkdzTWREOGFoNlNTT1ZRc1A1V1laR3c0TldOdnZlZG0tOW9qRmEzUExtYVB3?oc=5"
     },
     {
       "division": "AVP본부",
@@ -71,18 +99,25 @@
       "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ocWZJYTg5bTRZUV8weFJzQnA3T1IyaFJoUzVab3pvdEZSOHFrbzgzSUFuTEI4MlVNMjVDLWRVeEZydjZVR1NzWmVBeHI0OWFlcjQxeVIyOUtRYzhiUjdEbVNNbURWSFlFdHNlWDRkWHVBcjJW?oc=5"
     },
     {
-      "division": "SDV본부",
-      "d": "2026-10-06",
-      "t": "Applied Intuition, 혼다자동차와 차세대 소프트웨어 정의 차량(SDV) 개발 가속화를 위한 협력 발표",
-      "s": "KIPOST",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBneWFhWDloaG9OUUR1QUVpcEpDY0tjUlQtYTh6WVFUSkVaaFl5SERpblZBNDFvZmxUZEtOcFlQX3dOZGlFblloMTJsX3dsTk9jeTVWdk1WaW5rZ1hwUUxXQ01NaWUtUmxY0gFsQVVfeXFMTTFvMVJCZ2IySkJYMi14bi05Wm9hSHJrOTg2QU9hSTdmWEo1OS1SbXB1ODAzVG8ta0I1Q2czdFNteTNJNXhrbWFucGs0U0pCZzVDbTJud293VUZXZE14UTVsdVFKNEJ1emxWY2pi?oc=5"
+      "division": "AAM본부",
+      "d": "2026-10-07",
+      "t": "[WIKI 현장] 현대엘리베이터, 충주서 H-PORT 테스트베드 가동…실기체 실증 채비",
+      "s": "위키리크스한국",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBEdkNsRnZCQUlFUnFJc1Rxd3lPb243SWljU1ZGZmc3SkRiSndJcGQ5YzV2eG1DenNhV19pdWNYRl9Xck52cGxvYS1CeXJ0ZnhpQi05Z1pvTldDODdONzdWM0p6SzFWeXhxX0JFMHo1SW4?oc=5"
     },
     {
-      "division": "로보틱스LAB",
-      "d": "2026-10-02",
-      "t": "\"다섯 손가락 필요 없다\"...보스턴 다이내믹스, 네 손가락 로봇 손 공개",
-      "s": "AI타임스",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IcldoN3hsbTRqUVd3VGxBRW1fdmpIVkJ5c1AwaVJHZEgyX1V5THJWYTYyYzZyNVJOZ3E5RjNKZldqZ1l2d3lCMjdwbFllT05nMTEyMVQxaGQzOXF0VUE4TUkyTTdzaVJ1eVE?oc=5"
+      "division": "경쟁사",
+      "d": "2026-09-15",
+      "t": "포드·GM 후퇴하자 테슬라 점유율 52%…美 전기차시장 재장악",
+      "s": "한국경제",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KNUZ2eHRGU0MzT045VzFvR29oYTUydm9EMjdZQ3Y4VXFzQkw4eU80OHpSMHJnNFA2RC1kNWFVZG50R1lqUmlDd3pIczNUTDJNYTB5OHFoc1hEZw?oc=5"
+    },
+    {
+      "division": "경쟁사",
+      "d": "2026-09-09",
+      "t": "K배터리 점유율 10.4% 하락…북미시장서 직격탄",
+      "s": "지디넷코리아",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91akJyQW5JWEtFN04wMl9veGc5ZWZhbUNtY3cyTEJwUldnWlJuclM3cXRlZ2xnWjJqUkptZFhpM2kwaUVsWTFCYXZKYjIwcTZvd1FSUE9B?oc=5"
     },
     {
       "division": "수소연료전지",
@@ -111,6 +146,27 @@
       "t": "이젠 하늘도 로봇이 지킨다?… 국방부-현대차, 로봇·AAM 넘어 'K-무인 전장' 대전환",
       "s": "녹색경제신문",
       "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xeEpCS2t3VnpIVWFSN0lvWFNabUN5THp0NHYzZjlIZEwzMmZJTDduaHpGeHlQNXNZeHZ3NldaVzI3eGdXTVN6UmRkU3ZGdXFwdnFTeWFod20xSnBWZFhJSGY3N29DYTFV?oc=5"
+    },
+    {
+      "division": "AVP본부",
+      "d": "2026-10-20",
+      "t": "오토노머스에이투지, 자율주행차 100대 돌파…누적 115만㎞ 주행",
+      "s": "아시아경제",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDZ1E3eWo5ZjBEVE5VYzVkNHFrSlVFcS1BMVBNamUxSDlYeE02NXlRUWxYWTNWRkdzTWREOGFoNlNTT1ZRc1A1V1laR3c0TldOdnZlZG0tOW9qRmEzUExtYVB3?oc=5"
+    },
+    {
+      "division": "SDV본부",
+      "d": "2026-10-06",
+      "t": "Applied Intuition, 혼다자동차와 차세대 소프트웨어 정의 차량(SDV) 개발 가속화를 위한 협력 발표",
+      "s": "KIPOST",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBneWFhWDloaG9OUUR1QUVpcEpDY0tjUlQtYTh6WVFUSkVaaFl5SERpblZBNDFvZmxUZEtOcFlQX3dOZGlFblloMTJsX3dsTk9jeTVWdk1WaW5rZ1hwUUxXQ01NaWUtUmxY0gFsQVVfeXFMTTFvMVJCZ2IySkJYMi14bi05Wm9hSHJrOTg2QU9hSTdmWEo1OS1SbXB1ODAzVG8ta0I1Q2czdFNteTNJNXhrbWFucGs0U0pCZzVDbTJud293VUZXZE14UTVsdVFKNEJ1emxWY2pi?oc=5"
+    },
+    {
+      "division": "로보틱스LAB",
+      "d": "2026-10-02",
+      "t": "\"다섯 손가락 필요 없다\"...보스턴 다이내믹스, 네 손가락 로봇 손 공개",
+      "s": "AI타임스",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IcldoN3hsbTRqUVd3VGxBRW1fdmpIVkJ5c1AwaVJHZEgyX1V5THJWYTYyYzZyNVJOZ3E5RjNKZldqZ1l2d3lCMjdwbFllT05nMTEyMVQxaGQzOXF0VUE4TUkyTTdzaVJ1eVE?oc=5"
     },
     {
       "division": "AAM본부",
@@ -146,13 +202,6 @@
       "t": "스바루, 2020년대 후반 SDV 출시…차량 개발 기간 40% 줄인다",
       "s": "https://www.diarypoint.com/",
       "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1XWVZBekd5WldRZXlGdjlhOVA2ckZ6V2s1TTk4MGN6a2VsM3B3ZFZHTFB1eVBVekpZYVB5RFZtd1BXYWZRSTNLbURlMDVuLVlFX0JzX3lrN0IzXzFTSm0zNVdHa3JtQUhMZDBR?oc=5"
-    },
-    {
-      "division": "경쟁사",
-      "d": "2026-09-15",
-      "t": "포드·GM 후퇴하자 테슬라 점유율 52%…美 전기차시장 재장악",
-      "s": "한국경제",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KNUZ2eHRGU0MzT045VzFvR29oYTUydm9EMjdZQ3Y4VXFzQkw4eU80OHpSMHJnNFA2RC1kNWFVZG50R1lqUmlDd3pIczNUTDJNYTB5OHFoc1hEZw?oc=5"
     },
     {
       "division": "수소연료전지",
@@ -230,60 +279,11 @@
       "t": "[국경 없는 인재 전쟁] 아마존 알렉사 만든 AI 수장, 현대차 로봇 CEO로 간 이유…보스턴다이내믹스 승부수",
       "s": "더구루",
       "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zYnh3Y08yRnB2SHBlbmp1S1VSNzg1VGFUWllqS1RlTVRxTUlVczZ2akVYUC1Jd1cwZXZtbVh6MFF4WWdyanFHVE02amhEd1JJN2FSZ0lmV0RLVlNhaXc?oc=5"
-    },
-    {
-      "division": "SDV본부",
-      "d": "2026-10-16",
-      "t": "\"SDV 개발 부담 덜어낸다\"…마이크로칩, 일렉트로비트 손잡고 사전 통합 지원",
-      "s": "디지털데일리",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0N3dBMmR0RzRnMnpSUDVlbktxWnFxS3NFVzhLSlNqamxDdXplYTViYnBSY3NfbDRIdVhtMjVOVHBwYklhTFZOYmVVUEZxS0N1RzZVN0dMM2VHdk53a1lnV1dQYUU?oc=5"
-    },
-    {
-      "division": "로보틱스LAB",
-      "d": "2026-10-15",
-      "t": "로봇양산 앞둔 보스턴 다이내믹스… “中부품 공급망 벗어나야”",
-      "s": "아시아투데이",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvckVzYXNFLTZNM25zYWtPNGYzOFJSa2FSZEc2V2JMVTJSbThkTHJrWXk5aUhzc3ctY2x5Qnl3SC01VTlEcTBvX3BHaU9mckd5dkZQNFowTHRBQVZyUHJKbVg5N1dtUVZVMVFOQmpn?oc=5"
-    },
-    {
-      "division": "AVP본부",
-      "d": "2026-10-17",
-      "t": "벤츠·엔비디아 자율주행 동맹 확대⋯레벨4·로보리무진까지 겨냥",
-      "s": "엠투데이",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wTklpTGxFR1dKOHZsODU5enVxWk14QUJnSW53UEU1eGp1eUlzVl81SXF6d3cxVDkybmU1R2dNLXA4dEJEVE1TR0gtVzlYNHB1MlJsRkpFY1FIaTVWXy00V1FIWjdBU051aHdJSkJCNA?oc=5"
-    },
-    {
-      "division": "수소연료전지",
-      "d": "2026-10-16",
-      "t": "기본 화면으로 돌아가는 경로를 찾는 학교 토토사이트",
-      "s": "Calgary Roughnecks",
-      "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObmxTRkR0V3YyTThCcHR2MTY4LTlZcTJpVUU5cXYxLXk4QVpfWEFHV0xVRWpUMFQ1cHB4eTBXZHExQmJXZ0pna1I2M21MWEhuMEI0TGUzNkp6OVJIaXJIamszMkt0TldfQXp6aGN3d1ZDZmdPc3Jpd3NmN0x4UjZ4U2lQT2lzbW9hc3ZTeHNzbEpJbWdBbFpwdFpIZmtEOTFiYUpycWd4ak9PdkR2QmtsOUxWY0txYkJLWWw2QjN3cU1heEh6dXRVeTFLTjBhbDZrVjkxeEtSeDI5YmtQQ1hRVmZB?oc=5"
-    },
-    {
-      "division": "SDV본부",
-      "d": "2026-10-16",
-      "t": "마이크로칩-일렉트로비트, SDV 전환 가속 AUTOSAR 개발 협력 나서",
-      "s": "헬로티",
-      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BSWpDeUViUzNzUGxSbkhmc1pfWXhWT3d0Q3JXaHNWRDdEb0pyaE56eTFDQXF6MW91eUJfWU0xTWJHbGVqMXR4ZTRyV2xDdTlHa29IaUtjaEFzWmhFNldF?oc=5"
-    },
-    {
-      "division": "로보틱스LAB",
-      "d": "2026-10-15",
-      "t": "하루 걸리던 아틀라스 제작, 내년엔 ‘1시간’…로봇 ‘속도전’",
-      "s": "뉴스토마토",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wSlk4ZTZpNjZhX0NKeUlCUXh5ZV9lR093QWFwdTRLWnZkdVlYcGpuOGVIX2lub2hnQmlkSUpNcnF4MWthQ0o5X0dLcGRGcjNNRlpVa3ZFMHlQc3dCSkxSNg?oc=5"
-    },
-    {
-      "division": "AVP본부",
-      "d": "2026-10-11",
-      "t": "‘레벨4 자율주행자동차 자보체계’ 관련법령 개편도 필요",
-      "s": "보험신보",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5IWlgxbjlJVFU2dlA0M2x2X1FnY0o5RkdmSWVvTXIydGR0QmtITThxT2IyQW1IVHNPbW13aFdLQmkyU0FRN20xamhBbVl4QmRRVmlHUGgtV3VaNHBDUEp3WFdoSVRoOTVjQjJn?oc=5"
     }
   ],
   "fx": {
-    "usdkrw": 1327.17,
-    "updatedAt": "2026-10-21T23:56:33.220Z"
+    "usdkrw": 1326.14,
+    "updatedAt": "2026-10-22T23:56:06.088Z"
   },
-  "updatedAt": "2026-10-21T23:56:33.220Z"
+  "updatedAt": "2026-10-22T23:56:06.088Z"
 }
