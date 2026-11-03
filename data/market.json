@@ -2,17 +2,31 @@
   "news": [
     {
       "division": "AVP본부",
-      "d": "2026-11-01",
-      "t": "[칼럼] 현대차, 자율주행 경쟁에서 ‘한신의 가랑이’를 기어라",
-      "s": "모터매거진",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13SUpuYnl1MlFyTUVVc3hoZkMxS2QycXo1ZnJmc2hNWklJNjJmMG8td3hxenhWTVlwMG5JWGlZRGxpLVJISS1pWUtFYUdhZkpFUnV2SS1oLTB1WkRTTmFCcWxvSTRPV3ozUEFPVA?oc=5"
+      "d": "2026-11-03",
+      "t": "日, 핸들·페달 없는 자율주행차 양산 길 연다",
+      "s": "한국경제",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fN2gweGg0c0RaQ1dfbFI0Yk1ucV9HZGRRN1lQUGlWVTZMUGxZZ3NGNjh6cURvV296cVcxbDE0cXJmSEx0bzluVVZzN1ZMbnE1M2szc2dXVmJjZw?oc=5"
+    },
+    {
+      "division": "SDV본부",
+      "d": "2026-11-03",
+      "t": "인피니언·퀄컴, SDV용 중앙 차량 컴퓨터 개발 협력…자율주행·디지털 콕핏 구현 가속",
+      "s": "e4ds news",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44TFVNaUd6YmlxSVYtcFFMZjc0dlBQR3FwSHlPcEYtaEY3TmZkbjA5RXlUQ1RZNzVaeVVvdE95aUhZUzZtVXNYYjA0TldoYlRIRGtqOXZ3?oc=5"
     },
     {
       "division": "AVP본부",
-      "d": "2026-11-01",
-      "t": "“자율주행 승부처는 쌓인 데이터의 선순환”",
-      "s": "서울경제",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Tbkwxc0d0aXRqV2Y4b0pZcktwM0VrVy1yc0x0ZXNQWG1jRGRTYWtkMkg1dWlycWNqRmlPUnhRV0s5UVV5TFVkSE1nMmdwUjRCblHSAVNBVV95cUxNbkp2SDhKV1hZZHp0YTJJQ1RDVUNUdE1LSnE2TURHTjh4MjJMUGZ6aGQ1b0xSbDE0Rm1DVGtsc0ExZER1VDJpLTRwNTNSS3dRbE1wVQ?oc=5"
+      "d": "2026-11-03",
+      "t": "日, 자율주행차 안전기준 개정...자율주행 택시·버스 보급 촉진",
+      "s": "뉴스핌",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9SVFR2Ym5ocnRTeWZ4d2dGYXpYOEJ3QnBpZlA4NzhBeVBvNnkxWW5lNFc2VjRDUDJwblNYMU1tY1BDNzBWM3MzcDVCSjJCc2loS0xzdHN3UE8xZE5u?oc=5"
+    },
+    {
+      "division": "로보틱스LAB",
+      "d": "2026-11-02",
+      "t": "보스턴다이내믹스 '스팟', 15kg 타이어 자율 운반 '척척'…실험실 밖 완벽 기술 실증 [영상+]",
+      "s": "더구루",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE55UW80TTVXWUU2bzhVVHJQYkMyZFRCbFFnU2xLdW9MUVd2cm9VS3lPQ1NXcHhGNVhUWXBzZDNpa3NYR3R0LVktOEstdmpwc2hYN1pmTXR1RnpHT0dWR19GZjlYVQ?oc=5"
     },
     {
       "division": "승용사업부",
@@ -22,24 +36,10 @@
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fWDBnWktQdC1TbzVtS2RBUTdoSmZPMlZPUURZd2luQThUbzV5TkF3eDBLZDBGRGN2V05mR2tyRHhIdGVlZ1hFdWlZYkRDVXg2MHpfaGNuc1ZsYU1zaDE5bA?oc=5"
     },
     {
-      "division": "AVP본부",
-      "d": "2026-11-01",
-      "t": "내달 누빌 자율주행차 200대···차량에도 광주를 입히자",
-      "s": "무등일보",
-      "u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBXNFNyYzBNZG5GanVBOTMwQlpUVlliSzdYdjBYcU96RFM1bHhYc2NBTmlNV19MVkFIQ2J2RU1mcVV4TnhONzdQUDZEMnc?oc=5"
-    },
-    {
-      "division": "SDV본부",
-      "d": "2026-11-01",
-      "t": "한국첨단자동차기술협회, ‘KSNC 2026’ 개최…첨단자동차 신뢰성 및 국제표준 대응 논의:동아경제신문 & daenews.co.kr",
-      "s": "동아경제",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MMWRORHdYanprWXZmQ2N6THluREpWN1JwM1lwdDE5REV5b1BoVmstNGY1aWtQV05ySGFFSGpaeHdJaFFGc3NhYXN5QWU5WXhaaDBhQnljUWoyRXZjUXNtY3dB0gFiQVVfeXFMTkwxZE5Ed1hqemtZdmZDY3pMeW5ESlY3UnAzWXB0MTlERXlvUGhWay00ZjVpa1BXTnJIYUVIalp4d0loUUZzc2Fhc3lBZTlZeFpoMGFCeWNRajJFdmNRc21jd0E?oc=5"
-    },
-    {
       "division": "SDV본부",
       "d": "2026-10-31",
       "t": "SDV 시대, OEM-부품공급사 ‘원팀’이 돼야",
-      "s": "www.autoelectronics.co.kr",
+      "s": "autoelectronics.co.kr",
       "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9hbWhoRWYxbnlTUENmWndfT085Y2FnYkpYM0JBSGdCbW5QVUlsZWJmMWFKb0NQakw4cmVON0pFc2x2bWlGVUJSMHdVSWFmdVRuQnV2RGt0RlBDYjlFTEpqSHlQWkpZTngtT0l3UlV5cW85NVFN?oc=5"
     },
     {
@@ -57,18 +57,18 @@
       "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBaWWo4bURqTGU0UFZBTk5XYjRHZzVZTEIyQkg0RXhFSEt5eXoweHJJV244NjYyZk10Mm5UTlVtNDVVOHljbTFUTHU5RkViZw?oc=5"
     },
     {
-      "division": "로보틱스LAB",
+      "division": "수소연료전지",
       "d": "2026-10-27",
-      "t": "로봇개 ‘스팟’ 이민단속 지원에 보스턴다이내믹스 직원들 반발",
-      "s": "한겨레",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE14ZlRnd2tpa0NBRGJJSWNGNElGSjZRaEM0eXk5SWY2NGxSalZKT2phMEV6WlJobTB6THA1YlBVZkw5azkwMkVSTXNYZm9QVHdBOUJEVEtWQVdyMFpKT1dZZDV3?oc=5"
+      "t": "[기획연재] 수소 기반 에너지 생태계 구축하는 ‘현대자동차’유기성 폐기물이 수소로···청주 등 지역형 생산거점 확대",
+      "s": "가스신문",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93NGp1TkJ2NUdtS3oycFVyaFhQdnJoLXItMzYtcFZERmplRzY0dUxvRjJMVXdSTkhXR1BjeFcyZGRNOFU2SWx5OTF6bDJnVDUtMWR5dUdEWGtUSjZDTmc1S2lncWtiTDZwN2c?oc=5"
     },
     {
-      "division": "로보틱스LAB",
-      "d": "2026-10-27",
-      "t": "[단독] 보스턴다이내믹스, 아틀라스 1만대분 부품 발주…나무가·씨티알 등 참여",
-      "s": "한국경제",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43dTVFNXFnbXU5RVRubklIb0E5N19fNjFVWm5Lb2tBa0VtMHpiVzB0SlFLcV9DUndUeDJCZkRfcDVMMUZsWGZrM3VIVmFXd2Z6Xy1VcTJSRHFzdw?oc=5"
+      "division": "승용사업부",
+      "d": "2026-10-13",
+      "t": "현대차가 힘 싣는 하이브리드차, 국내서 첫 역성장… 전기차는 75% 급증",
+      "s": "Chosunbiz",
+      "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qbkNCTmNWSlJJcDVDNVB6VXpuTlJPbUY5SGdmajVpektYdWlVVWR0V21HVHdIbU5RVDltRlRzeWJoNmQwZTZrLURhenBnNWFVWmQ2QmExWjl2bm1DTENodWlzc0c1aG1wSVNiSnZzRlFSM0JLaFFoWHhoemppdnfSAZMBQVVfeXFMT2NQYUJQOWdwWWtwdkJub1ZGQzN6OE1qQUt6T0JVTmUxcmtpS01FWFhUaE5feXpRWnBXeWpmbFlFN0Qtd2txT2hyTWR0RDBtLUw3Zm1RTDBQUVE1c2s4RlEtSXdlc29RanprSVpGTF9ETHZ2QkRleUVZWWNwVGYyaTVUWEpJMnppY19XektNeXJCMzNn?oc=5"
     },
     {
       "division": "로보틱스LAB",
@@ -78,25 +78,18 @@
       "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOa0xBUlhZV2JGc1phbjhjMFVKYlVrQTdvU1VUSV9HUS0tUnkycEtyTi15ZXZBTEdtZl9ySF9Rc2dicnA2OGc3UnZhNWNsWEtvZ0s5ckRjNGxkeGZpaTVZaVExbzBhak15MWMteTdyQjg1d1pfOXRYcmlmclhOZjJaQ1hZVWZIZw?oc=5"
     },
     {
-      "division": "AAM본부",
-      "d": "2026-10-08",
-      "t": "[현장] \"수직 이동 넘어 하늘로\"…현대엘리베이터, 충주 'H-PORT' 전격 공개",
-      "s": "파이낸셜포스트",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ocWZJYTg5bTRZUV8weFJzQnA3T1IyaFJoUzVab3pvdEZSOHFrbzgzSUFuTEI4MlVNMjVDLWRVeEZydjZVR1NzWmVBeHI0OWFlcjQxeVIyOUtRYzhiUjdEbVNNbURWSFlFdHNlWDRkWHVBcjJW?oc=5"
+      "division": "로보틱스LAB",
+      "d": "2026-10-02",
+      "t": "\"다섯 손가락 필요 없다\"...보스턴 다이내믹스, 네 손가락 로봇 손 공개",
+      "s": "AI타임스",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IcldoN3hsbTRqUVd3VGxBRW1fdmpIVkJ5c1AwaVJHZEgyX1V5THJWYTYyYzZyNVJOZ3E5RjNKZldqZ1l2d3lCMjdwbFllT05nMTEyMVQxaGQzOXF0VUE4TUkyTTdzaVJ1eVE?oc=5"
     },
     {
-      "division": "AAM본부",
-      "d": "2026-10-07",
-      "t": "[WIKI 현장] 현대엘리베이터, 충주서 H-PORT 테스트베드 가동…실기체 실증 채비",
-      "s": "위키리크스한국",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBEdkNsRnZCQUlFUnFJc1Rxd3lPb243SWljU1ZGZmc3SkRiSndJcGQ5YzV2eG1DenNhV19pdWNYRl9Xck52cGxvYS1CeXJ0ZnhpQi05Z1pvTldDODdONzdWM0p6SzFWeXhxX0JFMHo1SW4?oc=5"
-    },
-    {
-      "division": "수소연료전지",
-      "d": "2026-07-30",
-      "t": "\"울산·광저우서 브라질까지\"…현대차그룹, 글로벌 '수소 벨트' 구축 나선다",
-      "s": "뉴시스",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTRV9OdzE4UFhZdEZJY0ttNncxVEVEWGEzdTRrQjNyR1pJeGZTRG9YRkNIZi1VSzFTUlRnQVBfREg0cHRXaE9RUmozUlFFdTV0eU1KZ3lZMjF2N0Fic3Eya9IBeEFVX3lxTFBPTjhwcTd2Q3ZUY1hoSnZTRmN6NFo3cVY2b0N6M3RDT25Na3k5dnJXY1UxN1J0Q0c2YU5wZHR0LVNfa2lqR25iNk9HcWFPMmN4ODBRVU9YVUJ0ZjBPaFhZc01Ka1Q5Y0JNN2pGYWNfQkxodEE1bkZoLQ?oc=5"
+      "division": "경쟁사",
+      "d": "2026-09-15",
+      "t": "포드·GM 후퇴하자 테슬라 점유율 52%…美 전기차시장 재장악",
+      "s": "한국경제",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KNUZ2eHRGU0MzT045VzFvR29oYTUydm9EMjdZQ3Y4VXFzQkw4eU80OHpSMHJnNFA2RC1kNWFVZG50R1lqUmlDd3pIczNUTDJNYTB5OHFoc1hEZw?oc=5"
     },
     {
       "division": "경쟁사",
@@ -118,6 +111,97 @@
       "t": "현대자동차그룹 HTWO 광저우, ‘2026 국제수소에너지 및 연료전지차 대회’ 참가 | 뉴스 | 현대자동차그룹",
       "s": "Hyundai Motor Group",
       "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTFF0TnlOU3EzWmpiQ0NjemVCM0MwYndjSk1EZDFMVFZUNmRWVlk4a1UzLWNqOHByMk81TW5RZ1VuY1h3MEZscTg2V3Q2Z3pMb2YzWERYYjFKNS1SbEZ6cTBrcjhxbVk5ZHRvdm1RNkhoRmdlY2pmU1ZPTS1FUERsQm9hMHhpRW1ubDNkN3hEQjZuZksyVEpGSDRfWG1jb0Z2bUFpVWcwVDZiWFNaMzlqZ1RR?oc=5"
+    },
+    {
+      "division": "경쟁사",
+      "d": "2026-02-05",
+      "t": "GM, 2025년 美 전기차 시장 2위…테슬라 선두 '여전'",
+      "s": "디지털투데이",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BS21va3FBV2JmWEZPWTdjSWRsWUlMZUpXYXVDaDR5cnhxR1FOOUZLODVBVzRIeXAxSWo1Q0dvUkdEWWc4dnhkRmpfaVpfOTJzMExwVEh3LThkWnBEOGFtelpGdHBsbmdRRkJCZzdNcktjLWs?oc=5"
+    },
+    {
+      "division": "AAM본부",
+      "d": "2025-10-17",
+      "t": "[단독] 대한항공 ‘UAM 신호등’, 바람 따라 하늘길 열고 돌발 상황엔 고도별 선회 대기시킨다",
+      "s": "에너지경제신문",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SUEd0Vk1EWmlRdVAzWk9ES1JGeDU4MVA5UjBKdXZ4eTg5aWJvMW1DWDdERzhZWjdoVkd5S2pQRkl0TTJjS2lMTEFmUlBhc2JvMHN6TUdwNnhDUTQ?oc=5"
+    },
+    {
+      "division": "AAM본부",
+      "d": "2024-10-11",
+      "t": "현대차, UAM 상용화 속도…4년 뒤 年 200대 만든다",
+      "s": "한국경제",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZOUxNZTlMZUlBTUE5bzBGTXI2a2VOajdsNDlQdFotb2Q4UWphamxBYXBWbFRKOTQybTU4OTRxaF9WSUZfOVhnek9OWFNUVVdLaWx1VW50Skphdw?oc=5"
+    },
+    {
+      "division": "AAM본부",
+      "d": "2022-07-29",
+      "t": "현대차그룹, ‘미래 항공 모빌리티’의 개념을 다시 정립하다 | 저널 | 현대자동차그룹",
+      "s": "Hyundai Motor Group",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYQlhLNWJmR3JCSEJmanZpZEk5MTE2US1BM09FM0ZEWEdPR000aUVGU2tBckgtTkc0Q0dFeUdkbEJZR0t3UmNMc1cwdW5jbkRGQm42YXBOZkF0OFdPemppNko4WnVYRzdKVXlic2diZVg?oc=5"
+    },
+    {
+      "division": "AVP본부",
+      "d": "2026-11-01",
+      "t": "[칼럼] 현대차, 자율주행 경쟁에서 ‘한신의 가랑이’를 기어라",
+      "s": "모터매거진",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13SUpuYnl1MlFyTUVVc3hoZkMxS2QycXo1ZnJmc2hNWklJNjJmMG8td3hxenhWTVlwMG5JWGlZRGxpLVJISS1pWUtFYUdhZkpFUnV2SS1oLTB1WkRTTmFCcWxvSTRPV3ozUEFPVA?oc=5"
+    },
+    {
+      "division": "AVP본부",
+      "d": "2026-11-01",
+      "t": "“자율주행 승부처는 쌓인 데이터의 선순환”",
+      "s": "서울경제",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Tbkwxc0d0aXRqV2Y4b0pZcktwM0VrVy1yc0x0ZXNQWG1jRGRTYWtkMkg1dWlycWNqRmlPUnhRV0s5UVV5TFVkSE1nMmdwUjRCblHSAVNBVV95cUxNbkp2SDhKV1hZZHp0YTJJQ1RDVUNUdE1LSnE2TURHTjh4MjJMUGZ6aGQ1b0xSbDE0Rm1DVGtsc0ExZER1VDJpLTRwNTNSS3dRbE1wVQ?oc=5"
+    },
+    {
+      "division": "AVP본부",
+      "d": "2026-11-01",
+      "t": "내달 누빌 자율주행차 200대···차량에도 광주를 입히자",
+      "s": "무등일보",
+      "u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBXNFNyYzBNZG5GanVBOTMwQlpUVlliSzdYdjBYcU96RFM1bHhYc2NBTmlNV19MVkFIQ2J2RU1mcVV4TnhONzdQUDZEMnc?oc=5"
+    },
+    {
+      "division": "SDV본부",
+      "d": "2026-11-01",
+      "t": "한국첨단자동차기술협회, ‘KSNC 2026’ 개최…첨단자동차 신뢰성 및 국제표준 대응 논의:동아경제신문 & daenews.co.kr",
+      "s": "동아경제",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MMWRORHdYanprWXZmQ2N6THluREpWN1JwM1lwdDE5REV5b1BoVmstNGY1aWtQV05ySGFFSGpaeHdJaFFGc3NhYXN5QWU5WXhaaDBhQnljUWoyRXZjUXNtY3dB0gFiQVVfeXFMTkwxZE5Ed1hqemtZdmZDY3pMeW5ESlY3UnAzWXB0MTlERXlvUGhWay00ZjVpa1BXTnJIYUVIalp4d0loUUZzc2Fhc3lBZTlZeFpoMGFCeWNRajJFdmNRc21jd0E?oc=5"
+    },
+    {
+      "division": "로보틱스LAB",
+      "d": "2026-10-27",
+      "t": "로봇개 ‘스팟’ 이민단속 지원에 보스턴다이내믹스 직원들 반발",
+      "s": "한겨레",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE14ZlRnd2tpa0NBRGJJSWNGNElGSjZRaEM0eXk5SWY2NGxSalZKT2phMEV6WlJobTB6THA1YlBVZkw5azkwMkVSTXNYZm9QVHdBOUJEVEtWQVdyMFpKT1dZZDV3?oc=5"
+    },
+    {
+      "division": "로보틱스LAB",
+      "d": "2026-10-27",
+      "t": "[단독] 보스턴다이내믹스, 아틀라스 1만대분 부품 발주…나무가·씨티알 등 참여",
+      "s": "한국경제",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43dTVFNXFnbXU5RVRubklIb0E5N19fNjFVWm5Lb2tBa0VtMHpiVzB0SlFLcV9DUndUeDJCZkRfcDVMMUZsWGZrM3VIVmFXd2Z6Xy1VcTJSRHFzdw?oc=5"
+    },
+    {
+      "division": "AAM본부",
+      "d": "2026-10-08",
+      "t": "[현장] \"수직 이동 넘어 하늘로\"…현대엘리베이터, 충주 'H-PORT' 전격 공개",
+      "s": "파이낸셜포스트",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ocWZJYTg5bTRZUV8weFJzQnA3T1IyaFJoUzVab3pvdEZSOHFrbzgzSUFuTEI4MlVNMjVDLWRVeEZydjZVR1NzWmVBeHI0OWFlcjQxeVIyOUtRYzhiUjdEbVNNbURWSFlFdHNlWDRkWHVBcjJW?oc=5"
+    },
+    {
+      "division": "AAM본부",
+      "d": "2026-10-07",
+      "t": "[WIKI 현장] 현대엘리베이터, 충주서 H-PORT 테스트베드 가동…실기체 실증 채비",
+      "s": "위키리크스한국",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBEdkNsRnZCQUlFUnFJc1Rxd3lPb243SWljU1ZGZmc3SkRiSndJcGQ5YzV2eG1DenNhV19pdWNYRl9Xck52cGxvYS1CeXJ0ZnhpQi05Z1pvTldDODdONzdWM0p6SzFWeXhxX0JFMHo1SW4?oc=5"
+    },
+    {
+      "division": "수소연료전지",
+      "d": "2026-07-30",
+      "t": "\"울산·광저우서 브라질까지\"…현대차그룹, 글로벌 '수소 벨트' 구축 나선다",
+      "s": "뉴시스",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTRV9OdzE4UFhZdEZJY0ttNncxVEVEWGEzdTRrQjNyR1pJeGZTRG9YRkNIZi1VSzFTUlRnQVBfREg0cHRXaE9RUmozUlFFdTV0eU1KZ3lZMjF2N0Fic3Eya9IBeEFVX3lxTFBPTjhwcTd2Q3ZUY1hoSnZTRmN6NFo3cVY2b0N6M3RDT25Na3k5dnJXY1UxN1J0Q0c2YU5wZHR0LVNfa2lqR25iNk9HcWFPMmN4ODBRVU9YVUJ0ZjBPaFhZc01Ka1Q5Y0JNN2pGYWNfQkxodEE1bkZoLQ?oc=5"
     },
     {
       "division": "AAM본부",
@@ -176,13 +260,6 @@
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yMUhJYkdPMmdfLTJlQVpmb2ZrdUJIeF9ua2dmcTFLSHhCVEpTWG55czhucm4wajM1RHdHZ2N1azI2ZGlXYkJKMzVnaDhFc0ZjUVdhTVZWV3k3U1NPYkY1WNIBYEFVX3lxTE8yMUhJYkdPMmdfLTJlQVpmb2ZrdUJIeF9ua2dmcTFLSHhCVEpTWG55czhucm4wajM1RHdHZ2N1azI2ZGlXYkJKMzVnaDhFc0ZjUVdhTVZWV3k3U1NPYkY1WA?oc=5"
     },
     {
-      "division": "수소연료전지",
-      "d": "2026-10-27",
-      "t": "[기획연재] 수소 기반 에너지 생태계 구축하는 ‘현대자동차’유기성 폐기물이 수소로···청주 등 지역형 생산거점 확대",
-      "s": "가스신문",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93NGp1TkJ2NUdtS3oycFVyaFhQdnJoLXItMzYtcFZERmplRzY0dUxvRjJMVXdSTkhXR1BjeFcyZGRNOFU2SWx5OTF6bDJnVDUtMWR5dUdEWGtUSjZDTmc1S2lncWtiTDZwN2c?oc=5"
-    },
-    {
       "division": "로보틱스LAB",
       "d": "2026-10-26",
       "t": "보스턴다이내믹스 내부도 ’반발’, 美 ICE 스팟 공급 두고 로봇 윤리 논란 확산 By The Guru",
@@ -202,88 +279,11 @@
       "t": "스텔란티스, 테슬라에 선전포고…5년간 전기차에 41조 투자",
       "s": "연합뉴스",
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MbjBBWk5sTGFIMXktQXF3bEtVc1ZrT01PdHM4SllaRHlxMElrX0N6OURkQ1FsWG91RTdndlg4dXVOVzhsRXVCMllqQk9ncjZWNnNHdW52NmtSTjjSAWBBVV95cUxPQlgtdFpsNkVlYVpoQVJsMTQzSmN6alRFZkhMYUtpTnJjNGFWMlVUaVMwblFpMWVYeHdIRDhsNmVicmVIclp3SWFqcmhkWmwxTHJxOFFIWW1tVklEOFhhVk0?oc=5"
-    },
-    {
-      "division": "AVP본부",
-      "d": "2026-10-30",
-      "t": "토요타·웨이모, 내년 일본서 무인 로보택시 시범운행",
-      "s": "전자신문",
-      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1QN2wyOVVfWml5WHozWEFGZmxPSXNIMVBzMU90RHk3NEFXeDdTbFJCNFB0R3ZNdldVTGJHMlg4UVAyMkpEbkNHeWdWOEYwZw?oc=5"
-    },
-    {
-      "division": "로보틱스LAB",
-      "d": "2026-10-28",
-      "t": "‘동료 잡아간 ICE에 로봇개 판다’… 현대차 자회사 직원 300명 반발",
-      "s": "IT조선",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZVTZrWkp1QnM2Tjd6U3lON2NtSEZ0OURnSl9mNWhzOWJYWDliQVZoUU5aa3BUclNzS2JFODlnbmgyYmxpRk5uVjNiZkJQVjFZYlBqV25iM0l3OFE1OHdsQXhpamx1d08yQThxT0JkUDVMTnVj0gF0QVVfeXFMTVlVNmtaSnVCczZON3pTeU43Y21IRnQ5RGdKX2Y1aHM5YlhYOWJBVmhRTlprcFRyU3NLYkU4OWduaDJibGlGTm5WM2JmQlBWMVliUGpXbmIzSXc4UTU4d2xBeGlqbHV3TzJBOHFPQmRQNUxOdWM?oc=5"
-    },
-    {
-      "division": "SDV본부",
-      "d": "2026-10-06",
-      "t": "Applied Intuition, 혼다자동차와 차세대 소프트웨어 정의 차량(SDV) 개발 가속화를 위한 협력 발표",
-      "s": "KIPOST",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBneWFhWDloaG9OUUR1QUVpcEpDY0tjUlQtYTh6WVFUSkVaaFl5SERpblZBNDFvZmxUZEtOcFlQX3dOZGlFblloMTJsX3dsTk9jeTVWdk1WaW5rZ1hwUUxXQ01NaWUtUmxY0gFsQVVfeXFMTTFvMVJCZ2IySkJYMi14bi05Wm9hSHJrOTg2QU9hSTdmWEo1OS1SbXB1ODAzVG8ta0I1Q2czdFNteTNJNXhrbWFucGs0U0pCZzVDbTJud293VUZXZE14UTVsdVFKNEJ1emxWY2pi?oc=5"
-    },
-    {
-      "division": "SDV본부",
-      "d": "2026-10-01",
-      "t": "소프트웨어가 차량 기능을 정의하고, 반도체가 이를 구현한다",
-      "s": "https://www.autoelectronics.co.kr/",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wX1VyN1VYQnc5emVIOUptN0pYLU1mNGNPUEdodkd0ODl0LXFNSVdMQlFZUHJIY3JKbElSNnJiRkZKNzh1RTJ2a1hUd0U4YVhjdlBua0dTbjNwVG9LYWI1NVUtQXp4X09MckVUWUdrVjNJdUQ0?oc=5"
-    },
-    {
-      "division": "경쟁사",
-      "d": "2026-09-15",
-      "t": "포드·GM 후퇴하자 테슬라 점유율 52%…美 전기차시장 재장악",
-      "s": "한국경제",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KNUZ2eHRGU0MzT045VzFvR29oYTUydm9EMjdZQ3Y4VXFzQkw4eU80OHpSMHJnNFA2RC1kNWFVZG50R1lqUmlDd3pIczNUTDJNYTB5OHFoc1hEZw?oc=5"
-    },
-    {
-      "division": "경쟁사",
-      "d": "2026-02-05",
-      "t": "GM, 2025년 美 전기차 시장 2위…테슬라 선두 '여전'",
-      "s": "디지털투데이",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BS21va3FBV2JmWEZPWTdjSWRsWUlMZUpXYXVDaDR5cnhxR1FOOUZLODVBVzRIeXAxSWo1Q0dvUkdEWWc4dnhkRmpfaVpfOTJzMExwVEh3LThkWnBEOGFtelpGdHBsbmdRRkJCZzdNcktjLWs?oc=5"
-    },
-    {
-      "division": "AVP본부",
-      "d": "2026-10-29",
-      "t": "자율주행 국제표준 첫 한국 주도 개정…운전자 책임 명확해진다",
-      "s": "지디넷코리아",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5iRC1VaGdVeXJJdkp1cDNoT3FvXzR1TDhQOW9RMDBxQkQ5M0pBekVEMVlleDFNWW4yR2RFeGdwVWsza2x3MkMzQjNKNDBaaFdMelNrX093?oc=5"
-    },
-    {
-      "division": "SDV본부",
-      "d": "2026-10-29",
-      "t": "[인터뷰] 이준혁 벡터코리아 영업총괄, “SDV 시대 복잡성 AI·자동화로 해결”",
-      "s": "e4ds news",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94MDhadXVzY0JrWjhUZjhoNWo1MTF1bHRiU1V2UmtZaVh3TmpxbVp6QnFpSURpTUZlVkpldjBMTldKLW9HR0ZNMklMTUpwZTc2VW9TQ2l3?oc=5"
-    },
-    {
-      "division": "AVP본부",
-      "d": "2026-10-29",
-      "t": "에이투지, 물류용 자율주행 플랫폼 시제차 제작…1.3톤 화물 적재",
-      "s": "뉴스1",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VcjZGcy03dzdvSFU0ZjhYZ20yQUJkS0VUUGZBM1BjcXFxLUxaWENQZDdELVlBSmRtTlRiUlF6dk9nc1ZIemJ4bXJLQk1IaTV6SUk5STUwRXVkRk1UeTJaTw?oc=5"
-    },
-    {
-      "division": "승용사업부",
-      "d": "2026-10-28",
-      "t": "현대차, 美 서배너 경제사절단 방한… HMGMA 50만대 파트너십 점검",
-      "s": "한국신용신문",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBSQXV4YS1LYnl5a0xUdEpwOU94cGJaQjNTWkx0UlVGdDQySV81Y1FIckcwWFVLWkh5YVRiM0xZOWdIT0NYVHljTTJVYmVlZnpmMm5ycUVVYU5KYjYyZW45RmhJZktpY2Ffak1j?oc=5"
-    },
-    {
-      "division": "AVP본부",
-      "d": "2026-10-28",
-      "t": "BMW-엠보테크, '공장 내 자율주행' 확대…차량 100만 대 이동",
-      "s": "로봇신문",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5iZ3lQT1B5cXFiNVhmWmxUdGt6QTNheTJ4SE5RajU4MEMxd0k4bW5BWGRILXpHQXBmeFlhSW5wY1FiWDk1ajJFdGZrbEpoN0U2QnI0VUVsRjYtS29KU2w3Zks4RmFqNm9vM2ZqZg?oc=5"
     }
   ],
   "fx": {
-    "usdkrw": 1334.8,
-    "updatedAt": "2026-11-02T00:28:43.365Z"
+    "usdkrw": 1344.13,
+    "updatedAt": "2026-11-03T02:51:14.222Z"
   },
-  "updatedAt": "2026-11-02T00:28:43.365Z"
+  "updatedAt": "2026-11-03T02:51:14.222Z"
 }
