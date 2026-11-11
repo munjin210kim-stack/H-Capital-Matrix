@@ -1,67 +1,60 @@
 {
   "news": [
     {
-      "division": "로보틱스LAB",
+      "division": "SDV본부",
       "d": "2026-11-10",
-      "t": "발 대신 바퀴로 달리는 아틀라스… 360도 회전 점프 성공",
-      "s": "Chosunbiz",
-      "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrUFZPTVJ4Y05OVFZzcWd0WTFTcGNwWDRFSHB1SVB0RXBHODctamtpTmZGVVBzTEJLOENLLTNSOUZLLV8wNy1EQXFsR1pkNWlGOXoxMDB5MjBGdU5kR19oS3dRc3d1VUZVb1pBOXhfN0w4ZDFRZVhiaU05TXNUcnPSAZMBQVVfeXFMUHUwVVlGd05nY3p2dG1nRHJWcXNwbER0OW9tTldFV0Z0dWdNOFlOaUNWQjlLWFhoZlVrMWdGcnNiMGdDSXlvN002MjRidktoUExwcVBJTG41M3RYUGxxRC02cUZmcTZXNk00dVVjNExjT0tiZUhSR3NFMlJzY0NrWDhtMkQ0VWVUWnpReFJQNk1kR1Fz?oc=5"
+      "t": "인피니언, RISC-V 기반 차세대 차량용 MCU 플랫폼 ‘AURIX RC1’ 공개… SDV 및 피지컬 AI 시장 정조준",
+      "s": "아이씨엔매거진",
+      "u": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQSzR4ZDZmM3NmSGhFY3EzNEJIT09jWjB3Z29ldW8yLWM1T3o1dHoxbTh0OXpqRTZDU09uREE4ZzN5aTVqejd0Rk5ycWtzMXdSamUzNEhJckNTLXFLRnRyWDFFazRDR2pvMHZ0VEVhYWYySURfV1hBZmVmY2oxNzVZTkNia0ZINzRmSDhrTS03WG03azZpak8zZVljUnYyaDZ4enJoVXRKd2NWOWZzanhhR1VSd1VPMzdRRmJ4c2diOEZIZmpEeWh2emVPUUw3UXprLVZkR2oyMmxYOUlDcndxbldVZk0wRGx1LWQwbmZCNHlVVXptUHB0ZV9IWW9aOGxiYVNkWWlGX0R1MTkxdG1teXlMLU04aHVTd3RmNHR2cXBLTW5icnNQakRaMkRnbE1ySldV?oc=5"
     },
     {
       "division": "SDV본부",
       "d": "2026-11-10",
-      "t": "인피니언, RISC-V 기반 차량용 MCU 플랫폼 AURIX RC1 공개",
-      "s": "e4ds news",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tallPQ3RGd1pZMjBvN3pMY2VPZ1RsQ2JLT0MtNVBIXzhMM1lIaHpIT016ZEJSSXV4bTlpdkFhSk84eUdCakFCZmF5SEFkZ0s0ZkphNTd3?oc=5"
+      "t": "자동차용 도메인 제어 모듈 시장 2035년 전망: SDV 수요가 성장 견인 - 뉴스 및 통계",
+      "s": "IndexBox",
+      "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQLUt5S0U1T0hyN3NGcURTYkIxQWJ3Ul9QYk95YWpDdmxZN3RjOE5RMkF0aDlQZUxEdGdvSVMycWFaZk5mZmxrNm1qNWc5d2tfTGliVHVKMXZoUV9xamowcGI2dTVHdTBSeGtSQ1NXcVV6Vko4MGc3SjQ1cUY2QjdsWDFjU1NXX0NIVWRXWHdjNl9JZUpIVmpVbGQyeVBYaHV0TUMyQkRXZk1CdUZxN3ZHOUhia2NaYlhNQjUtM3NJWUk4YzV0dGt1VmdTQzk0eHNhTkdYMkU4d3hpeXc?oc=5"
     },
     {
       "division": "로보틱스LAB",
-      "d": "2026-11-09",
-      "t": "보스턴다이내믹스 아틀라스, 바퀴 달고 달린다…전신제어 기술 고도화",
-      "s": "더구루",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FV1g5bGw3MGR6OVYxVGdWUjZvbl9WU3VIdjE0bXY3anFRcTJ3NzdNQjdVMk5oWkNFYlEzZk1LZVB1S05xNl9NVXRHUEFmZF9nMkRUNHE5aHhHeU1LQ0NYZ0g5Yw?oc=5"
+      "d": "2026-11-10",
+      "t": "美 보스턴 다이내믹스, 바퀴 달린 아틀라스 로봇 실험 영상 공개",
+      "s": "로봇신문",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEUVRXbjdlZlFDeVN0S2s2QURvRUtwUlhmWWw4TF9GT3JMMkJvVEZvV1ExUXp0UzE1anlZTUN3MEZfQ0oya05iX0g3Q3ViYTFYRWZES2hMcHFuVDRZdEIzSF9hSFhhaGZYNXA4ZQ?oc=5"
+    },
+    {
+      "division": "AVP본부",
+      "d": "2026-11-10",
+      "t": "\"레벨4 자율차, 성능만 봐선 안돼…제작사 역량도 검증해야\"",
+      "s": "이데일리",
+      "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUUJJQUcwd2oyZGRBZnU4b3RpRXRKcWRYdjJTZlkxcHkybkZvcmhRY1RyWHh6UjRNNzF4b2lDSHh0LXJZV0pteElEZHgzWGRwSkNULVlKNUd2UkJCekRNRDFCdkhsQjZqRDhUdUQtM19Za1hEMjRRc3drallLVFBEMQ?oc=5"
+    },
+    {
+      "division": "AVP본부",
+      "d": "2026-11-10",
+      "t": "[채널Who] 자율주행차가 바꾸는 자동차의 미래, 카카오모빌리티 '레벨4 상용화' 승부수",
+      "s": "비즈니스포스트",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAwLXNaVWZBYTJyOU10cTQ0VE9HQTVuSS1fREl1dHJ5YjN0MWZjeUtEaWFubGdpWXhEeXRBclh5WkYzeHBoWGszcURuYjNkLUlhMGxRV2xyMUEyYjdUaGpDak9tTkxVcFhkbHFCOVNXN3RVS00?oc=5"
+    },
+    {
+      "division": "로보틱스LAB",
+      "d": "2026-11-10",
+      "t": "보스턴다이내믹스, 바퀴형 로봇 공개...\"360도 회전\"",
+      "s": "YTN 사이언스",
+      "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUnRsal9mOVh1SllBbUlrRGRpLWE1WWZsMXpwU1JHT3FkSlc4NWN1WC1WUjJoOTFleHVycWpVV1VuOFFiSGFRU0RIa29raVkwb2FPMXIwRGdMWUYxTmpobFJNYW1hTUlqdnlJLUFtU1Z4bUloaUtWZXlCRFJHeWZqMW9nbUc1RWg4MXhpQQ?oc=5"
     },
     {
       "division": "수소연료전지",
-      "d": "2026-11-09",
-      "t": "현대차그룹, 中 수소상용차 사업 발굴 본격 드라이브",
-      "s": "EV라운지",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBKME96NkQxby1TUGRMX3VVcnhKbGtsVnRVdlA0b1ExdTdyX0pmUHFSZU81c0dQcE1DNVVlRUMzeV9XMVlGTDN6Q3YydHpralVrV2tyU2p5ZnFPdS1nc2JzSlA0QkNWa1hVbl9LYmlPdl94RHM?oc=5"
-    },
-    {
-      "division": "수소연료전지",
-      "d": "2026-11-09",
-      "t": "현대차그룹, 中 수소 상용차 시장 공략 '시동'",
-      "s": "한국경제",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42WXIxTkNmNmpMaVdmWEpfVjNCUWxTeUVDTG9BVjUyMXdLclRIc2MzNlVmRjRyczZ0QnREd0FtdGVLTk9BRmg2NE5jekNFMmItVkdmOFJiRzk5Zw?oc=5"
+      "d": "2026-11-10",
+      "t": "[현대차그룹] HTWO 광저우, 에어리퀴드 차이나와 중국 수소 모빌리티 사업 협력",
+      "s": "워터저널",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwdlBtd1JFNkJHZnB6cF9JczdsdVhmY3VOMnlxOXYtdElXemlyUlphd01QcWZqZ3RoYXlhV0VSSExGaXFyYUdoWW1Nc2lFSFk1RGhoTXJqWkJ6Y20zbFdxZVhFUTV1eUtRNktiNWZfeG9VNVBiUHfSAXZBVV95cUxQcHZQbXdSRTZCR2ZwenBfSXM3bHVYZmN1TjJ5cTl2LXRJV3ppclJaYXdNUHFmamd0aGF5YVdFUkhMRmlxcmFHaFltTXNpRUhZNURoaE1yalpCemNtM2xXcWVYRVE1dXlLUTZLYjVmX3hvVTVQYlB3?oc=5"
     },
     {
       "division": "AVP본부",
       "d": "2026-11-09",
-      "t": "테슬라는 하는데 왜?…자율주행차, ‘잘 달리는 기술’만으론 못 판다",
-      "s": "데일리안",
-      "u": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOMVA0ZXk0WWRrMHM4Qm9QODZsOXJrX3gyV1A1SVBTNVhDd2pESGc3aW9VYmdra01HRkkyU2dWTExQWUdONWRiQTBTZ0hmaUg3RVVwN3ByUUo2MGtzM0lsS2I4MmRoODZoUXFHM1FWUjZ3ekR3UGc2azhFUU9lSTFJeW9MNTAweTNSQ1FIbFVrSFZRRGd2d1FQV0I2VGRKcXY5QWJKMXdDRTBMTkpfcW05aTY5WnBxSWZMUXhDNEVUbW0yekUzYUduM2NtLWh5bjc2UE16VGNoZ0dMOU1LMW95VTdKZ1F3azREcTNzRWZHN3haZXBoQ0dUUDJocVM4bzc0WVFTcjZ3bG0wbFVhbU83ZnM5UHRRUkl1NGxPcmx2MHBHNzQ?oc=5"
-    },
-    {
-      "division": "AVP본부",
-      "d": "2026-11-09",
-      "t": "정부, 내년 레벨4 자율주행 안전기준 마련…3000대 실증으로 상용화 기반 구축",
-      "s": "디지털데일리",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yNllSRGZzTnBzTE1vaEdkNGM2T21KODJTWUhaaWtENGJRd0VBX09CbkdNWVB2bXlCb1FSRThDQVc4U0xvQXdqZ2paeFdBcGozdi1WVzByWVlrVDQwZ2R2SVoyaXU?oc=5"
-    },
-    {
-      "division": "AVP본부",
-      "d": "2026-11-09",
-      "t": "카카오모빌리티·엔비디아 손잡고 ‘레벨4 자율주행’ 개발…기아車에 적용",
-      "s": "에너지경제신문",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xWVh1N1R4RTNSQ0xjY2dmcEE5ZGFHQllrMXZuaWVIRXBmQ29MZnNycEh6NzlER1J6Zjk4cC1KS2dOclF4RTE5bjNZbU9ZN0ZoT0VNd0I4RHljdXM?oc=5"
-    },
-    {
-      "division": "수소연료전지",
-      "d": "2026-11-09",
-      "t": "HTWO 광저우, 에어리퀴드 차이나와 중국 수소 모빌리티 사업 협력 | 뉴스 | 현대자동차그룹",
-      "s": "Hyundai Motor Group",
-      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc3FheVJjWjc1dzlkR1ZxUWwtbHAxWFo5aUJDeWNKWTZLRUVsSlZ3OTd2X19RMmlITzdiWFd4QVhJenA1S285dEc5VzA0SGdjcXJVQWR2M1ZhZ1RZVktDdGdRZDlrZUhXQmFnbVFjRWlESjJwNHlhakg0TXBjOVczd3dEZUxhWUdfZ2ZPTVlMZy1rUTJLZTdfV19GY3VuTThURUZ3UHZ0ZlJkZTZKOUdRYzh3?oc=5"
+      "t": "KAIDA, 정책세미나 열고 \"자율주행 국제 규제 조화 필요\"",
+      "s": "MTN 머니투데이방송",
+      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91NjVZM2NxZXdBUENLa2VldzBRWDI5YnU2Mno4bTE4OHYwLUpyNlBURFBqZTNTZnY5MHhDaXA3Zm1RdUZjSlg2cXNwVXVUTHFCT2tjRGt3OUtORmN0S3VJ?oc=5"
     },
     {
       "division": "승용사업부",
@@ -78,13 +71,6 @@
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuTFh5UktaMnhYOU5fQmdKRzRRYkVFcGRRTVB4TkZjXzU0WDJ6NVpJelpjNzZUcU81cTRpTTNUcTJ3cFZXRmcwMFhMaWFvdjVTLUhFZERpTTRxZk9TeWFVS2EydnJhdVE1OUE?oc=5"
     },
     {
-      "division": "SDV본부",
-      "d": "2026-11-05",
-      "t": "GM, FISITA 서밋서 SDV·AI 시대 인간의 역할 강조",
-      "s": "오토레이싱",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xU1lSSERDeG95a2tsRzVIeS1mSDlsV010RDBPTmgyX2VJU29jZ1F2dzZtd0R0cVRFajB5WF8wb0V4OS10VGtabXlkYlNsT2l2YWZseXMxMUdyd2QzWjhHTlNRdDFXY29EMVpmbWg3MA?oc=5"
-    },
-    {
       "division": "승용사업부",
       "d": "2026-11-05",
       "t": "민주당 '블루웨이브'에 자동차주 급등...현대차, 美 전기차 반전 오나",
@@ -93,10 +79,10 @@
     },
     {
       "division": "승용사업부",
-      "d": "2026-11-04",
-      "t": "현대차 3분기 글로벌 전동화 실적 분석: 미국 하이브리드 선방 속 유럽·한국 전기차 판매 부진 원인은?",
-      "s": "https://www.2news.co.kr/",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kRkowaGIwbkxlWFJEeFNMcWIxUmozdFJ4NDdoUVN6Nnh2ZUdkY1BwYnpIczZqQmhRNHliN2dlYi1fLW9ZZFFZNEdHSHEyakpKNVlWNzhLUEVvTW1seXZVQnpPSlk0M3Fj?oc=5"
+      "d": "2026-09-07",
+      "t": "현대차·기아, 8월 美 전기차 판매 '뚝'…하이브리드로 버텼다",
+      "s": "지디넷코리아",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wODNlWnNJYUhDT05ENGxYek9JSmJUWHJCNXNLX21lZEgtWWdNU1JyelVVSkM0aVl5Rm5aOVlHWmo3YkFBN1RhclF2cHlGOFc0RVM3bFBB?oc=5"
     },
     {
       "division": "경쟁사",
@@ -141,6 +127,69 @@
       "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tMU5iMWNZeEwyS3ZuRFdRcWZINGhVMXhwOUN5dVpMcDBaaGtXaWtmU056c256SHZYM0U0cExOV0xiSVNuckRoODhiMi1ReU5kZTVtUEgxZmdyRzlfVTRzdTNjdFdtZVRI?oc=5"
     },
     {
+      "division": "로보틱스LAB",
+      "d": "2026-11-10",
+      "t": "발 대신 바퀴로 달리는 아틀라스… 360도 회전 점프 성공",
+      "s": "Chosunbiz",
+      "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrUFZPTVJ4Y05OVFZzcWd0WTFTcGNwWDRFSHB1SVB0RXBHODctamtpTmZGVVBzTEJLOENLLTNSOUZLLV8wNy1EQXFsR1pkNWlGOXoxMDB5MjBGdU5kR19oS3dRc3d1VUZVb1pBOXhfN0w4ZDFRZVhiaU05TXNUcnPSAZMBQVVfeXFMUHUwVVlGd05nY3p2dG1nRHJWcXNwbER0OW9tTldFV0Z0dWdNOFlOaUNWQjlLWFhoZlVrMWdGcnNiMGdDSXlvN002MjRidktoUExwcVBJTG41M3RYUGxxRC02cUZmcTZXNk00dVVjNExjT0tiZUhSR3NFMlJzY0NrWDhtMkQ0VWVUWnpReFJQNk1kR1Fz?oc=5"
+    },
+    {
+      "division": "로보틱스LAB",
+      "d": "2026-11-09",
+      "t": "보스턴다이내믹스 아틀라스, 바퀴 달고 달린다…전신제어 기술 고도화",
+      "s": "더구루",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FV1g5bGw3MGR6OVYxVGdWUjZvbl9WU3VIdjE0bXY3anFRcTJ3NzdNQjdVMk5oWkNFYlEzZk1LZVB1S05xNl9NVXRHUEFmZF9nMkRUNHE5aHhHeU1LQ0NYZ0g5Yw?oc=5"
+    },
+    {
+      "division": "수소연료전지",
+      "d": "2026-11-09",
+      "t": "현대차그룹, 中 수소상용차 사업 발굴 본격 드라이브",
+      "s": "EV라운지",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBKME96NkQxby1TUGRMX3VVcnhKbGtsVnRVdlA0b1ExdTdyX0pmUHFSZU81c0dQcE1DNVVlRUMzeV9XMVlGTDN6Q3YydHpralVrV2tyU2p5ZnFPdS1nc2JzSlA0QkNWa1hVbl9LYmlPdl94RHM?oc=5"
+    },
+    {
+      "division": "수소연료전지",
+      "d": "2026-11-09",
+      "t": "현대차그룹, 中 수소 상용차 시장 공략 '시동'",
+      "s": "한국경제",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42WXIxTkNmNmpMaVdmWEpfVjNCUWxTeUVDTG9BVjUyMXdLclRIc2MzNlVmRjRyczZ0QnREd0FtdGVLTk9BRmg2NE5jekNFMmItVkdmOFJiRzk5Zw?oc=5"
+    },
+    {
+      "division": "AVP본부",
+      "d": "2026-11-09",
+      "t": "테슬라는 하는데 왜?…자율주행차, ‘잘 달리는 기술’만으론 못 판다",
+      "s": "데일리안",
+      "u": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOMVA0ZXk0WWRrMHM4Qm9QODZsOXJrX3gyV1A1SVBTNVhDd2pESGc3aW9VYmdra01HRkkyU2dWTExQWUdONWRiQTBTZ0hmaUg3RVVwN3ByUUo2MGtzM0lsS2I4MmRoODZoUXFHM1FWUjZ3ekR3UGc2azhFUU9lSTFJeW9MNTAweTNSQ1FIbFVrSFZRRGd2d1FQV0I2VGRKcXY5QWJKMXdDRTBMTkpfcW05aTY5WnBxSWZMUXhDNEVUbW0yekUzYUduM2NtLWh5bjc2UE16VGNoZ0dMOU1LMW95VTdKZ1F3azREcTNzRWZHN3haZXBoQ0dUUDJocVM4bzc0WVFTcjZ3bG0wbFVhbU83ZnM5UHRRUkl1NGxPcmx2MHBHNzQ?oc=5"
+    },
+    {
+      "division": "AVP본부",
+      "d": "2026-11-09",
+      "t": "정부, 내년 레벨4 자율주행 안전기준 마련…3000대 실증으로 상용화 기반 구축",
+      "s": "디지털데일리",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yNllSRGZzTnBzTE1vaEdkNGM2T21KODJTWUhaaWtENGJRd0VBX09CbkdNWVB2bXlCb1FSRThDQVc4U0xvQXdqZ2paeFdBcGozdi1WVzByWVlrVDQwZ2R2SVoyaXU?oc=5"
+    },
+    {
+      "division": "AVP본부",
+      "d": "2026-11-09",
+      "t": "카카오모빌리티·엔비디아 손잡고 ‘레벨4 자율주행’ 개발…기아車에 적용",
+      "s": "에너지경제신문",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xWVh1N1R4RTNSQ0xjY2dmcEE5ZGFHQllrMXZuaWVIRXBmQ29MZnNycEh6NzlER1J6Zjk4cC1KS2dOclF4RTE5bjNZbU9ZN0ZoT0VNd0I4RHljdXM?oc=5"
+    },
+    {
+      "division": "SDV본부",
+      "d": "2026-11-05",
+      "t": "GM, FISITA 서밋서 SDV·AI 시대 인간의 역할 강조",
+      "s": "오토레이싱",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xU1lSSERDeG95a2tsRzVIeS1mSDlsV010RDBPTmgyX2VJU29jZ1F2dzZtd0R0cVRFajB5WF8wb0V4OS10VGtabXlkYlNsT2l2YWZseXMxMUdyd2QzWjhHTlNRdDFXY29EMVpmbWg3MA?oc=5"
+    },
+    {
+      "division": "승용사업부",
+      "d": "2026-11-04",
+      "t": "현대차 3분기 글로벌 전동화 실적 분석: 미국 하이브리드 선방 속 유럽·한국 전기차 판매 부진 원인은?",
+      "s": "https://www.2news.co.kr/",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kRkowaGIwbkxlWFJEeFNMcWIxUmozdFJ4NDdoUVN6Nnh2ZUdkY1BwYnpIczZqQmhRNHliN2dlYi1fLW9ZZFFZNEdHSHEyakpKNVlWNzhLUEVvTW1seXZVQnpPSlk0M3Fj?oc=5"
+    },
+    {
       "division": "AVP본부",
       "d": "2026-11-09",
       "t": "카카오모빌리티 레벨4 자율주행차, 엔비디아 두뇌 달고 달린다",
@@ -183,13 +232,6 @@
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85SzFEVmJCM2dzR2dkQmxzSXVfS3N2VURqQTR5Zl9laGF4VWw3UGgzTHljM3gxTDdDdllNSms5Q0RIV3p6YmlmTEp1ZUdvUU9iYTVuZlpNaUhDcTItNTVDYVR5ZEx3My1lbVE?oc=5"
     },
     {
-      "division": "로보틱스LAB",
-      "d": "2026-11-04",
-      "t": "'시간당 1000개 하역' 보스턴다이내믹스, 차세대 물류 로봇 '스트레치 2' 공개",
-      "s": "더구루",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VVVNCWTQyZlZVS0ljU0ttcE5yUUFUNGhTa1JBOGwzaWZDekFJUU15N3NTUC1WdEF2THVySFg2aXE4eGoweGI3MTBjYnFTNk9obm9wODdVc0NhajluTzZMWVZiaw?oc=5"
-    },
-    {
       "division": "SDV본부",
       "d": "2026-11-03",
       "t": "인피니언-퀄컴, SDV 중앙 컴퓨터 개발 협력",
@@ -209,20 +251,6 @@
       "t": "현대차가 힘 싣는 하이브리드차, 국내서 첫 역성장… 전기차는 75% 급증",
       "s": "Chosunbiz",
       "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qbkNCTmNWSlJJcDVDNVB6VXpuTlJPbUY5SGdmajVpektYdWlVVWR0V21HVHdIbU5RVDltRlRzeWJoNmQwZTZrLURhenBnNWFVWmQ2QmExWjl2bm1DTENodWlzc0c1aG1wSVNiSnZzRlFSM0JLaFFoWHhoemppdnfSAZMBQVVfeXFMT2NQYUJQOWdwWWtwdkJub1ZGQzN6OE1qQUt6T0JVTmUxcmtpS01FWFhUaE5feXpRWnBXeWpmbFlFN0Qtd2txT2hyTWR0RDBtLUw3Zm1RTDBQUVE1c2s4RlEtSXdlc29RanprSVpGTF9ETHZ2QkRleUVZWWNwVGYyaTVUWEpJMnppY19XektNeXJCMzNn?oc=5"
-    },
-    {
-      "division": "로보틱스LAB",
-      "d": "2026-10-02",
-      "t": "\"다섯 손가락 필요 없다\"...보스턴 다이내믹스, 네 손가락 로봇 손 공개",
-      "s": "AI타임스",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IcldoN3hsbTRqUVd3VGxBRW1fdmpIVkJ5c1AwaVJHZEgyX1V5THJWYTYyYzZyNVJOZ3E5RjNKZldqZ1l2d3lCMjdwbFllT05nMTEyMVQxaGQzOXF0VUE4TUkyTTdzaVJ1eVE?oc=5"
-    },
-    {
-      "division": "승용사업부",
-      "d": "2026-09-07",
-      "t": "현대차·기아, 8월 美 전기차 판매 '뚝'…하이브리드로 버텼다",
-      "s": "지디넷코리아",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wODNlWnNJYUhDT05ENGxYek9JSmJUWHJCNXNLX21lZEgtWWdNU1JyelVVSkM0aVl5Rm5aOVlHWmo3YkFBN1RhclF2cHlGOFc0RVM3bFBB?oc=5"
     },
     {
       "division": "수소연료전지",
@@ -251,39 +279,11 @@
       "t": "대한민국의 자율주행 G3 도약을 위한 전략은?",
       "s": "공학저널",
       "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VTUx6cWFITGhsWlZ2TmhKbEVfcDk4X0RIb0NYSzVfWnVvbFRydDRkMS14b21YajUxZFY3VE11ZjlyWGU0TGhhUVF6NGdjTk9NMWl5WVA1UURLZU9ROVdzZWsybGdXRlFleExDWg?oc=5"
-    },
-    {
-      "division": "AVP본부",
-      "d": "2026-07-07",
-      "t": "레벨4 자율주행 시대 가속…안전운행 가이드라인 마련",
-      "s": "대한민국 정책브리핑",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UQ0trUzFuRno5emt2RUtLVDBmTnBRREVPSGpfeVFtWVBmcW9XTHJvb1RaZFIyV3FwcFh3eFBTekRWVHhXOEFoTFFqZnJrMnFpVlVaX0k1MVVpX2ltQkxHTWdPdEx4XzBhYi1vbQ?oc=5"
-    },
-    {
-      "division": "AVP본부",
-      "d": "2026-11-05",
-      "t": "볼보, 엔비디아와 자율주행 협력 확대…’아이즈 오프·마인드 오프' 주행 단계적 도입... : 네이버 블로그",
-      "s": "Naver Blog",
-      "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNjdtNVZMZGVnQ0ZJQng0SFhJbEJsTlE2c2E0YzlLNVdlN2JaZGw3TUJYZEhrd2MzMkpXbWwxazhYVnEtWEc4cVBmckp3WXZNb0JuTkJ4MXBmNkQyWE5FOTAzUjBjdGV6QlpXVmtCR01nWjZTZndaV3ljRkc1cXRwVk1XRWZTN3lwMGpILXlHOWdZZXdHVzh4OA?oc=5"
-    },
-    {
-      "division": "SDV본부",
-      "d": "2026-11-05",
-      "t": "GM, FISITA서 SDV·AI 미래차 전략 공유⋯가상 차량개발 기술도 공개",
-      "s": "엠투데이",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5qbzZ5NlY2LTFEQ0tiRHR3VVdkWHRTLVNCUjA5OXB6aWNJaG1hRnVCa0kwdjU5NzA3dllJY01ZRVpheXdSSENsNDc3Q2ZPRHBlY21kY1ctMm43MmNqT2Fqam5mblRjVmpTMjJrRDJjNA?oc=5"
-    },
-    {
-      "division": "로보틱스LAB",
-      "d": "2026-11-04",
-      "t": "네 마리에 18억, 미국서 거래된 개의 실체",
-      "s": "OhmyNews",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5FeTB5bldnUFBMNWEtRmdfbjI1TmRxUUVldmdxbzNEZHpEaG9kZUNtUEpra2pXLXh4N3h6d2JxdVZ5a2tzLVhOWlZCM3VnX3NpZVVLRmFKZ2o5ZWpTYlNEMjBWTEFQZktXVWo2aGFMVWs1WC1f?oc=5"
     }
   ],
   "fx": {
-    "usdkrw": 1344.79,
-    "updatedAt": "2026-11-10T03:21:24.694Z"
+    "usdkrw": 1341.69,
+    "updatedAt": "2026-11-11T01:09:40.695Z"
   },
-  "updatedAt": "2026-11-10T03:21:24.694Z"
+  "updatedAt": "2026-11-11T01:09:40.695Z"
 }
