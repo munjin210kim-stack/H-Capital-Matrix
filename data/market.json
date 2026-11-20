@@ -1,6 +1,20 @@
 {
   "news": [
     {
+      "division": "AVP본부",
+      "d": "2026-11-19",
+      "t": "프랑스, 웨이브·스텔란티스·엔비디아와 자율주행차 상용화 속도 낸다!",
+      "s": "데일리카",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hUEdBeFd1MTdpS0xWYWpOOEZ5dlljMXZROVRUWmlUYllUbTYtdVJVc2ZDRjg2NDVuaEo2UFMyRkJiMHpHbFFSVHNRY2ctelQ1c3AwejVQRjEwbE9NRWc3R1lsajh5NklDdDlTUEdlNFVxYzd0ZVE?oc=5"
+    },
+    {
+      "division": "로보틱스LAB",
+      "d": "2026-11-19",
+      "t": "삼성전자 vs 보스턴다이내믹스, 휴머노이드 '로봇 손' 기술 경쟁…승부는 구동 방식",
+      "s": "로봇신문",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9veTlZRTh1clJHRVBPb1MwOEFFblpTd1V4MzVzTE9nVzN5NU1fSVhsRGIwcFVvTnlSM3NOd2NhVkRFNGkzbzdlU3RYQkVaVWljT0UwWnlJLXFJUFJoRTlHRmJDalhGRk9obTA5Uw?oc=5"
+    },
+    {
       "division": "로보틱스LAB",
       "d": "2026-11-19",
       "t": "현대차, 로봇 지배구조 개편…BD 사고 RAI 팔고",
@@ -22,6 +36,13 @@
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JNkpVWFY0YjhxUWNBOW5oQkp4NVJWa2EtMVhZaW50OTVHZDFlSElNalVjZ0NMc1ZzSUMzTW1pRDUzdEg0cHJTaTduaEtHSnp2ajY0Sml5ejJPemF4dGFsUA?oc=5"
     },
     {
+      "division": "로보틱스LAB",
+      "d": "2026-11-18",
+      "t": "보스턴다이나믹스, 반도체 공장서 휴머노이드 로봇 아틀라스 시험",
+      "s": "IT조선",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WMEJkelBaNmhOWW1DMWdNbUdKN1dEUHlUUlRVVi1IQmZ5OXZEalBCWnlxSGpseTdXcnRxRGNyeUdJYVVzTkFoMlVEOUN4aDUya0tlMEwxS2pPZ1JBS05rMGR1VV9zSF9XcFYwQjBwZXHSAXRBVV95cUxPcktDd1NHLWtUemQ2T2x3N1VDQXdOcGtOcGtaMk96ZzM3Tmx6bXU5MnljQTdzdU9ieXBWUEc3dVlFbGZUcDFhRzBSNm1hQlhod0FqakZxdGI4X0pVQnM2SkFTUTNQLUkwVS10eWItYm0wOHlzQg?oc=5"
+    },
+    {
       "division": "AVP본부",
       "d": "2026-11-18",
       "t": "광주 자율주행 실증도시 30일 차량 첫 투입 …‘27년 레벨4’ 목표, 기술은 달리는데 제도는 걸음마",
@@ -29,25 +50,11 @@
       "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5WUG10RWRWZ29Cd3B6RGNDMmhjOEU5c0R0RU0wUjRHd2t3T3dlRGo0c3hUSHROaEQ5TUJ1Rlh5bUM1MTBrV205UGZNUHVsY01qVzlzM0x5TmxXd3E2QzljWm9QX3oxMlFSZGdVNEhB?oc=5"
     },
     {
-      "division": "로보틱스LAB",
-      "d": "2026-11-18",
-      "t": "현대차 그룹 휴머노이드 로봇 '아틀라스' 반도체 공장 첫 투입",
-      "s": "중앙일보",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WT05QMUtUd1RfMXJvQlZ2S1JCUmlHN2hZcTlyQVlVS3JkMkYySHdJMENQcDF4VTExZUJQdnh6UlFVTnVSMnR1NHJDSnJnSF9INlFqWjFB?oc=5"
-    },
-    {
       "division": "SDV본부",
-      "d": "2026-11-18",
-      "t": "마이크로칩, SDV 시대 겨냥 차세대 차량용 이더넷 스위치 공개",
-      "s": "테크월드",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DeE1GRjN1VUV2S3JOX3U1MEU2Mmg1eTA1NldSeGE1QkhtVVZ6eHY4Wk1TdlNVbVRLUUliTmRhcEk2OFpnYldVYzB5bnZ3QjFmaWVteHh4bF9WdUhhc1c4aWdJcm5qQVRL?oc=5"
-    },
-    {
-      "division": "AVP본부",
       "d": "2026-11-17",
-      "t": "美 자율주행차 판매 시작하는데 한국은 첫 실증차량 투입",
-      "s": "https://www.seoulilbo.co.kr/",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9NUEpuVmdpa3MyWFZzaWk1U1pVS2JMbU9QMi1UYkJGR1ZkVUZxU3EyYjRlT09adWxZWjU3bnMtWHkyTmF6SVZhUXJTRG1CakxJZ01pZzhMdFdRcVpvT2dHdVdQZzdLWjM0bjdmendB?oc=5"
+      "t": "[인터뷰] 손성배 ST 매니저, “SDV·전동화 시대, ECU 통합·Edge AI 구현 지원”",
+      "s": "e4ds news",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XclVLamU0cVlRTnhRemNNNC1FT2w0WVVaOEZYRkstUlgwUUNfZV94d3RsREYybE02Y3JpakJyb1dSbEtRN0gwa2NoSWVscmYzNVJnTk5R?oc=5"
     },
     {
       "division": "승용사업부",
@@ -72,17 +79,17 @@
     },
     {
       "division": "수소연료전지",
-      "d": "2026-11-13",
-      "t": "현대차, 수소차 성적표는 초라한데 적자 충전소에 또 186억원 투입 왜?",
-      "s": "여성경제신문",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1VMjBlQ2dhYmFRN0YteUdrdmJSXzJ4S01YM0UzVFpFRzVBOVo2OG1ZMU1ESUx2TnpyVGROakNuY2VleU1DZHpYZS14empkSTd4aU5EQWp6Y2xmNzczanRrcFFGMXozOGVoX0p1cGM0T2ZkTEU?oc=5"
+      "d": "2026-11-09",
+      "t": "현대차 HTWO 광저우, 에어리퀴드와 수소 사업 협력 확대한다",
+      "s": "MTN 머니투데이방송",
+      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRc0tmUlV0MmhyUHhSc1hmdmRiSnp0THpCUFNhOUJ0emI5WDR0VVlkYlR4SG5WTEdic1BsbUI0aEZna1E2cWtaYmRfYkdySG1mOFF1UzNCWk54X0k1YVVR?oc=5"
     },
     {
       "division": "수소연료전지",
-      "d": "2026-11-09",
-      "t": "HTWO 광저우, 에어리퀴드 차이나와 중국 수소 모빌리티 사업 협력 | 뉴스 | 현대자동차그룹",
-      "s": "Hyundai Motor Group",
-      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc3FheVJjWjc1dzlkR1ZxUWwtbHAxWFo5aUJDeWNKWTZLRUVsSlZ3OTd2X19RMmlITzdiWFd4QVhJenA1S285dEc5VzA0SGdjcXJVQWR2M1ZhZ1RZVktDdGdRZDlrZUhXQmFnbVFjRWlESjJwNHlhakg0TXBjOVczd3dEZUxhWUdfZ2ZPTVlMZy1rUTJLZTdfV19GY3VuTThURUZ3UHZ0ZlJkZTZKOUdRYzh3?oc=5"
+      "d": "2026-11-08",
+      "t": "현대차그룹 HTWO, 에어리퀴드 차이나와 중국 수소 모빌리티 맞손",
+      "s": "연합뉴스 한민족센터",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KNE00NGNRQVAxUWt1NThTejZPRWdNV0JSdC1mSG53VFl5a1RWR2hMdE1jRFZhVnRGcFprWjZTTGkwa2JDanlUcjhlZlc2TWVYVDdadEdwLWE0SmZEQXpHVnJUNnV2YUhSYkJjQXMwZ3g0U0VJ?oc=5"
     },
     {
       "division": "SDV본부",
@@ -134,18 +141,25 @@
       "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tMU5iMWNZeEwyS3ZuRFdRcWZINGhVMXhwOUN5dVpMcDBaaGtXaWtmU056c256SHZYM0U0cExOV0xiSVNuckRoODhiMi1ReU5kZTVtUEgxZmdyRzlfVTRzdTNjdFdtZVRI?oc=5"
     },
     {
-      "division": "로보틱스LAB",
+      "division": "SDV본부",
       "d": "2026-11-18",
-      "t": "美 보스턴 다이내믹스 '아틀라스', 2027년 반도체 공장서 현장 시험",
-      "s": "로봇신문",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NUnAwa3ItR3lyM2tDYzdRRURBdmMzYXNlR2RyNUhpNk53SGQ4ODhYc0tkRXRIVUREbjhjaUVqNzZ2X2V0cnViT0h3YlFTUFIxbHQ2YjRjejVUYWluaXB0WWpYRmMtYnYxMDVReg?oc=5"
+      "t": "마이크로칩, SDV 시대 겨냥 차세대 차량용 이더넷 스위치 공개",
+      "s": "테크월드",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DeE1GRjN1VUV2S3JOX3U1MEU2Mmg1eTA1NldSeGE1QkhtVVZ6eHY4Wk1TdlNVbVRLUUliTmRhcEk2OFpnYldVYzB5bnZ3QjFmaWVteHh4bF9WdUhhc1c4aWdJcm5qQVRL?oc=5"
     },
     {
-      "division": "SDV본부",
+      "division": "AVP본부",
       "d": "2026-11-17",
-      "t": "[인터뷰] 손성배 ST 매니저, “SDV·전동화 시대, ECU 통합·Edge AI 구현 지원”",
-      "s": "e4ds news",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XclVLamU0cVlRTnhRemNNNC1FT2w0WVVaOEZYRkstUlgwUUNfZV94d3RsREYybE02Y3JpakJyb1dSbEtRN0gwa2NoSWVscmYzNVJnTk5R?oc=5"
+      "t": "美 자율주행차 판매 시작하는데 한국은 첫 실증차량 투입",
+      "s": "https://www.seoulilbo.co.kr/",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9NUEpuVmdpa3MyWFZzaWk1U1pVS2JMbU9QMi1UYkJGR1ZkVUZxU3EyYjRlT09adWxZWjU3bnMtWHkyTmF6SVZhUXJTRG1CakxJZ01pZzhMdFdRcVpvT2dHdVdQZzdLWjM0bjdmendB?oc=5"
+    },
+    {
+      "division": "수소연료전지",
+      "d": "2026-11-13",
+      "t": "현대차, 수소차 성적표는 초라한데 적자 충전소에 또 186억원 투입 왜?",
+      "s": "여성경제신문",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1VMjBlQ2dhYmFRN0YteUdrdmJSXzJ4S01YM0UzVFpFRzVBOVo2OG1ZMU1ESUx2TnpyVGROakNuY2VleU1DZHpYZS14empkSTd4aU5EQWp6Y2xmNzczanRrcFFGMXozOGVoX0p1cGM0T2ZkTEU?oc=5"
     },
     {
       "division": "로보틱스LAB",
@@ -265,25 +279,11 @@
       "t": "항저우가 키운 춤추는 로봇… 유니트리, 中 증시서 62조원 가치 ‘우뚝’",
       "s": "조선일보",
       "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdnRzQnpHekpYaEFkQ2Jlbnc1a1NYa09mTFdyRUFKMU1xalo3Z3ItSG1fLWl4YTIxdFJJQ1E2SnJVUjBsZVgtRGJaWE92SHJlcFk3UTlvclhiOXBaUmdHbTc1SEQ3cnVTaWZsMDVHeWp2cmxmdnNQOFRuaW81Q0xEeTdLek1Qdw?oc=5"
-    },
-    {
-      "division": "AVP본부",
-      "d": "2026-11-14",
-      "t": "하나증권 “자동차업계, 환율 부담 속 로봇·자율주행 성장성 주목”",
-      "s": "산업일보",
-      "u": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9YdGREX3AyOEhjdUZ4WkQ4X2FzdFlOSTRTdHQ5T2RIUGNWckhJWXE2Z18wQ1FJSlNCRGRVbnlGb1c0UXBU?oc=5"
-    },
-    {
-      "division": "SDV본부",
-      "d": "2026-11-13",
-      "t": "현대 IONIQ 5 SDV 시험차, 계기판 없는 실내 포착 🚗",
-      "s": "Korean Car Blog",
-      "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVTd3Q3Y4U3pTa1MyemZUUWVxb19UdGpsVG5BREVZQVV2MUV6ckI4aGptU0ppeDNMMTBQd3pTaVc5VnJiZndPT1Q0a3BjRDk3VW9ZZUxyRy1WLXBQZTFHTG5WSVlVTmQ0bi1sTkpnS3dGZmR1YUlVdnV0dEF6OWVFb3BlOEUzLV9kR0dZS1paMkxUUQ?oc=5"
     }
   ],
   "fx": {
-    "usdkrw": 1332.22,
-    "updatedAt": "2026-11-19T02:26:33.334Z"
+    "usdkrw": 1330.97,
+    "updatedAt": "2026-11-20T02:10:34.535Z"
   },
-  "updatedAt": "2026-11-19T02:26:33.334Z"
+  "updatedAt": "2026-11-20T02:10:34.535Z"
 }
