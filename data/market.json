@@ -1,11 +1,25 @@
 {
   "news": [
     {
-      "division": "SDV본부",
-      "d": "2026-11-20",
-      "t": "SDV 시대, 차량 커넥티비티의 경쟁 기준이 달라진다",
-      "s": "https://www.autoelectronics.co.kr/",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5rNUZlRi1zSzNjN1V0TkhnRjRUQUR1a3k2MmFIRkVnRnVuVDd4V1BYZmc3SUo4T2pJcWVxRGRWRG4tUXZ2UkNiYTdvS2hiMEF1MDdaeHRGZHZkT010ZmE5UnpGRHhNMi0tZG95ZDBjOGJZWGJz?oc=5"
+      "division": "AVP본부",
+      "d": "2026-11-23",
+      "t": "인천공항, 공항 내 '자율주행차량 운행기준' 로드맵 수립",
+      "s": "오늘의한국",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5d1FIazNKNk9fa1pEdmd3a1hYWUhLTVVlVGhxdUkweTF0Rm9vTUZLOWs0cVlzZ0tfTUR1RWRnNTRCaGd3VXVLbDREUFR3anFQY20ydU50d1NNNEd6ZTYydHdoVlB1YXJS?oc=5"
+    },
+    {
+      "division": "AVP본부",
+      "d": "2026-11-22",
+      "t": "스텔란티스·볼트, 파리서 자율주행 실증 추진⋯2030년 30곳 이상 확대 목표",
+      "s": "엠투데이",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5oTmpCaG5wTXBtRnhQLUFrRC1md0FOT29ONWt2emgxSzZVMFpuQ3duY3RBTnJWekJja3kzTWxPcWV5SWNVR253R1UwTUZLNy1zOGs4WUtSLWFvQ3lHR1BWbnZfVEFydHJsS1YtX1A4OA?oc=5"
+    },
+    {
+      "division": "로보틱스LAB",
+      "d": "2026-11-22",
+      "t": "슈퍼브에이아이, 마트 환경 기반 휴머노이드 로봇 경진대회 은상",
+      "s": "와우테일",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9lRGVBTWNrbWVFM1ZCLWppSWpUN09ka2ZMMGlPNkZXMTY4LWc1aThUcVBYODVtbmk3b1hjWjlzaVpaM2lSM0M1RTBuVFhfdTA?oc=5"
     },
     {
       "division": "승용사업부",
@@ -36,34 +50,6 @@
       "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5WUG10RWRWZ29Cd3B6RGNDMmhjOEU5c0R0RU0wUjRHd2t3T3dlRGo0c3hUSHROaEQ5TUJ1Rlh5bUM1MTBrV205UGZNUHVsY01qVzlzM0x5TmxXd3E2QzljWm9QX3oxMlFSZGdVNEhB?oc=5"
     },
     {
-      "division": "로보틱스LAB",
-      "d": "2026-11-18",
-      "t": "현대차 아틀라스, 자동차 밖 첫 시험대는 ‘美 반도체 공장’",
-      "s": "조선일보",
-      "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR1Y5TjZpdExDN2pLYzEwZmRpa2V5YjNZOVhpNkNkV1FFaGxrMkpnc0RsZTlsaXNwa1ZKVWR5Z3gyeXA1MUFwNWIzcFRGaU5ENlhGWFl0dFA1T0pNUW5lV2hqLXVNYXdnelFfaG5YdTh3UjA5eDh2MUR2aGJZbFdTRkN4ZzhiSlROU3VSVmVYVQ?oc=5"
-    },
-    {
-      "division": "SDV본부",
-      "d": "2026-11-18",
-      "t": "마이크로칩, SDV 시대 겨냥 차세대 차량용 이더넷 스위치 공개",
-      "s": "테크월드",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DeE1GRjN1VUV2S3JOX3U1MEU2Mmg1eTA1NldSeGE1QkhtVVZ6eHY4Wk1TdlNVbVRLUUliTmRhcEk2OFpnYldVYzB5bnZ3QjFmaWVteHh4bF9WdUhhc1c4aWdJcm5qQVRL?oc=5"
-    },
-    {
-      "division": "AVP본부",
-      "d": "2026-11-17",
-      "t": "美 자율주행차 판매 시작하는데 한국은 첫 실증차량 투입",
-      "s": "https://www.seoulilbo.co.kr/",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9NUEpuVmdpa3MyWFZzaWk1U1pVS2JMbU9QMi1UYkJGR1ZkVUZxU3EyYjRlT09adWxZWjU3bnMtWHkyTmF6SVZhUXJTRG1CakxJZ01pZzhMdFdRcVpvT2dHdVdQZzdLWjM0bjdmendB?oc=5"
-    },
-    {
-      "division": "SDV본부",
-      "d": "2026-11-17",
-      "t": "[인터뷰] 손성배 ST 매니저, “SDV·전동화 시대, ECU 통합·Edge AI 구현 지원”",
-      "s": "e4ds news",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XclVLamU0cVlRTnhRemNNNC1FT2w0WVVaOEZYRkstUlgwUUNfZV94d3RsREYybE02Y3JpakJyb1dSbEtRN0gwa2NoSWVscmYzNVJnTk5R?oc=5"
-    },
-    {
       "division": "승용사업부",
       "d": "2026-11-17",
       "t": "현대차, 美 전기차 공장에 하이브리드 추가⋯생산 효율 높인다",
@@ -73,16 +59,16 @@
     {
       "division": "수소연료전지",
       "d": "2026-11-09",
-      "t": "현대차 HTWO 광저우, 에어리퀴드와 수소 사업 협력 확대한다",
-      "s": "MTN 머니투데이방송",
-      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRc0tmUlV0MmhyUHhSc1hmdmRiSnp0THpCUFNhOUJ0emI5WDR0VVlkYlR4SG5WTEdic1BsbUI0aEZna1E2cWtaYmRfYkdySG1mOFF1UzNCWk54X0k1YVVR?oc=5"
+      "t": "HTWO 광저우, 에어리퀴드 차이나와 중국 수소 모빌리티 사업 협력 | 뉴스 | 현대자동차그룹",
+      "s": "Hyundai Motor Group",
+      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc3FheVJjWjc1dzlkR1ZxUWwtbHAxWFo5aUJDeWNKWTZLRUVsSlZ3OTd2X19RMmlITzdiWFd4QVhJenA1S285dEc5VzA0SGdjcXJVQWR2M1ZhZ1RZVktDdGdRZDlrZUhXQmFnbVFjRWlESjJwNHlhakg0TXBjOVczd3dEZUxhWUdfZ2ZPTVlMZy1rUTJLZTdfV19GY3VuTThURUZ3UHZ0ZlJkZTZKOUdRYzh3?oc=5"
     },
     {
-      "division": "수소연료전지",
-      "d": "2026-11-08",
-      "t": "현대차그룹 HTWO, 에어리퀴드 차이나와 중국 수소 모빌리티 맞손",
-      "s": "연합뉴스 한민족센터",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KNE00NGNRQVAxUWt1NThTejZPRWdNV0JSdC1mSG53VFl5a1RWR2hMdE1jRFZhVnRGcFprWjZTTGkwa2JDanlUcjhlZlc2TWVYVDdadEdwLWE0SmZEQXpHVnJUNnV2YUhSYkJjQXMwZ3g0U0VJ?oc=5"
+      "division": "SDV본부",
+      "d": "2026-10-01",
+      "t": "소프트웨어가 차량 기능을 정의하고, 반도체가 이를 구현한다",
+      "s": "https://www.autoelectronics.co.kr/",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wX1VyN1VYQnc5emVIOUptN0pYLU1mNGNPUEdodkd0ODl0LXFNSVdMQlFZUHJIY3JKbElSNnJiRkZKNzh1RTJ2a1hUd0U4YVhjdlBua0dTbjNwVG9LYWI1NVUtQXp4X09MckVUWUdrVjNJdUQ0?oc=5"
     },
     {
       "division": "경쟁사",
@@ -92,11 +78,18 @@
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BY3FvRGt6T1JXMUR6WS1nOEJ5SU15VVUyNGZ0TWIwTElkcUhZaVhrYTYzenNUdmgzZG1kMjd2bmJMc3QzZU0yQ3lwcU9FMl9ua3RIZ0RyeEpHbTBBQ01BYS1QNzJ1elRyeGc?oc=5"
     },
     {
-      "division": "AVP본부",
-      "d": "2026-07-07",
-      "t": "레벨4 자율주행 시대 가속…안전운행 가이드라인 마련",
-      "s": "대한민국 정책브리핑",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UQ0trUzFuRno5emt2RUtLVDBmTnBRREVPSGpfeVFtWVBmcW9XTHJvb1RaZFIyV3FwcFh3eFBTekRWVHhXOEFoTFFqZnJrMnFpVlVaX0k1MVVpX2ltQkxHTWdPdEx4XzBhYi1vbQ?oc=5"
+      "division": "SDV본부",
+      "d": "2026-07-06",
+      "t": "에이전트를 통한 혁신의 가속화: 소프트웨어 정의 차량(SDV)의 보안 확보",
+      "s": "Google Cloud",
+      "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRi1WNFRuMzJrNVhTY2JyWVpSVVZzbDJOTHJhc1FXZkJhWmlBZVVmVlVQcHd2YlU4WDB3cjN0TkI2dERPdFdBYlIyYVp2b2xacWVBWkRqQmdYbjFGbDh4M2E0eW9OcFp1NzNkZDdUZFUyN0NSYnhtX3hYeXBDZEN5WVZQWUJLUm5kTjV5dnBHN25vY25EUFlURnlNVjU5R0V5bUZTUnNCS2hKR2NZeG1wUHE3UkI2d3VxUF95N1VXVUM1U2cxYlg0ei1n?oc=5"
+    },
+    {
+      "division": "SDV본부",
+      "d": "2026-04-23",
+      "t": "[산업지식퀴즈] 모빌리티 산업, 소프트웨어 중심 차량 SDV 시대",
+      "s": "산업종합저널",
+      "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5teGZKQ3p6eWtaUElwVjk5Q1R1OVprN1JRWWNkZmtOc1UtNWN0YmYzeEc2ME5lUVVkZkhIeHd1QmN3c2xNUFZsQ1ZILURlUFVRVi04?oc=5"
     },
     {
       "division": "AAM본부",
@@ -134,6 +127,48 @@
       "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tMU5iMWNZeEwyS3ZuRFdRcWZINGhVMXhwOUN5dVpMcDBaaGtXaWtmU056c256SHZYM0U0cExOV0xiSVNuckRoODhiMi1ReU5kZTVtUEgxZmdyRzlfVTRzdTNjdFdtZVRI?oc=5"
     },
     {
+      "division": "SDV본부",
+      "d": "2026-11-20",
+      "t": "SDV 시대, 차량 커넥티비티의 경쟁 기준이 달라진다",
+      "s": "https://www.autoelectronics.co.kr/",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5rNUZlRi1zSzNjN1V0TkhnRjRUQUR1a3k2MmFIRkVnRnVuVDd4V1BYZmc3SUo4T2pJcWVxRGRWRG4tUXZ2UkNiYTdvS2hiMEF1MDdaeHRGZHZkT010ZmE5UnpGRHhNMi0tZG95ZDBjOGJZWGJz?oc=5"
+    },
+    {
+      "division": "로보틱스LAB",
+      "d": "2026-11-18",
+      "t": "현대차 아틀라스, 자동차 밖 첫 시험대는 ‘美 반도체 공장’",
+      "s": "조선일보",
+      "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR1Y5TjZpdExDN2pLYzEwZmRpa2V5YjNZOVhpNkNkV1FFaGxrMkpnc0RsZTlsaXNwa1ZKVWR5Z3gyeXA1MUFwNWIzcFRGaU5ENlhGWFl0dFA1T0pNUW5lV2hqLXVNYXdnelFfaG5YdTh3UjA5eDh2MUR2aGJZbFdTRkN4ZzhiSlROU3VSVmVYVQ?oc=5"
+    },
+    {
+      "division": "SDV본부",
+      "d": "2026-11-18",
+      "t": "마이크로칩, SDV 시대 겨냥 차세대 차량용 이더넷 스위치 공개",
+      "s": "테크월드",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DeE1GRjN1VUV2S3JOX3U1MEU2Mmg1eTA1NldSeGE1QkhtVVZ6eHY4Wk1TdlNVbVRLUUliTmRhcEk2OFpnYldVYzB5bnZ3QjFmaWVteHh4bF9WdUhhc1c4aWdJcm5qQVRL?oc=5"
+    },
+    {
+      "division": "AVP본부",
+      "d": "2026-11-17",
+      "t": "美 자율주행차 판매 시작하는데 한국은 첫 실증차량 투입",
+      "s": "https://www.seoulilbo.co.kr/",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9NUEpuVmdpa3MyWFZzaWk1U1pVS2JMbU9QMi1UYkJGR1ZkVUZxU3EyYjRlT09adWxZWjU3bnMtWHkyTmF6SVZhUXJTRG1CakxJZ01pZzhMdFdRcVpvT2dHdVdQZzdLWjM0bjdmendB?oc=5"
+    },
+    {
+      "division": "SDV본부",
+      "d": "2026-11-17",
+      "t": "[인터뷰] 손성배 ST 매니저, “SDV·전동화 시대, ECU 통합·Edge AI 구현 지원”",
+      "s": "e4ds news",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XclVLamU0cVlRTnhRemNNNC1FT2w0WVVaOEZYRkstUlgwUUNfZV94d3RsREYybE02Y3JpakJyb1dSbEtRN0gwa2NoSWVscmYzNVJnTk5R?oc=5"
+    },
+    {
+      "division": "AVP본부",
+      "d": "2026-07-07",
+      "t": "레벨4 자율주행 시대 가속…안전운행 가이드라인 마련",
+      "s": "대한민국 정책브리핑",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UQ0trUzFuRno5emt2RUtLVDBmTnBRREVPSGpfeVFtWVBmcW9XTHJvb1RaZFIyV3FwcFh3eFBTekRWVHhXOEFoTFFqZnJrMnFpVlVaX0k1MVVpX2ltQkxHTWdPdEx4XzBhYi1vbQ?oc=5"
+    },
+    {
       "division": "AVP본부",
       "d": "2026-11-20",
       "t": "모셔널, SAE 레벨 4 로보택시 상용 서비스 위한 안전 프레임워크 공개",
@@ -162,13 +197,6 @@
       "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSckpnYkVtOHRIeEZxUkI2bll1UF9Fdzd0bzFzUXFqX2xpdGdUZWZNZlRSaE93cjM3RG5mLVlwQThrbEJMT0JiR2J6RV95N1BGSURkRjBaWnBVY1BxNUM2VnExM0o?oc=5"
     },
     {
-      "division": "SDV본부",
-      "d": "2026-07-06",
-      "t": "에이전트를 통한 혁신의 가속화: 소프트웨어 정의 차량(SDV)의 보안 확보",
-      "s": "Google Cloud",
-      "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRi1WNFRuMzJrNVhTY2JyWVpSVVZzbDJOTHJhc1FXZkJhWmlBZVVmVlVQcHd2YlU4WDB3cjN0TkI2dERPdFdBYlIyYVp2b2xacWVBWkRqQmdYbjFGbDh4M2E0eW9OcFp1NzNkZDdUZFUyN0NSYnhtX3hYeXBDZEN5WVZQWUJLUm5kTjV5dnBHN25vY25EUFlURnlNVjU5R0V5bUZTUnNCS2hKR2NZeG1wUHE3UkI2d3VxUF95N1VXVUM1U2cxYlg0ei1n?oc=5"
-    },
-    {
       "division": "AVP본부",
       "d": "2026-11-19",
       "t": "프랑스, 웨이브·스텔란티스·엔비디아와 자율주행차 상용화 속도 낸다!",
@@ -195,13 +223,6 @@
       "t": "벤츠, 내년 하반기 도심 자율주행 '레벨2++' 한국 도입…선탑재 차량은 OTA로 업그레이드",
       "s": "전자신문",
       "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE40Z08tQ1NKb2xhd3pncmJrZ3lVSjNxblR0YzlSeENVS1MtTDBKNDl0elBJSk5JNlBjd0NqTjVvbkdUVzB3bVNrQjlWMXM3QQ?oc=5"
-    },
-    {
-      "division": "SDV본부",
-      "d": "2026-10-01",
-      "t": "소프트웨어가 차량 기능을 정의하고, 반도체가 이를 구현한다",
-      "s": "https://www.autoelectronics.co.kr/",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wX1VyN1VYQnc5emVIOUptN0pYLU1mNGNPUEdodkd0ODl0LXFNSVdMQlFZUHJIY3JKbElSNnJiRkZKNzh1RTJ2a1hUd0U4YVhjdlBua0dTbjNwVG9LYWI1NVUtQXp4X09MckVUWUdrVjNJdUQ0?oc=5"
     },
     {
       "division": "경쟁사",
@@ -258,32 +279,11 @@
       "t": "“블랙베리가 택한 유일한 대학”… 국민대, 국내 최초 ‘QNX 센터 코리아’ 설립으로 미래 모빌리티 인재 요람 도약",
       "s": "스마트경제",
       "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11VHN1X1NSZEpaNHFxQS1wUlJGa3hqU09wTUNtcXFhTG5LQ284TlYtWWd0X0FabkpUdHJYVVNFRk5Nd2hvSkg1cktwRFlPeXdXMGkzWTRvYzdaTXpHVmlybUUzc0QyYVdfY3RIclhmVQ?oc=5"
-    },
-    {
-      "division": "SDV본부",
-      "d": "2026-10-06",
-      "t": "Applied Intuition, 혼다자동차와 차세대 소프트웨어 정의 차량(SDV) 개발 가속화를 위한 협력 발표",
-      "s": "KIPOST",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBneWFhWDloaG9OUUR1QUVpcEpDY0tjUlQtYTh6WVFUSkVaaFl5SERpblZBNDFvZmxUZEtOcFlQX3dOZGlFblloMTJsX3dsTk9jeTVWdk1WaW5rZ1hwUUxXQ01NaWUtUmxY0gFsQVVfeXFMTTFvMVJCZ2IySkJYMi14bi05Wm9hSHJrOTg2QU9hSTdmWEo1OS1SbXB1ODAzVG8ta0I1Q2czdFNteTNJNXhrbWFucGs0U0pCZzVDbTJud293VUZXZE14UTVsdVFKNEJ1emxWY2pi?oc=5"
-    },
-    {
-      "division": "로보틱스LAB",
-      "d": "2026-11-13",
-      "t": "[사이언스영상] 로봇도 롤러스케이트를? 바퀴로 달리는 휴머노이드",
-      "s": "DongA Science",
-      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mU3NzR09ZTlFtWTRiZzhiemZ6U1pfUlJONElBQmN2MHpTbWJDU2loWUtFRDRFYkVnNXY3LUtFbUV3M2xkQWNBUjhSNWZjLTloZktJUw?oc=5"
-    },
-    {
-      "division": "수소연료전지",
-      "d": "2026-11-11",
-      "t": "현대차그룹, 수소 생산·활용 모델 구체화…밸류체인 사업화 속도",
-      "s": "PRESS9",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GcTJULWd3NVRuSzdZZHMyOXY4Y2p2NlJPQ1ZmUm5HbXhjbHFLdG1ab1A0ajRyUXpjN3luM2JDdVI4bk51a3NRaFVVZFJ0cENKd0MtMkZfcGJZNFA5dXFYX3dQNEo?oc=5"
     }
   ],
   "fx": {
-    "usdkrw": 1343.33,
-    "updatedAt": "2026-11-22T01:05:53.534Z"
+    "usdkrw": 1343.6,
+    "updatedAt": "2026-11-23T01:29:09.233Z"
   },
-  "updatedAt": "2026-11-22T01:05:53.534Z"
+  "updatedAt": "2026-11-23T01:29:09.233Z"
 }
